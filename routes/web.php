@@ -17,3 +17,8 @@ Route::get('/condition-generale', function () {
 Route::get('/a-propos', function () {
     return view('about');
 });
+
+
+Route::get('/faq', function () {
+    return view('faq');
+});

@@ -1,4 +1,4 @@
-<section class="bg-[#812755] min-h-screen relative overflow-hidden">
+<section class="bg-[#812755]  relative overflow-hidden">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 relative z-10">
       <div class="grid lg:grid-cols-2 gap-12 items-center">
         <!-- Text Content -->

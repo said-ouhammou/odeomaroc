@@ -1,6 +1,4 @@
 <x-layout>
-    <x-header/>
-
     <section class="bg-[#1C1C1C] min-h-screen relative overflow-hidden">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 relative z-10">
           <div class="grid lg:grid-cols-2 gap-12 items-center">
@@ -69,7 +67,5 @@
         </div>
         <div class="absolute inset-0 bg-gradient-to-br from-[#1C1C1C] to-black opacity-50"></div>
     </section>
-
-    <x-footer/>
 </x-layout>
 

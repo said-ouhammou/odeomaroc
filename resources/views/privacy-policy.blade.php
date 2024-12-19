@@ -1,5 +1,5 @@
 <x-layout>
-    <x-header/>
+
 
     <x-privacy.hero/>
     
@@ -74,5 +74,5 @@
         </div>
     </main>
 
-    <x-footer/>
+
 </x-layout>

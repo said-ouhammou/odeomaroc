@@ -1,4 +1,4 @@
-<section class="bg-[#1C1C1C] min-h-screen relative overflow-hidden">
+<section class="bg-[#812755] min-h-screen relative overflow-hidden">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 relative z-10">
       <div class="grid lg:grid-cols-2 gap-12 items-center">
         <!-- Text Content -->
@@ -28,19 +28,19 @@
   
         <!-- Image Content -->
         <div class="right max-h-[400px] grid grid-cols-2 gap-2">
-            <div class="bg-[#E5E7EB] rounded-3xl p-8" style="clip-path: polygon(20% 0%, 80% 0%, 100% 0, 100% 100%, 80% 100%, 20% 100%, 0 71%, 0 26%);">
+            <div class="bg-[#f8f5f2] rounded-3xl p-8 " style="border-top-left-radius: 50%;border-bottom-left-radius:50%;" >
               <img 
-                src="https://odeo.ma/images/banner/single-welcome.png" 
-                alt="POS Terminal Display" 
-                class="w-full h-auto"
-              />
-            </div>
-            <div class="bg-[#E5E7EB] rounded-3xl p-8">
-                <img 
-                  src="https://odeo.ma/images/banner/single-welcome.png" 
+                  src="{{asset('/images/products/odeo-pos.png')}}" 
                   alt="POS Terminal Display" 
                   class="w-full h-auto"
                 />
+            </div>
+            <div class="bg-[#f8f5f2] rounded-3xl p-8">
+                <img 
+                src="{{asset('/images/products/pos-o.png')}}" 
+                alt="POS Terminal Display" 
+                class="w-full h-auto"
+              />
             </div>
             
         </div>

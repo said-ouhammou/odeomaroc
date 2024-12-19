@@ -6,6 +6,14 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/solutions', function () {
+    return view('solution');
+});
+
+Route::get('/details', function () {
+    return view('product-details');
+});
+
 Route::get('/politique-de-protection-de-la-vie-privee', function () {
     return view('privacy-policy');
 });

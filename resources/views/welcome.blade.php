@@ -9,6 +9,10 @@
   
   {{-- products --}}
   <x-products/>
+
+  {{-- tab --}}
+
+  @include('partials.tabs')
   
   {{-- stats --}}
   <x-cards/>

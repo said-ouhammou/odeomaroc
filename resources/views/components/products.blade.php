@@ -3,7 +3,7 @@
         <div class="grid md:grid-cols-2 gap-4 items-center justify-items-center ">
             
             <div class="w-full max-w-xl bg-white border border-gray-200 rounded-3xl dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
-                <a href="#">
+                <a href="/solutions">
                     <div class="">
                         <img src="{{asset('/images/b/b-1.jpg')}}" alt="" class="w-full max-h-[250px] object-cover">
                     </div>
@@ -23,7 +23,7 @@
             </div>
 
             <div class="w-full max-w-xl bg-white border border-gray-200 rounded-3xl dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
-                <a href="/test">
+                <a href="/solutions">
                     <div class="">
                         <img src="{{asset('/images/b/b-2.jpg')}}" alt="" class="w-full max-h-[250px] object-cover">
                     </div>

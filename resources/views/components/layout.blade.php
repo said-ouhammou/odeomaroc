@@ -7,6 +7,7 @@
     <title>Odeo</title>
     @vite('resources/css/app.css')
     @vite('resources/js/app.js')
+    <script src="//unpkg.com/alpinejs" defer></script>
 
 </head>
 <body>

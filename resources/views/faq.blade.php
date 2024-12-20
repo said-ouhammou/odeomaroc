@@ -1,12 +1,12 @@
 <x-layout>
 
-    <section class="bg-[#1C1C1C] min-h-screen relative overflow-hidden">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 relative z-10">
-            <h1 class="text-white text-4xl sm:text-5xl font-bold leading-tight mb-12">
+    <section class="bg-white min-h-screen py-16 px-4 sm:px-6 lg:px-8">
+        <div class="max-w-3xl mx-auto">
+            <h1 class="text-4xl font-extrabold text-gray-900 text-center mb-8">
                 Foire Aux Questions
             </h1>
 
-            <div class="space-y-6">
+            <div class="space-y-4">
                 @php
                 $faqs = [
                     [
@@ -37,29 +37,49 @@
                 @endphp
 
                 @foreach ($faqs as $faq)
-                    <div x-data="{ open: false }" class="border-b border-gray-700">
-                        <button @click="open = !open" class="flex justify-between items-center w-full py-4 text-left">
-                            <span class="text-lg font-medium text-white">{{ $faq['question'] }}</span>
-                            <svg class="w-6 h-6 text-white" :class="{'rotate-180': open}" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <div x-data="{ open: false }" class="border border-gray-200 rounded-lg overflow-hidden">
+                        <button 
+                            @click="open = !open" 
+                            class="flex justify-between items-center w-full px-4 py-4 text-lg font-medium text-left text-gray-900 bg-gray-100 hover:bg-gray-200 focus:outline-none focus:ring-2 focus:ring-[#800020] focus:ring-opacity-50"
+                        >
+                            <span>{{ $faq['question'] }}</span>
+                            <svg 
+                                class="w-5 h-5 text-gray-500" 
+                                :class="{'transform rotate-180': open}"
+                                fill="none" 
+                                stroke="currentColor" 
+                                viewBox="0 0 24 24" 
+                                xmlns="http://www.w3.org/2000/svg"
+                            >
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
                             </svg>
                         </button>
-                        <div x-show="open" class="pb-4">
-                            <p class="text-gray-300">{{ $faq['answer'] }}</p>
+                        <div 
+                            x-show="open" 
+                            x-transition:enter="transition ease-out duration-200" 
+                            x-transition:enter-start="opacity-0 transform scale-95" 
+                            x-transition:enter-end="opacity-100 transform scale-100" 
+                            x-transition:leave="transition ease-in duration-100" 
+                            x-transition:leave-start="opacity-100 transform scale-100" 
+                            x-transition:leave-end="opacity-0 transform scale-95" 
+                            class="px-4 py-5 bg-white"
+                        >
+                            <p class="text-gray-700">{{ $faq['answer'] }}</p>
                         </div>
                     </div>
                 @endforeach
             </div>
 
             <div class="mt-12 text-center">
-                <p class="text-white text-lg">Vous ne trouvez pas la réponse que vous cherchez ?</p>
-                <a href="#contact" class="inline-block mt-4 px-6 py-3 bg-[#800020] text-white font-semibold rounded-lg hover:bg-[#600018] transition duration-300">Contactez-nous</a>
+                <p class="text-gray-700 text-lg">Vous ne trouvez pas la réponse que vous cherchez ?</p>
+                <a 
+                    href="/contact" 
+                    class="inline-block mt-4 px-6 py-3 bg-[#800020] text-white font-semibold rounded-lg hover:bg-[#600018] transition duration-300 focus:outline-none focus:ring-2 focus:ring-[#800020] focus:ring-opacity-50"
+                >
+                    Contactez-nous
+                </a>
             </div>
         </div>
-
-        <!-- Background Gradient -->
-        <div class="absolute inset-0 bg-gradient-to-br from-[#1C1C1C] to-black opacity-50"></div>
     </section>
-
 
 </x-layout>

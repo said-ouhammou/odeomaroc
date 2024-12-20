@@ -43,7 +43,7 @@
                             <div class="absolute bottom-0 w-full p-8 bg-[#812755] rounded-3xl border-2 border-solid border-white">
                                 <div class="text-white font-medium mb-2">RESTAURATEUR</div>
                                 <h2 class="text-3xl font-bold mb-4 text-white">On te connaît si bien.</h2>
-                                <a href="#" class="text-white flex items-center">
+                                <a href="/solutions/restaurant" class="text-white flex items-center">
                                     Découvrir
                                     <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>

@@ -14,6 +14,24 @@ class ListingsController extends Controller
     }
 
     public function getListing($slug = null){
+
+        /*
+            resturant
+            snack
+            cafe
+            salon de tea
+            patersrie
+            boulangrie
+            fast food
+            night club
+            lounge
+            bar
+            pisin
+            pms
+            hotel
+            maison d'hot
+            riad
+        */
         
         $listings = [
             [

@@ -11,9 +11,6 @@
         color:#fff;
     }
 
-    /* .swiper-button-next::after{
-        font-size: 15px !important;
-    } */
     .swiper-pagination-progressbar .swiper-pagination-progressbar-fill{
         background-color: #812755 !important;
     }

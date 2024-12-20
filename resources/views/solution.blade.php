@@ -6,10 +6,10 @@
                     CAISSE ENREGISTREUSE - ODEO
                 </p>
                 <h1 class="text-white text-4xl sm:text-5xl font-bold leading-tight">
-                    Tirez le meilleur de votre activité
+                    La révolution tactile pour votre commerce
                 </h1>
                 <p class="text-gray-300 text-ld leading-relaxed max-w-2xl">
-                    Odeo, le logiciel de caisse tout-en-un et sa plateforme de paiements intégrée, équipe les meilleurs restaurants et commerçants dans plus de 165 000 emplacements dans le monde.*
+                    Premier choix en matière de caisse tactile au Maroc, Odeo équipe plus de 165 000 commerces avec sa solution tout-en-un. Découvrez nos caisses enregistreuses nouvelle génération à prix compétitifs.
                 </p>
             
                 <div>

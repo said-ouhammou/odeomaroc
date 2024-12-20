@@ -6,10 +6,10 @@
                     CAISSE ENREGISTREUSE - ODEO
                 </p>
                 <h1 class="text-white text-4xl sm:text-5xl font-bold leading-tight">
-                    Tirez le meilleur de votre activité
+                    La révolution tactile pour votre commerce
                 </h1>
                 <p class="text-gray-300 text-ld leading-relaxed max-w-2xl">
-                    Odeo, le logiciel de caisse tout-en-un et sa plateforme de paiements intégrée, équipe les meilleurs restaurants et commerçants dans plus de 165 000 emplacements dans le monde.*
+                    Premier choix en matière de caisse tactile au Maroc, Odeo équipe plus de 165 000 commerces avec sa solution tout-en-un. Découvrez nos caisses enregistreuses nouvelle génération à prix compétitifs.
                 </p>
             
                 <div>
@@ -28,6 +28,36 @@
             </div>
         </div>
     </main>
+
+    {{-- <section class="p-8">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
+            <div class="border-[#4a1d34] border-solid border-2 text-black p-6 rounded-lg">
+                <h3 class="text-xl font-bold mb-3">Solution Complète</h3>
+                <ul class="space-y-2">
+                    <li>✓ Caisse tactile intuitive</li>
+                    <li>✓ Gestion des stocks</li>
+                    <li>✓ Rapports détaillés</li>
+                </ul>
+            </div>
+            <div class="border-[#4a1d34] border-solid border-2 text-black p-6 rounded-lg">
+                <h3 class="text-xl font-bold mb-3">Prix Maroc Adaptés</h3>
+                <ul class="space-y-2">
+                    <li>✓ Tarifs compétitifs</li>
+                    <li>✓ Installation incluse</li>
+                    <li>✓ Support 24/7</li>
+                </ul>
+            </div>
+            <div class="border-[#4a1d34] border-solid border-2 text-black p-6 rounded-lg">
+                <h3 class="text-xl font-bold mb-3">Multi-commerces</h3>
+                <ul class="space-y-2">
+                    <li>✓ Restaurants</li>
+                    <li>✓ Boutiques</li>
+                    <li>✓ Cafés</li>
+                </ul>
+            </div>
+        </div>
+    </section> --}}
+    
     @include('partials.tabs')
 
     <main class="max-w-7xl bg-[#f8f5f2]  my-2 rounded-[50px] mx-auto px-4 sm:px-6 lg:px-8 py-12">

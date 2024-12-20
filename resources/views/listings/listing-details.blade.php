@@ -187,6 +187,32 @@
         <x-reviews/>
         <x-buttons/>
     @else
-        <p>404</p>
+    <div class="bg-[#f8f5f2]">
+    <div class="max-w-md w-full mx-auto py-8 ">
+        <div class="text-center mb-8">
+            <h1 class="text-8xl font-bold mb-4 text-[#812755]">404</h1>
+            <h2 class="text-3xl font-semibold mb-2 text-gray-700">Page Non Trouvée</h2>
+            <p class="text-lg mb-8 text-[#812755]">Désolé, la page que vous recherchez semble avoir disparu dans les méandres du web.</p>
+        </div>
+        <div class="bg-white p-8 rounded-lg shadow-lg">
+            <p class="text-lg mb-6">Que souhaitez-vous faire maintenant ?</p>
+            <ul class="space-y-4">
+                <li>
+                    <a href="/" class="block w-full text-center bg-[#812755] text-[#f8f5f2] py-3 rounded-lg hover:bg-[#a53f7c] transition-colors duration-300">
+                        Retour à l'accueil
+                    </a>
+                </li>
+                <li>
+                    <a href="/solutions" class="block w-full text-center border-2 border-[#812755] text-[#812755] py-3 rounded-lg hover:bg-[#812755] hover:text-[#f8f5f2] transition-colors duration-300">
+                        Découvrez nos solutions
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="mt-8 text-center text-sm text-[#812755]/60">
+            <p>Si vous pensez qu'il s'agit d'une erreur, veuillez <a href="/contact" class="underline hover:text-[#a53f7c]">nous contacter</a>.</p>
+        </div>
+    </div>
+</div>
     @endif
 </x-layout>

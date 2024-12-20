@@ -15,22 +15,42 @@ class ListingsController extends Controller
 
     public function getListing($slug = null){
 
+        // add pages for  !!!!!
+        // nos partenaires
+        // technologies
+
         /*
-            resturant
-            snack
-            cafe
-            salon de tea
-            patersrie
-            boulangrie
-            fast food
-            night club
-            lounge
-            bar
-            pisin
-            pms
-            hotel
-            maison d'hot
-            riad
+            restaurant (correct)
+            Snack (correct)
+            Café (correct)
+            Salon de thé
+            Pâtisserie
+            Boulangerie
+            Fast-food (ou Restauration rapide)
+            Night-club (ou Boîte de nuit)
+            Lounge (correct)
+            Bar (correct)
+            Piscine
+            PMS (si c’est un système, utilisez Système PMS pour plus de clarté)
+            Hôtel
+            Maison d’hôtes
+            Riad (correct)
+            ===================================================
+            Caisse enregistreuse moderne
+            Système de caisse POS
+            Logiciel PMS pour hôtels
+            Solution de gestion des stocks
+            Caisse enregistreuse pour restaurant
+            POS pour commerces
+            PMS pour maisons d’hôtes et riads
+            Automatisation des paiements
+            Caisse tactile intuitive
+            Gestion des ventes et des paiements
+            Solution complète de caisse
+            Caisse enregistreuse pour fast-food
+            POS pour bars et cafés
+            Système de caisse tout-en-un
+            Logiciel de gestion hôtelière PMS
         */
         
         $listings = [
@@ -92,11 +112,11 @@ class ListingsController extends Controller
             [
                 "id"=>2,
                 "title"=>"Simplifiez la gestion de votre bar",
-                "slug"=>"bar",
+                "slug"=>"snack",
                 "short_description"=>"Odeo propose des solutions intuitives pour gérer les commandes et les paiements dans les bars. ",
                 "description"=>"",
                 "image"=>[
-                    "url"=>"/images/b/bar.jpg",
+                    "url"=>"/images/b/snack.jpg",
                     "alt"=>"odeo - caisse enregesture - resturants",
                 ],
                 "sections"=>[
@@ -147,116 +167,6 @@ class ListingsController extends Controller
             [
                 "id"=>2,
                 "title"=>"Transformez votre hôtel avec Odeo PMS",
-                "slug"=>"hotel",
-                "short_description"=>"Odeo propose des solutions intuitives pour gérer les commandes et les paiements dans les bars. ",
-                "description"=>"",
-                "image"=>[
-                    "url"=>"/images/b/b-2.jpg",
-                    "alt"=>"odeo - caisse enregesture - resturants",
-                ],
-                "sections"=>[
-                    [
-                        "title"=>"Stock avec Odeo Inventory",
-                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
-                        "image"=>[
-                            "url"=>"/images/products/odeo-pos.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
-                        ],
-                        "features"=>[
-                            'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
-                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
-                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
-                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
-                        ],
-                    ],
-                    [
-                        "title"=>"Stock avec Lightspeed Inventory",
-                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
-                        "image"=>[
-                            "url"=>"/images/products/pos-o.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
-                        ],
-                        "features"=>[
-                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
-                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
-                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
-                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
-                        ],
-                    ],
-                    [
-                        "title"=>"Stock avec Lightspeed Inventory",
-                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
-                        "image"=>[
-                            "url"=>"/images/products/odeo-pms.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
-                        ],
-                        "features"=>[
-                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
-                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute ",
-                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
-                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
-                        ],
-                    ],
-                ],
-            ],
-            [
-                "id"=>2,
-                "title"=>"Boostez votre boutique",
-                "slug"=>"boutique",
-                "short_description"=>"Odeo propose des solutions intuitives pour gérer les commandes et les paiements dans les bars. ",
-                "description"=>"",
-                "image"=>[
-                    "url"=>"/images/b/boutique.jpg",
-                    "alt"=>"odeo - caisse enregesture - resturants",
-                ],
-                "sections"=>[
-                    [
-                        "title"=>"Stock avec Odeo Inventory",
-                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
-                        "image"=>[
-                            "url"=>"/images/products/odeo-pos.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
-                        ],
-                        "features"=>[
-                            'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
-                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
-                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
-                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
-                        ],
-                    ],
-                    [
-                        "title"=>"Stock avec Lightspeed Inventory",
-                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
-                        "image"=>[
-                            "url"=>"/images/products/pos-o.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
-                        ],
-                        "features"=>[
-                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
-                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
-                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
-                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
-                        ],
-                    ],
-                    [
-                        "title"=>"Stock avec Lightspeed Inventory",
-                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
-                        "image"=>[
-                            "url"=>"/images/products/odeo-pms.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
-                        ],
-                        "features"=>[
-                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
-                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute ",
-                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
-                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
-                        ],
-                    ],
-                ],
-            ],
-            [
-                "id"=>2,
-                "title"=>"Un service parfait pour votre café",
                 "slug"=>"cafe",
                 "short_description"=>"Odeo propose des solutions intuitives pour gérer les commandes et les paiements dans les bars. ",
                 "description"=>"",
@@ -311,117 +221,117 @@ class ListingsController extends Controller
             ],
             [
                 "id"=>2,
+                "title"=>"Boostez votre boutique",
+                "slug"=>"salon-de-the",
+                "short_description"=>"Odeo propose des solutions intuitives pour gérer les commandes et les paiements dans les bars. ",
+                "description"=>"",
+                "image"=>[
+                    "url"=>"/images/b/salon-de-the.jpg",
+                    "alt"=>"odeo - caisse enregesture - resturants",
+                ],
+                "sections"=>[
+                    [
+                        "title"=>"Stock avec Odeo Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
+                        "image"=>[
+                            "url"=>"/images/products/odeo-pos.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                    [
+                        "title"=>"Stock avec Lightspeed Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
+                        "image"=>[
+                            "url"=>"/images/products/pos-o.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                    [
+                        "title"=>"Stock avec Lightspeed Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
+                        "image"=>[
+                            "url"=>"/images/products/odeo-pms.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                ],
+            ],
+            [
+                "id"=>2,
+                "title"=>"Un service parfait pour votre café",
+                "slug"=>"patisserie",
+                "short_description"=>"Odeo propose des solutions intuitives pour gérer les commandes et les paiements dans les bars. ",
+                "description"=>"",
+                "image"=>[
+                    "url"=>"/images/b/patisserie.jpg",
+                    "alt"=>"odeo - caisse enregesture - resturants",
+                ],
+                "sections"=>[
+                    [
+                        "title"=>"Stock avec Odeo Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
+                        "image"=>[
+                            "url"=>"/images/products/odeo-pos.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                    [
+                        "title"=>"Stock avec Lightspeed Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
+                        "image"=>[
+                            "url"=>"/images/products/pos-o.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                    [
+                        "title"=>"Stock avec Lightspeed Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
+                        "image"=>[
+                            "url"=>"/images/products/odeo-pms.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                ],
+            ],
+            [
+                "id"=>2,
                 "title"=>"Gérez votre spa efficacement",
-                "slug"=>"spa",
-                "short_description"=>"Odeo propose des solutions intuitives pour gérer les commandes et les paiements dans les bars. ",
-                "description"=>"",
-                "image"=>[
-                    "url"=>"/images/b/spa.jpg",
-                    "alt"=>"odeo - caisse enregesture - resturants",
-                ],
-                "sections"=>[
-                    [
-                        "title"=>"Stock avec Odeo Inventory",
-                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
-                        "image"=>[
-                            "url"=>"/images/products/odeo-pos.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
-                        ],
-                        "features"=>[
-                            'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
-                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
-                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
-                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
-                        ],
-                    ],
-                    [
-                        "title"=>"Stock avec Lightspeed Inventory",
-                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
-                        "image"=>[
-                            "url"=>"/images/products/pos-o.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
-                        ],
-                        "features"=>[
-                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
-                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
-                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
-                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
-                        ],
-                    ],
-                    [
-                        "title"=>"Stock avec Lightspeed Inventory",
-                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
-                        "image"=>[
-                            "url"=>"/images/products/odeo-pms.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
-                        ],
-                        "features"=>[
-                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
-                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute ",
-                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
-                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
-                        ],
-                    ],
-                ],
-            ],
-            [
-                "id"=>2,
-                "title"=>"Améliorez votre salon de coiffure",
-                "slug"=>"coiffure",
-                "short_description"=>"Odeo propose des solutions intuitives pour gérer les commandes et les paiements dans les bars. ",
-                "description"=>"",
-                "image"=>[
-                    "url"=>"/images/b/coiffure.jpg",
-                    "alt"=>"odeo - caisse enregesture - resturants",
-                ],
-                "sections"=>[
-                    [
-                        "title"=>"Stock avec Odeo Inventory",
-                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
-                        "image"=>[
-                            "url"=>"/images/products/odeo-pos.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
-                        ],
-                        "features"=>[
-                            'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
-                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
-                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
-                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
-                        ],
-                    ],
-                    [
-                        "title"=>"Stock avec Lightspeed Inventory",
-                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
-                        "image"=>[
-                            "url"=>"/images/products/pos-o.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
-                        ],
-                        "features"=>[
-                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
-                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
-                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
-                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
-                        ],
-                    ],
-                    [
-                        "title"=>"Stock avec Lightspeed Inventory",
-                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
-                        "image"=>[
-                            "url"=>"/images/products/odeo-pms.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
-                        ],
-                        "features"=>[
-                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
-                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute ",
-                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
-                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
-                        ],
-                    ],
-                ],
-            ],
-            [
-                "id"=>2,
-                "title"=>"Transformez votre boulangerie",
                 "slug"=>"boulangerie",
                 "short_description"=>"Odeo propose des solutions intuitives pour gérer les commandes et les paiements dans les bars. ",
                 "description"=>"",
@@ -476,7 +386,7 @@ class ListingsController extends Controller
             ],
             [
                 "id"=>2,
-                "title"=>"Une solution pour votre fast-food",
+                "title"=>"Améliorez votre salon de coiffure",
                 "slug"=>"fast-food",
                 "short_description"=>"Odeo propose des solutions intuitives pour gérer les commandes et les paiements dans les bars. ",
                 "description"=>"",
@@ -531,12 +441,397 @@ class ListingsController extends Controller
             ],
             [
                 "id"=>2,
-                "title"=>"Une solution pour votre pressage",
-                "slug"=>"pressing",
+                "title"=>"Transformez votre boulangerie",
+                "slug"=>"night-club",
                 "short_description"=>"Odeo propose des solutions intuitives pour gérer les commandes et les paiements dans les bars. ",
                 "description"=>"",
                 "image"=>[
-                    "url"=>"/images/b/pressing.jpg",
+                    "url"=>"/images/b/night-club.jpg",
+                    "alt"=>"odeo - caisse enregesture - resturants",
+                ],
+                "sections"=>[
+                    [
+                        "title"=>"Stock avec Odeo Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
+                        "image"=>[
+                            "url"=>"/images/products/odeo-pos.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                    [
+                        "title"=>"Stock avec Lightspeed Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
+                        "image"=>[
+                            "url"=>"/images/products/pos-o.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                    [
+                        "title"=>"Stock avec Lightspeed Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
+                        "image"=>[
+                            "url"=>"/images/products/odeo-pms.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                ],
+            ],
+            [
+                "id"=>2,
+                "title"=>"Une solution pour votre fast-food",
+                "slug"=>"lounge",
+                "short_description"=>"Odeo propose des solutions intuitives pour gérer les commandes et les paiements dans les bars. ",
+                "description"=>"",
+                "image"=>[
+                    "url"=>"/images/b/lounge.jpg",
+                    "alt"=>"odeo - caisse enregesture - resturants",
+                ],
+                "sections"=>[
+                    [
+                        "title"=>"Stock avec Odeo Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
+                        "image"=>[
+                            "url"=>"/images/products/odeo-pos.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                    [
+                        "title"=>"Stock avec Lightspeed Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
+                        "image"=>[
+                            "url"=>"/images/products/pos-o.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                    [
+                        "title"=>"Stock avec Lightspeed Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
+                        "image"=>[
+                            "url"=>"/images/products/odeo-pms.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                ],
+            ],
+            [
+                "id"=>2,
+                "title"=>"Une solution pour votre pressage",
+                "slug"=>"bar",
+                "short_description"=>"Odeo propose des solutions intuitives pour gérer les commandes et les paiements dans les bars. ",
+                "description"=>"",
+                "image"=>[
+                    "url"=>"/images/b/bar.jpg",
+                    "alt"=>"odeo - caisse enregesture - resturants",
+                ],
+                "sections"=>[
+                    [
+                        "title"=>"Stock avec Odeo Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
+                        "image"=>[
+                            "url"=>"/images/products/odeo-pos.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                    [
+                        "title"=>"Stock avec Lightspeed Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
+                        "image"=>[
+                            "url"=>"/images/products/pos-o.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                    [
+                        "title"=>"Stock avec Lightspeed Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
+                        "image"=>[
+                            "url"=>"/images/products/odeo-pms.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                ],
+            ],
+            [
+                "id"=>2,
+                "title"=>"Une solution pour votre pressage",
+                "slug"=>"spa",
+                "short_description"=>"Odeo propose des solutions intuitives pour gérer les commandes et les paiements dans les bars. ",
+                "description"=>"",
+                "image"=>[
+                    "url"=>"/images/b/spa.jpg",
+                    "alt"=>"odeo - caisse enregesture - resturants",
+                ],
+                "sections"=>[
+                    [
+                        "title"=>"Stock avec Odeo Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
+                        "image"=>[
+                            "url"=>"/images/products/odeo-pos.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                    [
+                        "title"=>"Stock avec Lightspeed Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
+                        "image"=>[
+                            "url"=>"/images/products/pos-o.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                    [
+                        "title"=>"Stock avec Lightspeed Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
+                        "image"=>[
+                            "url"=>"/images/products/odeo-pms.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                ],
+            ],
+            [
+                "id"=>2,
+                "title"=>"Une solution pour votre pressage",
+                "slug"=>"piscine",
+                "short_description"=>"Odeo propose des solutions intuitives pour gérer les commandes et les paiements dans les bars. ",
+                "description"=>"",
+                "image"=>[
+                    "url"=>"/images/b/pool.jpg",
+                    "alt"=>"odeo - caisse enregesture - resturants",
+                ],
+                "sections"=>[
+                    [
+                        "title"=>"Stock avec Odeo Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
+                        "image"=>[
+                            "url"=>"/images/products/odeo-pos.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                    [
+                        "title"=>"Stock avec Lightspeed Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
+                        "image"=>[
+                            "url"=>"/images/products/pos-o.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                    [
+                        "title"=>"Stock avec Lightspeed Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
+                        "image"=>[
+                            "url"=>"/images/products/odeo-pms.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                ],
+            ],
+            [
+                "id"=>2,
+                "title"=>"Une solution pour votre pressage",
+                "slug"=>"hotel",
+                "short_description"=>"Odeo propose des solutions intuitives pour gérer les commandes et les paiements dans les bars. ",
+                "description"=>"",
+                "image"=>[
+                    "url"=>"/images/b/b-2.jpg",
+                    "alt"=>"odeo - caisse enregesture - resturants",
+                ],
+                "sections"=>[
+                    [
+                        "title"=>"Stock avec Odeo Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
+                        "image"=>[
+                            "url"=>"/images/products/odeo-pos.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                    [
+                        "title"=>"Stock avec Lightspeed Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
+                        "image"=>[
+                            "url"=>"/images/products/pos-o.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                    [
+                        "title"=>"Stock avec Lightspeed Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
+                        "image"=>[
+                            "url"=>"/images/products/odeo-pms.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                ],
+            ],
+            [
+                "id"=>2,
+                "title"=>"Une solution pour votre pressage",
+                "slug"=>"maison-d-hotes",
+                "short_description"=>"Odeo propose des solutions intuitives pour gérer les commandes et les paiements dans les bars. ",
+                "description"=>"",
+                "image"=>[
+                    "url"=>"/images/b/maisondhotes.jpg",
+                    "alt"=>"odeo - caisse enregesture - resturants",
+                ],
+                "sections"=>[
+                    [
+                        "title"=>"Stock avec Odeo Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
+                        "image"=>[
+                            "url"=>"/images/products/odeo-pos.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                    [
+                        "title"=>"Stock avec Lightspeed Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
+                        "image"=>[
+                            "url"=>"/images/products/pos-o.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                    [
+                        "title"=>"Stock avec Lightspeed Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
+                        "image"=>[
+                            "url"=>"/images/products/odeo-pms.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                ],
+            ],
+            [
+                "id"=>2,
+                "title"=>"Une solution pour votre pressage",
+                "slug"=>"riad",
+                "short_description"=>"Odeo propose des solutions intuitives pour gérer les commandes et les paiements dans les bars. ",
+                "description"=>"",
+                "image"=>[
+                    "url"=>"/images/b/riad.jpg",
                     "alt"=>"odeo - caisse enregesture - resturants",
                 ],
                 "sections"=>[
@@ -587,8 +882,10 @@ class ListingsController extends Controller
         ];
 
         if($slug) {
+            $slug = strtolower($slug);
+            $slug = trim($slug);
             foreach($listings as $listing) {
-                if($listing['slug'] === $slug)
+                if($listing['slug'] == $slug)
                     return $listing;
             }
         }

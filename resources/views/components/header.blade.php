@@ -76,18 +76,8 @@
                               </a>
                             </li>
                             <li>
-                              <a href="/solutions/bar" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-                                Bar
-                              </a>
-                            </li>
-                            <li>
-                              <a href="/solutions/hotel" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-                                Hotel
-                              </a>
-                            </li>
-                            <li>
-                              <a href="/solutions/boutique" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-                                Boutique
+                              <a href="/solutions/snack" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                                Snack
                               </a>
                             </li>
                             <li>
@@ -96,13 +86,13 @@
                               </a>
                             </li>
                             <li>
-                              <a href="/solutions/spa" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-                                Spas
+                              <a href="/solutions/salon-de-the" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                                Salon de thé
                               </a>
                             </li>
                             <li>
-                              <a href="/solutions/coiffure" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-                                Coiffure
+                              <a href="/solutions/patisserie" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                                Pâtisserie
                               </a>
                             </li>
                             <li>
@@ -111,8 +101,48 @@
                               </a>
                             </li>
                             <li>
-                              <a href="/solutions/pressing" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-                                Pressing
+                              <a href="/solutions/fast-food" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                                Fast-food
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/solutions/night-club" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                                Night-club 
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/solutions/lounge" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                                Lounge
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/solutions/bar" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                                Bar
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/solutions/spa" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                                spa
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/solutions/piscine" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                                Piscine
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/solutions/hotel" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                                Hôtel
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/solutions/maison-d-hotes" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                                Maison d’hôtes
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/solutions/riad" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                                Riad
                               </a>
                             </li>
                             

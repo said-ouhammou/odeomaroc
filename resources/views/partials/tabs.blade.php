@@ -1,19 +1,23 @@
 <style>
     .swiper-button-next, .swiper-button-prev{
         background-color: #491c33;
-        width: 40px !important;
-        height: 40px !important;
+        width: 30px !important;
+        height: 30px !important;
         border-radius: 50%;
     }
 
     .swiper-button-next::after, .swiper-button-prev::after{
-        font-size: 25px !important;
+        font-size: 15px !important;
         color:#fff;
     }
 
+    /* .swiper-button-next::after{
+        font-size: 15px !important;
+    } */
     .swiper-pagination-progressbar .swiper-pagination-progressbar-fill{
         background-color: #812755 !important;
     }
+
 </style>
 
 <div class="">
@@ -58,8 +62,8 @@
                         pressing
                 </button>
             </nav>
-            {{-- <div class="swiper-button-next"></div> --}}
-            {{-- <div class="swiper-button-prev"></div> --}}
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
             <div class="swiper-pagination "></div>
         </div>
 

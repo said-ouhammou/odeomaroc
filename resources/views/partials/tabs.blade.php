@@ -55,14 +55,14 @@
 
                     <!-- Right Column -->
                     <div class="lg:w-1/2 text-black">
-                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">L'application a été pensée par un restaurateur qui connaît tes contraintes !</h1>
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Notre caisse enregistreuse Maroc est conçue par des restaurateurs pour les restaurants !!</h1>
                         
                         <p class="text-[#812755] text-lg mb-3">
-                            Notre mission ne se limite pas au déploiement d'une simple caisse enregistreuse.
+                            Découvrez une solution complète au-delà d'une simple caisse tactile - Compatible TPE Maroc et adaptée aux fast-food.
                         </p>
 
                         <p class="text-gray-700 mb-8">
-                            Popina s'efforce de mettre à disposition une application personnalisée entre les mains des restaurateurs qui l'utilisent. Souscris à tes indispensables et ajoute de nombreux services et accessoires, selon tes besoins, quelle que soit la taille de ta surface de restauration.
+                            Odeo propose une solution de caisse manager personnalisée qui révolutionne la gestion de votre restaurant. Notre système combine caisse tactile et logiciel de gestion avancé, avec des prix caisse enregistreuse Maroc adaptés à tous les budgets. Que vous gériez un restaurant traditionnel ou un fast-food, notre solution s'adapte à la taille de votre établissement avec un système TPE paiement intégré.
                         </p>
 
                         <div class="space-y-2">
@@ -72,7 +72,9 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 7h6m0 10H9m3 4v-4m0 0l3-3m-3 3l-3-3m12 1V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2z"/>
                                     </svg>
                                 </div>
-                                <span>Paiement et prise de commande</span>
+                                <span>
+                                    Système de caisse tactile avec gestion des paiements et commandes
+                                </span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -80,7 +82,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
                                     </svg>
                                 </div>
-                                <span>Gestion des stocks avancée</span>
+                                <span>gestion des stocks avancée avec contrôle automatique</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -88,7 +90,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
                                     </svg>
                                 </div>
-                                <span>Ventilation des ventes et export comptable</span>
+                                <span>Interface de caisse enregistreuse automatique avec export comptable</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -96,7 +98,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"/>
                                     </svg>
                                 </div>
-                                <span>Organisation des pôles de préparation</span>
+                                <span>Organisation cuisine avec imprimante caisse et bon de commande</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -104,7 +106,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v13m0-13V6a2 2 0 112 2h-2zm0 0V5.5A2.5 2.5 0 109.5 8H12zm-7 4h14M5 12a2 2 0 110-4h14a2 2 0 110 4M5 12v7a2 2 0 002 2h10a2 2 0 002-2v-7"/>
                                     </svg>
                                 </div>
-                                <span>Pilotage du programme de fidélité</span>
+                                <span>Tiroir caisse et système de fidélisation clients intégré</span>
                             </div>
                         </div>
 

@@ -61,9 +61,69 @@
 
                       
   
+                      {{-- type d'activité --}}
                       <div class="hs-dropdown [--strategy:static] md:[--strategy:absolute] [--adaptive:none] md:[--trigger:hover] [--is-collapse:true] md:[--is-collapse:false] relative">
                         <button id="hs-header-base-dropdown-sub" type="button" class="hs-dropdown-toggle w-full flex justify-between items-center text-sm text-gray-800 rounded-lg p-2 md:px-3 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
-                          Sub Menu
+                          Type d'activité
+                          <svg class="hs-dropdown-open:-rotate-180 md:hs-dropdown-open:-rotate-90 md:-rotate-90 duration-300 ms-auto shrink-0 size-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+                        </button>
+  
+                        <div class="hs-dropdown-menu transition-[opacity,margin] duration-[0.1ms] md:duration-[150ms] hs-dropdown-open:opacity-100 opacity-0 relative md:w-48 hidden z-10 md:mt-2 md:!mx-[10px] md:top-0 md:end-full ps-7 md:ps-0 md:bg-white md:rounded-lg md:shadow-md dark:bg-neutral-800 dark:divide-neutral-700 before:hidden md:before:block before:absolute before:-end-5 before:top-0 before:h-full before:w-5 md:after:hidden after:absolute after:top-1 after:start-[18px] after:w-0.5 after:h-[calc(100%-0.25rem)] after:bg-gray-100 dark:md:bg-neutral-800 dark:after:bg-neutral-700" role="menu" aria-orientation="vertical" aria-labelledby="hs-header-base-dropdown-sub">
+                          <ul class="max-h-[400px] overflow-x-auto">
+                            <li>
+                              <a href="/solutions/restaurant" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                                Restaurant
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/solutions/bar" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                                Bar
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/solutions/hotel" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                                Hotel
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/solutions/boutique" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                                Boutique
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/solutions/cafe" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                                Café
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/solutions/spa" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                                Spas
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/solutions/coiffure" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                                Coiffure
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/solutions/boulangerie" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                                Boulangerie
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/solutions/pressing" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                                Pressing
+                              </a>
+                            </li>
+                            
+                          </ul>
+                        </div>
+                      </div>
+
+                      {{-- Nos Produits --}}
+                      <div class="hs-dropdown [--strategy:static] md:[--strategy:absolute] [--adaptive:none] md:[--trigger:hover] [--is-collapse:true] md:[--is-collapse:false] relative">
+                        <button id="hs-header-base-dropdown-sub" type="button" class="hs-dropdown-toggle w-full flex justify-between items-center text-sm text-gray-800 rounded-lg p-2 md:px-3 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+                          Nos Produits
                           <svg class="hs-dropdown-open:-rotate-180 md:hs-dropdown-open:-rotate-90 md:-rotate-90 duration-300 ms-auto shrink-0 size-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
                         </button>
   
@@ -157,21 +217,22 @@
                             
                           </ul>
                         </div>
-                      </div>
+                      </div>  
   
-                      <a class="p-2 md:px-3 flex items-center text-sm text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300" href="#">
-                        Downloads
-                      </a>
-  
-                      <a class="p-2 md:px-3 flex items-center text-sm text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300" href="#">
-                        Team Account
+                      <a class="p-2 md:px-3 flex items-center text-sm text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300" href="/solutions">
+                        Nos Solutions
                       </a>
                     </div>
                   </div>
                 </div>
                 <!-- End Dropdown -->
+
+                <a class="p-2 flex items-center text-sm text-gray-800 hover:bg-gray-100 rounded-lg focus:outline-none focus:bg-gray-100 dark:text-neutral-200 dark:hover:bg-neutral-700 dark:focus:bg-neutral-700" href="/solutions">
+                  <svg class="shrink-0 size-4 me-3 md:me-2 block md:hidden" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 12h.01"/><path d="M16 6V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2"/><path d="M22 13a18.15 18.15 0 0 1-20 0"/><rect width="20" height="14" x="2" y="6" rx="2"/></svg>
+                  Solutions
+                </a>
   
-                <a class="p-2 flex items-center text-sm text-gray-800 hover:bg-gray-100 rounded-lg focus:outline-none focus:bg-gray-100 dark:text-neutral-200 dark:hover:bg-neutral-700 dark:focus:bg-neutral-700" href="#">
+                <a class="p-2 flex items-center text-sm text-gray-800 hover:bg-gray-100 rounded-lg focus:outline-none focus:bg-gray-100 dark:text-neutral-200 dark:hover:bg-neutral-700 dark:focus:bg-neutral-700" href="/a-propos">
                   <svg class="shrink-0 size-4 me-3 md:me-2 block md:hidden" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 12h.01"/><path d="M16 6V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2"/><path d="M22 13a18.15 18.15 0 0 1-20 0"/><rect width="20" height="14" x="2" y="6" rx="2"/></svg>
                   À propos
                 </a>

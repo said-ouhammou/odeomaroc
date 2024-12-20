@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ListingsController;
+use App\Http\Controllers\ContactController;
 
 Route::get('/', function () {
     return view('welcome');
@@ -34,3 +35,9 @@ Route::get('/faq', function () {
 Route::get('/:slug', function () {
     return view('product-details');
 });
+
+Route::get('/contact', function () {
+    return view('contact');
+});
+
+Route::post('/contact', [ContactController::class, 'submit'])->name('contact.submit');

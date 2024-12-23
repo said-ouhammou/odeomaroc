@@ -37,5 +37,5 @@
 
     <x-reviews/>
 
-    <x-buttons/>
+    <x-buttons class="justify-center"/>
 </x-layout>

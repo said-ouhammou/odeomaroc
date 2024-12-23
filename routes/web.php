@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ListingsController;
 use App\Http\Controllers\ContactController;
+use App\Http\Controllers\TechnologiesController;
 
 Route::get('/', function () {
     return view('welcome');
@@ -45,6 +46,8 @@ Route::post('/contact', [ContactController::class, 'submit'])->name('contact.sub
 Route::get('/technologies', function () {
     return view('technologies');
 });
+
+Route::get('/technologies', [TechnologiesController::class, 'technologies']);
 
 Route::get('/partenaires', function () {
     return view('partenaires');

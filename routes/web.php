@@ -41,3 +41,14 @@ Route::get('/contact', function () {
 });
 
 Route::post('/contact', [ContactController::class, 'submit'])->name('contact.submit');
+
+Route::get('/technologies', function () {
+    return view('technologies');
+});
+
+Route::get('/partenaires', function () {
+    return view('partenaires');
+});
+
+
+

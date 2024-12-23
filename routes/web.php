@@ -4,6 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ListingsController;
 use App\Http\Controllers\ContactController;
 use App\Http\Controllers\TechnologiesController;
+use App\Http\Controllers\partenairesController;
 
 Route::get('/', function () {
     return view('welcome');
@@ -52,6 +53,8 @@ Route::get('/technologies', [TechnologiesController::class, 'technologies']);
 Route::get('/partenaires', function () {
     return view('partenaires');
 });
+
+Route::get('/partenaires', [partenairesController::class, 'partenairesList']);
 
 
 

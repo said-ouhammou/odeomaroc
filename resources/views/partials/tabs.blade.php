@@ -28,35 +28,59 @@
                 </button>
                 <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-2" aria-selected="false" data-hs-tab="#tabs-with-icons-2" aria-controls="tabs-with-icons-2" role="tab">
                     <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-glass-cocktail"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M8 21h8" /><path d="M12 15v6" /><path d="M12 5m-7 0a7 2 0 1 0 14 0a7 2 0 1 0 -14 0" /><path d="M5 5v.388c0 .432 .126 .853 .362 1.206l5 7.509c.633 .951 1.88 1.183 2.785 .517c.191 -.141 .358 -.316 .491 -.517l5 -7.509c.236 -.353 .362 -.774 .362 -1.206v-.388" /></svg>
-                    Bar
+                    Snack
                 </button>
                 <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-3" aria-selected="false" data-hs-tab="#tabs-with-icons-3" aria-controls="tabs-with-icons-3" role="tab">
                     <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-baguette"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5.628 11.283l5.644 -5.637c2.665 -2.663 5.924 -3.747 8.663 -1.205l.188 .181a2.987 2.987 0 0 1 0 4.228l-11.287 11.274a3 3 0 0 1 -4.089 .135l-.143 -.135c-2.728 -2.724 -1.704 -6.117 1.024 -8.841z" /><path d="M9.5 7.5l1.5 3.5" /><path d="M6.5 10.5l1.5 3.5" /><path d="M12.5 4.5l1.5 3.5" /></svg>
-                    Hotel
+                    Café
                 </button>
-                <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-4" aria-selected="false" data-hs-tab="#tabs-with-icons-4" aria-controls="tabs-with-icons-3" role="tab">
+                <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-4" aria-selected="false" data-hs-tab="#tabs-with-icons-4" aria-controls="tabs-with-icons-4" role="tab">
                     <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-bed"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M7 9m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" /><path d="M22 17v-3h-20" /><path d="M2 8v9" /><path d="M12 14h10v-2a3 3 0 0 0 -3 -3h-7v5z" /></svg>
-                    Boutique
+                    Salon de thé
                 </button>
-                <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-5" aria-selected="false" data-hs-tab="#tabs-with-icons-5" aria-controls="tabs-with-icons-3" role="tab">
+                <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-5" aria-selected="false" data-hs-tab="#tabs-with-icons-5" aria-controls="tabs-with-icons-5" role="tab">
                     <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hanger-2"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M12 9l-7.971 4.428a2 2 0 0 0 -1.029 1.749v.823a2 2 0 0 0 2 2h1" /><path d="M18 18h1a2 2 0 0 0 2 -2v-.823a2 2 0 0 0 -1.029 -1.749l-7.971 -4.428c-1.457 -.81 -1.993 -2.333 -2 -4a2 2 0 1 1 4 0" /><path d="M6 16m0 2a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v1a2 2 0 0 1 -2 2h-8a2 2 0 0 1 -2 -2z" /></svg>
-                        Café
+                    Pâtisserie
                 </button>
-                <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-6" aria-selected="false" data-hs-tab="#tabs-with-icons-6" aria-controls="tabs-with-icons-3" role="tab">
+                <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-6" aria-selected="false" data-hs-tab="#tabs-with-icons-6" aria-controls="tabs-with-icons-6" role="tab">
                     <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-reserved-line"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 20h6" /><path d="M12 14v6" /><path d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v6a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" /><path d="M9 9h6" /></svg>
-                        Spas
+                    Boulangerie
                 </button>
-                <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-6" aria-selected="false" data-hs-tab="#tabs-with-icons-6" aria-controls="tabs-with-icons-3" role="tab">
+                <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-7" aria-selected="false" data-hs-tab="#tabs-with-icons-7" aria-controls="tabs-with-icons-7" role="tab">
                     <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-reserved-line"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 20h6" /><path d="M12 14v6" /><path d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v6a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" /><path d="M9 9h6" /></svg>
-                        Coiffure
+                    Fast food
                 </button>
-                <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-6" aria-selected="false" data-hs-tab="#tabs-with-icons-6" aria-controls="tabs-with-icons-3" role="tab">
+                <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-8" aria-selected="false" data-hs-tab="#tabs-with-icons-8" aria-controls="tabs-with-icons-8" role="tab">
                     <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-reserved-line"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 20h6" /><path d="M12 14v6" /><path d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v6a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" /><path d="M9 9h6" /></svg>
-                        Boulangerie
+                        Night club
                 </button>
-                <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-6" aria-selected="false" data-hs-tab="#tabs-with-icons-6" aria-controls="tabs-with-icons-3" role="tab">
+                <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-9" aria-selected="false" data-hs-tab="#tabs-with-icons-9" aria-controls="tabs-with-icons-9" role="tab">
                     <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-reserved-line"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 20h6" /><path d="M12 14v6" /><path d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v6a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" /><path d="M9 9h6" /></svg>
-                        pressing
+                        Lounge
+                </button>
+                <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-10" aria-selected="false" data-hs-tab="#tabs-with-icons-10" aria-controls="tabs-with-icons-10" role="tab">
+                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-reserved-line"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 20h6" /><path d="M12 14v6" /><path d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v6a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" /><path d="M9 9h6" /></svg>
+                        Bar
+                </button>
+                <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-11" aria-selected="false" data-hs-tab="#tabs-with-icons-11" aria-controls="tabs-with-icons-11" role="tab">
+                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-reserved-line"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 20h6" /><path d="M12 14v6" /><path d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v6a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" /><path d="M9 9h6" /></svg>
+                        Spa
+                </button>
+                <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-12" aria-selected="false" data-hs-tab="#tabs-with-icons-12" aria-controls="tabs-with-icons-12" role="tab">
+                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-reserved-line"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 20h6" /><path d="M12 14v6" /><path d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v6a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" /><path d="M9 9h6" /></svg>
+                        Piscine
+                </button>
+                <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-13" aria-selected="false" data-hs-tab="#tabs-with-icons-13" aria-controls="tabs-with-icons-13" role="tab">
+                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-reserved-line"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 20h6" /><path d="M12 14v6" /><path d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v6a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" /><path d="M9 9h6" /></svg>
+                        Hotel
+                </button>
+                <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-14" aria-selected="false" data-hs-tab="#tabs-with-icons-14" aria-controls="tabs-with-icons-14" role="tab">
+                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-reserved-line"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 20h6" /><path d="M12 14v6" /><path d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v6a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" /><path d="M9 9h6" /></svg>
+                    Maison d'hôte
+                </button>
+                <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-15" aria-selected="false" data-hs-tab="#tabs-with-icons-15" aria-controls="tabs-with-icons-15" role="tab">
+                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-reserved-line"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 20h6" /><path d="M12 14v6" /><path d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v6a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" /><path d="M9 9h6" /></svg>
+                    Riad
                 </button>
             </nav>
             <div class="swiper-button-next"></div>
@@ -72,19 +96,16 @@
                     <!-- Left Column -->
                     <div class="lg:w-1/2  ">
                         <div class="relative ">
-                            <div class=" h-[500px] relative overflow-hidden rounded-e-3xl rounded-s-3xl">
-                                <img src="{{asset('/images/b/b-1.jpg')}}" alt="Restaurateur" class=" object-cover">
+                            <div class="relative overflow-hidden ">
+                                <img src="{{asset('/images/b/b-1.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <div class="absolute bottom-0 w-full p-8 bg-[#812755] rounded-3xl border-2 border-solid border-white">
-                                <div class="text-white font-medium mb-2">RESTAURATEUR</div>
-                                <h2 class="text-3xl font-bold mb-4 text-white">On te connaît si bien.</h2>
-                                <a href="/solutions/restaurant" class="text-white flex items-center">
-                                    Découvrir
-                                    <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
-                                    </svg>
-                                </a>
-                            </div>
+                            
+                            <a href="/solutions/restaurant" class=" mt-6 text-[#7f2855] font-bold flex items-center">
+                                Découvrir
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
+                                </svg>
+                            </a>
                         </div>
                     </div>
 
@@ -165,19 +186,17 @@
                     <!-- Left Column -->
                     <div class="lg:w-1/2  ">
                         <div class="relative ">
-                            <div class=" h-[500px] relative overflow-hidden rounded-e-3xl rounded-s-3xl">
-                                <img src="{{asset('/images/b/bar.jpg')}}" alt="Caisse Tactile pour Bar" class=" object-cover">
+                            <div class="relative overflow-hidden ">
+                                <img src="{{asset('/images/b/snack.jpg')}}" alt="Caisse Tactile pour Bar" class=" object-cover rounded-3xl">
                             </div>
-                            <div class="absolute bottom-0 w-full p-8 bg-[#812755] rounded-3xl border-2 border-solid border-white">
-                                <div class="text-white font-medium mb-2">BAR</div>
-                                <h2 class="text-3xl font-bold mb-4 text-white">On te connaît si bien.</h2>
-                                <a href="#" class="text-white flex items-center">
-                                    Découvrir
-                                    <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
-                                    </svg>
-                                </a>
-                            </div>
+                    
+                            <a href="/solutions/snack" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                                Découvrir
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
+                                </svg>
+                            </a>
+                        
                         </div>
                     </div>
 
@@ -256,19 +275,17 @@
                     <!-- Left Column -->
                     <div class="lg:w-1/2  ">
                         <div class="relative ">
-                            <div class=" h-[500px] relative overflow-hidden rounded-e-3xl rounded-s-3xl">
-                                <img src="{{asset('/images/b/boulangerie.jpg')}}" alt="Restaurateur" class=" object-cover">
+                            <div class="relative overflow-hidden ">
+                                <img src="{{asset('/images/b/cafe.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <div class="absolute bottom-0 w-full p-8 bg-[#812755] rounded-3xl border-2 border-solid border-white">
-                                <div class="text-white font-medium mb-2">BOULANGERIE</div>
-                                <h2 class="text-3xl font-bold mb-4 text-white">On te connaît si bien.</h2>
-                                <a href="#" class="text-white flex items-center">
+                            
+                                <a href="/solutions/cafe" class="mt-6 font-bold text-[#7f2855] flex items-center">
                                     Découvrir
                                     <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
                                     </svg>
                                 </a>
-                            </div>
+                           
                         </div>
                     </div>
 
@@ -347,19 +364,16 @@
                     <!-- Left Column -->
                     <div class="lg:w-1/2  ">
                         <div class="relative ">
-                            <div class=" h-[500px] relative overflow-hidden rounded-e-3xl rounded-s-3xl">
-                                <img src="{{asset('/images/b/b-2.jpg')}}" alt="Restaurateur" class=" object-cover">
+                            <div class="relative overflow-hidden ">
+                                <img src="{{asset('/images/b/salon-de-the.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <div class="absolute bottom-0 w-full p-8 bg-[#812755] rounded-3xl border-2 border-solid border-white">
-                                <div class="text-white font-medium mb-2">HOTEL</div>
-                                <h2 class="text-3xl font-bold mb-4 text-white">On te connaît si bien.</h2>
-                                <a href="#" class="text-white flex items-center">
-                                    Découvrir
-                                    <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
-                                    </svg>
-                                </a>
-                            </div>
+                            <a href="/solutions/salon-de-the" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                                Découvrir
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
+                                </svg>
+                            </a>
+                        
                         </div>
                     </div>
 
@@ -444,19 +458,16 @@
                     <!-- Left Column -->
                     <div class="lg:w-1/2  ">
                         <div class="relative ">
-                            <div class=" h-[500px] relative overflow-hidden rounded-e-3xl rounded-s-3xl">
-                                <img src="{{asset('/images/b/pressing.jpg')}}" alt="Restaurateur" class=" object-cover">
+                            <div class="relative overflow-hidden ">
+                                <img src="{{asset('/images/b/patisserie.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <div class="absolute bottom-0 w-full p-8 bg-[#812755] rounded-3xl border-2 border-solid border-white">
-                                <div class="text-white font-medium mb-2">PRESSING</div>
-                                <h2 class="text-3xl font-bold mb-4 text-white">On te connaît si bien.</h2>
-                                <a href="#" class="text-white flex items-center">
-                                    Découvrir
-                                    <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
-                                    </svg>
-                                </a>
-                            </div>
+                            <a href="/solutions/patisserie" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                                Découvrir
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
+                                </svg>
+                            </a>
+                           
                         </div>
                     </div>
 
@@ -536,19 +547,807 @@
                     <!-- Left Column -->
                     <div class="lg:w-1/2  ">
                         <div class="relative ">
-                            <div class=" h-[500px] relative overflow-hidden rounded-e-3xl rounded-s-3xl">
-                                <img src="{{asset('/images/b/riad.jpg')}}" alt="Restaurateur" class=" object-cover">
+                            <div class="relative overflow-hidden ">
+                                <img src="{{asset('/images/b/boulangerie.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <div class="absolute bottom-0 w-full p-8 bg-[#812755] rounded-3xl border-2 border-solid border-white">
-                                <div class="text-white font-medium mb-2">RIAD</div>
-                                <h2 class="text-3xl font-bold mb-4 text-white">On te connaît si bien.</h2>
-                                <a href="#" class="text-white flex items-center">
-                                    Découvrir
-                                    <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+                            <a href="/solutions/boulangerie" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                                Découvrir
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
+                                </svg>
+                            </a>
+                        
+                        </div>
+                    </div>
+
+                    <!-- Right Column -->
+                    <div class="lg:w-1/2 text-black">
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Créée en collaboration avec des gérants de riads !</h1>
+                        
+                        <p class="text-[#812755] text-lg mb-3">
+                            Une solution complète adaptée aux maisons d'hôtes.
+                        </p>
+
+                        <p class="text-gray-700 mb-8">
+                            Odeo propose un système parfaitement adapté aux spécificités des riads. Notre solution facilite la gestion des réservations, des services et de l'expérience client unique que propose votre établissement.
+                        </p>
+
+                        <div class="space-y-2">
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
                                     </svg>
-                                </a>
+                                </div>
+                                <span>Gestion des réservations simplifiée</span>
                             </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
+                                    </svg>
+                                </div>
+                                <span>Suivi des prestations sur mesure</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
+                                    </svg>                                      
+                                </div>
+                                <span>Interface multilingue</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
+                                    </svg>  
+                                </div>
+                                <span>Facturation services additionnels</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    </svg>
+                                </div>
+                                <span>Statistiques d'occupation</span>
+                            </div>
+                        </div>
+
+                            <div class="py-2">
+                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
+                                    <a href="#" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
+                                        Visionner une démo
+                                    </a>
+                                    <a href="#" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
+                                        Contactez-nous
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </main>
+        </div>
+        <div id="tabs-with-icons-7" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-7">
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+                <div class="flex flex-col lg:flex-row gap-12">
+                    <!-- Left Column -->
+                    <div class="lg:w-1/2  ">
+                        <div class="relative ">
+                            <div class="relative overflow-hidden ">
+                                <img src="{{asset('/images/b/fast-food.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
+                            </div>
+                            <a href="/solutions/fast-food" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                                Découvrir
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Right Column -->
+                    <div class="lg:w-1/2 text-black">
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Créée en collaboration avec des gérants de riads !</h1>
+                        
+                        <p class="text-[#812755] text-lg mb-3">
+                            Une solution complète adaptée aux maisons d'hôtes.
+                        </p>
+
+                        <p class="text-gray-700 mb-8">
+                            Odeo propose un système parfaitement adapté aux spécificités des riads. Notre solution facilite la gestion des réservations, des services et de l'expérience client unique que propose votre établissement.
+                        </p>
+
+                        <div class="space-y-2">
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    </svg>
+                                </div>
+                                <span>Gestion des réservations simplifiée</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
+                                    </svg>
+                                </div>
+                                <span>Suivi des prestations sur mesure</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
+                                    </svg>                                      
+                                </div>
+                                <span>Interface multilingue</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
+                                    </svg>  
+                                </div>
+                                <span>Facturation services additionnels</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    </svg>
+                                </div>
+                                <span>Statistiques d'occupation</span>
+                            </div>
+                        </div>
+
+                            <div class="py-2">
+                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
+                                    <a href="#" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
+                                        Visionner une démo
+                                    </a>
+                                    <a href="#" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
+                                        Contactez-nous
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </main>
+        </div>
+        <div id="tabs-with-icons-8" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-8">
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+                <div class="flex flex-col lg:flex-row gap-12">
+                    <!-- Left Column -->
+                    <div class="lg:w-1/2  ">
+                        <div class="relative ">
+                            <div class="relative overflow-hidden ">
+                                <img src="{{asset('/images/b/night-club.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
+                            </div>
+                            <a href="/solutions/night-club" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                                Découvrir
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Right Column -->
+                    <div class="lg:w-1/2 text-black">
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Créée en collaboration avec des gérants de riads !</h1>
+                        
+                        <p class="text-[#812755] text-lg mb-3">
+                            Une solution complète adaptée aux maisons d'hôtes.
+                        </p>
+
+                        <p class="text-gray-700 mb-8">
+                            Odeo propose un système parfaitement adapté aux spécificités des riads. Notre solution facilite la gestion des réservations, des services et de l'expérience client unique que propose votre établissement.
+                        </p>
+
+                        <div class="space-y-2">
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    </svg>
+                                </div>
+                                <span>Gestion des réservations simplifiée</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
+                                    </svg>
+                                </div>
+                                <span>Suivi des prestations sur mesure</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
+                                    </svg>                                      
+                                </div>
+                                <span>Interface multilingue</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
+                                    </svg>  
+                                </div>
+                                <span>Facturation services additionnels</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    </svg>
+                                </div>
+                                <span>Statistiques d'occupation</span>
+                            </div>
+                        </div>
+
+                            <div class="py-2">
+                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
+                                    <a href="#" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
+                                        Visionner une démo
+                                    </a>
+                                    <a href="#" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
+                                        Contactez-nous
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </main>
+        </div>
+        <div id="tabs-with-icons-9" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-9">
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+                <div class="flex flex-col lg:flex-row gap-12">
+                    <!-- Left Column -->
+                    <div class="lg:w-1/2  ">
+                        <div class="relative ">
+                            <div class="relative overflow-hidden ">
+                                <img src="{{asset('/images/b/lounge.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
+                            </div>
+                            <a href="/solutions/lounge" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                                Découvrir
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Right Column -->
+                    <div class="lg:w-1/2 text-black">
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Créée en collaboration avec des gérants de riads !</h1>
+                        
+                        <p class="text-[#812755] text-lg mb-3">
+                            Une solution complète adaptée aux maisons d'hôtes.
+                        </p>
+
+                        <p class="text-gray-700 mb-8">
+                            Odeo propose un système parfaitement adapté aux spécificités des riads. Notre solution facilite la gestion des réservations, des services et de l'expérience client unique que propose votre établissement.
+                        </p>
+
+                        <div class="space-y-2">
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    </svg>
+                                </div>
+                                <span>Gestion des réservations simplifiée</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
+                                    </svg>
+                                </div>
+                                <span>Suivi des prestations sur mesure</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
+                                    </svg>                                      
+                                </div>
+                                <span>Interface multilingue</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
+                                    </svg>  
+                                </div>
+                                <span>Facturation services additionnels</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    </svg>
+                                </div>
+                                <span>Statistiques d'occupation</span>
+                            </div>
+                        </div>
+
+                            <div class="py-2">
+                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
+                                    <a href="#" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
+                                        Visionner une démo
+                                    </a>
+                                    <a href="#" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
+                                        Contactez-nous
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </main>
+        </div>
+
+        <div id="tabs-with-icons-10" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-10">
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+                <div class="flex flex-col lg:flex-row gap-12">
+                    <!-- Left Column -->
+                    <div class="lg:w-1/2  ">
+                        <div class="relative ">
+                            <div class="relative overflow-hidden ">
+                                <img src="{{asset('/images/b/bar.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
+                            </div>
+                            <a href="/solutions/bar" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                                Découvrir
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Right Column -->
+                    <div class="lg:w-1/2 text-black">
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Développée avec des hôteliers pour répondre à vos besoins !</h1>
+                        
+                        <p class="text-[#812755] text-lg mb-3">
+                            Plus qu'une caisse enregistreuse, un véritable outil de gestion hôtelière.
+                        </p>
+
+                        <p class="text-gray-700 mb-8">
+                            Odeo offre une solution complète qui simplifie la gestion quotidienne de votre hôtel. Notre système intègre toutes les fonctionnalités nécessaires pour optimiser vos opérations et améliorer l'expérience client.
+                        </p>
+
+                        <div class="space-y-2">
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5m-9-6h.008v.008H12v-.008ZM12 15h.008v.008H12V15Zm0 2.25h.008v.008H12v-.008ZM9.75 15h.008v.008H9.75V15Zm0 2.25h.008v.008H9.75v-.008ZM7.5 15h.008v.008H7.5V15Zm0 2.25h.008v.008H7.5v-.008Zm6.75-4.5h.008v.008h-.008v-.008Zm0 2.25h.008v.008h-.008V15Zm0 2.25h.008v.008h-.008v-.008Zm2.25-4.5h.008v.008H16.5v-.008Zm0 2.25h.008v.008H16.5V15Z" />
+                                    </svg>                                      
+                                </div>
+                                <span>Gestion des réservations centralisée</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    {{-- <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    </svg> --}}
+                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
+                                    </svg>  
+                                </div>
+                                <span>Facturation chambres et services</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    {{-- <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    </svg> --}}
+                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="size-6">
+                                        <path stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M11.42 15.17 17.25 21A2.652 2.652 0 0 0 21 17.25l-5.877-5.877M11.42 15.17l2.496-3.03c.317-.384.74-.626 1.208-.766M11.42 15.17l-4.655 5.653a2.548 2.548 0 1 1-3.586-3.586l6.837-5.63m5.108-.233c.55-.164 1.163-.188 1.743-.14a4.5 4.5 0 0 0 4.486-6.336l-3.276 3.277a3.004 3.004 0 0 1-2.25-2.25l3.276-3.276a4.5 4.5 0 0 0-6.336 4.486c.091 1.076-.071 2.264-.904 2.95l-.102.085m-1.745 1.437L5.909 7.5H4.5L2.25 3.75l1.5-1.5L7.5 4.5v1.409l4.26 4.26m-1.745 1.437 1.745-1.437m6.615 8.206L15.75 15.75M4.867 19.125h.008v.008h-.008v-.008Z" />
+                                    </svg>
+                                </div>
+                                <span>Suivi du ménage et maintenance</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"/>
+                                    </svg>
+                                </div>
+                                <span>Interface conciergerie</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    </svg>
+                                </div>
+                                <span>Reporting performances</span>
+                            </div>
+                        </div>
+
+                            <div class="py-2">
+                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
+                                    <a href="#" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
+                                        Visionner une démo
+                                    </a>
+                                    <a href="#" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
+                                        Contactez-nous
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </main>
+        </div>
+        <div id="tabs-with-icons-11" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-11">
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+                <div class="flex flex-col lg:flex-row gap-12">
+                    <!-- Left Column -->
+                    <div class="lg:w-1/2  ">
+                        <div class="relative ">
+                            <div class="relative overflow-hidden ">
+                                <img src="{{asset('/images/b/spa.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
+                            </div>
+                            <a href="/solutions/spa" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                                Découvrir
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Right Column -->
+                    <div class="lg:w-1/2 text-black">
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Une solution imaginée par des professionnels du pressing !</h1>
+                        
+                        <p class="text-[#812755] text-lg mb-3">
+                            Une caisse enregistreuse spécialement adaptée au pressing.
+                        </p>
+
+                        <p class="text-gray-700 mb-8">
+                            Odeo a développé une solution qui répond aux exigences spécifiques des pressings. Notre système facilite le suivi des commandes, la gestion des délais et la satisfaction client.
+                        </p>
+
+                        <div class="space-y-2">
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 10.5V6a3.75 3.75 0 1 0-7.5 0v4.5m11.356-1.993 1.263 12c.07.665-.45 1.243-1.119 1.243H4.25a1.125 1.125 0 0 1-1.12-1.243l1.264-12A1.125 1.125 0 0 1 5.513 7.5h12.974c.576 0 1.059.435 1.119 1.007ZM8.625 10.5a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm7.5 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Z" />
+                                    </svg>     
+                                </div>
+                                <span>Suivi des articles et délais</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    </svg>
+                                </div>
+                                <span>Gestion des prestations spéciales</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z" />
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6 6h.008v.008H6V6Z" />
+                                    </svg> 
+                                </div>
+                                <span>Étiquetage automatisé</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="M21 11.25v8.25a1.5 1.5 0 0 1-1.5 1.5H5.25a1.5 1.5 0 0 1-1.5-1.5v-8.25M12 4.875A2.625 2.625 0 1 0 9.375 7.5H12m0-2.625V7.5m0-2.625A2.625 2.625 0 1 1 14.625 7.5H12m0 0V21m-8.625-9.75h18c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125h-18c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z" />
+                                    </svg>                                      
+                                </div>
+                                <span>Programme fidélité intégré</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="M14.857 17.082a23.848 23.848 0 0 0 5.454-1.31A8.967 8.967 0 0 1 18 9.75V9A6 6 0 0 0 6 9v.75a8.967 8.967 0 0 1-2.312 6.022c1.733.64 3.56 1.085 5.455 1.31m5.714 0a24.255 24.255 0 0 1-5.714 0m5.714 0a3 3 0 1 1-5.714 0" />
+                                    </svg>
+                                </div>
+                                <span>Alertes clients automatiques</span>
+                            </div>
+                        </div>
+
+                            <div class="py-2">
+                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
+                                    <a href="#" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
+                                        Visionner une démo
+                                    </a>
+                                    <a href="#" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
+                                        Contactez-nous
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </main>
+        </div>
+        <div id="tabs-with-icons-12" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-12">
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+                <div class="flex flex-col lg:flex-row gap-12">
+                    <!-- Left Column -->
+                    <div class="lg:w-1/2  ">
+                        <div class="relative ">
+                            <div class="relative overflow-hidden ">
+                                <img src="{{asset('/images/b/pool.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
+                            </div>
+                            <a href="/solutions/piscine" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                                Découvrir
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Right Column -->
+                    <div class="lg:w-1/2 text-black">
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Créée en collaboration avec des gérants de riads !</h1>
+                        
+                        <p class="text-[#812755] text-lg mb-3">
+                            Une solution complète adaptée aux maisons d'hôtes.
+                        </p>
+
+                        <p class="text-gray-700 mb-8">
+                            Odeo propose un système parfaitement adapté aux spécificités des riads. Notre solution facilite la gestion des réservations, des services et de l'expérience client unique que propose votre établissement.
+                        </p>
+
+                        <div class="space-y-2">
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    </svg>
+                                </div>
+                                <span>Gestion des réservations simplifiée</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
+                                    </svg>
+                                </div>
+                                <span>Suivi des prestations sur mesure</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
+                                    </svg>                                      
+                                </div>
+                                <span>Interface multilingue</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
+                                    </svg>  
+                                </div>
+                                <span>Facturation services additionnels</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    </svg>
+                                </div>
+                                <span>Statistiques d'occupation</span>
+                            </div>
+                        </div>
+
+                            <div class="py-2">
+                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
+                                    <a href="#" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
+                                        Visionner une démo
+                                    </a>
+                                    <a href="#" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
+                                        Contactez-nous
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </main>
+        </div>
+        <div id="tabs-with-icons-13" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-13">
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+                <div class="flex flex-col lg:flex-row gap-12">
+                    <!-- Left Column -->
+                    <div class="lg:w-1/2  ">
+                        <div class="relative ">
+                            <div class="relative overflow-hidden ">
+                                <img src="{{asset('/images/b/b-2.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
+                            </div>
+                            <a href="/solutions/hotel" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                                Découvrir
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Right Column -->
+                    <div class="lg:w-1/2 text-black">
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Créée en collaboration avec des gérants de riads !</h1>
+                        
+                        <p class="text-[#812755] text-lg mb-3">
+                            Une solution complète adaptée aux maisons d'hôtes.
+                        </p>
+
+                        <p class="text-gray-700 mb-8">
+                            Odeo propose un système parfaitement adapté aux spécificités des riads. Notre solution facilite la gestion des réservations, des services et de l'expérience client unique que propose votre établissement.
+                        </p>
+
+                        <div class="space-y-2">
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    </svg>
+                                </div>
+                                <span>Gestion des réservations simplifiée</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
+                                    </svg>
+                                </div>
+                                <span>Suivi des prestations sur mesure</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
+                                    </svg>                                      
+                                </div>
+                                <span>Interface multilingue</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
+                                    </svg>  
+                                </div>
+                                <span>Facturation services additionnels</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    </svg>
+                                </div>
+                                <span>Statistiques d'occupation</span>
+                            </div>
+                        </div>
+
+                            <div class="py-2">
+                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
+                                    <a href="#" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
+                                        Visionner une démo
+                                    </a>
+                                    <a href="#" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
+                                        Contactez-nous
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </main>
+        </div>
+        <div id="tabs-with-icons-14" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-14">
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+                <div class="flex flex-col lg:flex-row gap-12">
+                    <!-- Left Column -->
+                    <div class="lg:w-1/2  ">
+                        <div class="relative ">
+                            <div class="relative overflow-hidden ">
+                                <img src="{{asset('/images/b/maisondhotes.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
+                            </div>
+                            <a href="/solutions/maison-d-hotes" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                                Découvrir
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Right Column -->
+                    <div class="lg:w-1/2 text-black">
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Créée en collaboration avec des gérants de riads !</h1>
+                        
+                        <p class="text-[#812755] text-lg mb-3">
+                            Une solution complète adaptée aux maisons d'hôtes.
+                        </p>
+
+                        <p class="text-gray-700 mb-8">
+                            Odeo propose un système parfaitement adapté aux spécificités des riads. Notre solution facilite la gestion des réservations, des services et de l'expérience client unique que propose votre établissement.
+                        </p>
+
+                        <div class="space-y-2">
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    </svg>
+                                </div>
+                                <span>Gestion des réservations simplifiée</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
+                                    </svg>
+                                </div>
+                                <span>Suivi des prestations sur mesure</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
+                                    </svg>                                      
+                                </div>
+                                <span>Interface multilingue</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
+                                    </svg>  
+                                </div>
+                                <span>Facturation services additionnels</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    </svg>
+                                </div>
+                                <span>Statistiques d'occupation</span>
+                            </div>
+                        </div>
+
+                            <div class="py-2">
+                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
+                                    <a href="#" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
+                                        Visionner une démo
+                                    </a>
+                                    <a href="#" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
+                                        Contactez-nous
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </main>
+        </div>
+        <div id="tabs-with-icons-15" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-15">
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+                <div class="flex flex-col lg:flex-row gap-12">
+                    <!-- Left Column -->
+                    <div class="lg:w-1/2  ">
+                        <div class="relative ">
+                            <div class="relative overflow-hidden ">
+                                <img src="{{asset('/images/b/riad.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
+                            </div>
+                            <a href="/solutions/riad" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                                Découvrir
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
+                                </svg>
+                            </a>
                         </div>
                     </div>
 

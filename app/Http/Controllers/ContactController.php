@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
 use App\Mail\ContactFormSubmission;
+use App\Models\Contact;
 
 class ContactController extends Controller
 {
@@ -13,14 +14,19 @@ class ContactController extends Controller
         $validated = $request->validate([
             'name' => 'required|max:255',
             'email' => 'required|email|max:255',
+            'phone' => 'nullable|regex:/^\+?[0-9\s\-\(\)]+$/|max:20',
             'subject' => 'required|max:255',
             'message' => 'required',
         ]);
 
+        Contact::create($validated);
+        
         // Send email
         Mail::to('contact@odeosystems.com')->send(new ContactFormSubmission($validated));
 
         // Redirect back with success message
-        return back()->with('success', 'Merci pour votre message. Nous vous contacterons bientôt.');
+         // Flash success message
+        session()->flash('success', 'Votre message a été envoyé avec succès.');
+        return back();
     }
 }

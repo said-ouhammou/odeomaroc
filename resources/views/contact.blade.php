@@ -6,6 +6,19 @@
                 Contactez-nous
             </h1>
 
+            @if (session('success'))
+                <div id="success-message" class="mb-6 bg-green-100 border border-green-400 text-green-700 px-4 py-3 rounded relative" role="alert">
+                    <strong class="font-bold">Succès!</strong>
+                    <span class="block sm:inline">{{ session('success') }}</span>
+                    <span class="absolute top-0 bottom-0 right-0 px-4 py-3">
+                        <svg class="fill-current h-6 w-6 text-green-500" role="button" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                            <title>Close</title>
+                            <path d="M14.348 5.652a1 1 0 10-1.414-1.414L10 7.586 7.066 4.652a1 1 0 00-1.414 1.414L8.586 10l-2.934 2.934a1 1 0 001.414 1.414L10 12.414l2.934 2.934a1 1 0 001.414-1.414L11.414 10l2.934-2.934z"/>
+                        </svg>
+                    </span>
+                </div>
+            @endif
+
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <!-- Contact Form -->
                 <div class="bg-gray-100 p-6 rounded-lg shadow-md">
@@ -21,6 +34,10 @@
                             <label for="email" class="block text-gray-700 font-medium mb-2">Email</label>
                             <input type="email" id="email" name="email" required
                                 class="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-[#800020]">
+                        </div>
+                        <div class="mb-4">
+                            <label for="phone" class="block text-gray-700 font-medium mb-2">Téléphone:</label>
+                            <input type="text" id="phone" name="phone" required class="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-[#800020]">
                         </div>
                         <div class="mb-4">
                             <label for="subject" class="block text-gray-700 font-medium mb-2">Sujet</label>
@@ -79,8 +96,8 @@
                     <div class="mt-8">
                         <h3 class="text-xl font-bold text-gray-900 mb-4">Heures d'ouverture</h3>
                         <ul class="space-y-2 text-gray-600">
-                            <li>Lundi - Vendredi: 9h00 - 19h00</li>
-                            <li>Samedi: 9h00 - 13h00</li>
+                            <li>Lundi - Vendredi: 10h00 - 18h00</li>
+                            <li>Samedi: 10h00 - 14h00</li>
                             <li>Dimanche: Fermé</li>
                         </ul>
                     </div>
@@ -88,6 +105,17 @@
             </div>
         </div>
     </section>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const successMessage = document.getElementById('success-message');
+            if (successMessage) {
+                setTimeout(() => {
+                    successMessage.style.display = 'none';
+                }, 3000); // 3000ms = 3 seconds
+            }
+        });
+    </script>
 
 </x-layout>
 

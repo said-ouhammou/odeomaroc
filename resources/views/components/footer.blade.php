@@ -163,10 +163,9 @@
           © 2024 Odeo.
         </p>
       </div>
+      
       <!-- End Col -->
-  
-      <!-- End Col -->
-  
+
       <div>
         <h4 class="text-xs font-semibold text-gray-900 uppercase dark:text-neutral-100">Société</h4>
   
@@ -206,12 +205,6 @@
         <div class="mt-3 grid space-y-3 text-sm">
           <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 focus:outline-none focus:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200" href="/condition-generale">Termes et conditions</a></p>
           <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 focus:outline-none focus:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200" href="/politique-de-protection-de-la-vie-privee">Confidentialité et Politique</a></p>
-        </div>
-
-        <h4 class="mt-7 text-xs font-semibold text-gray-900 uppercase dark:text-neutral-100">Horaires</h4>
-  
-        <div class="mt-3 grid space-y-3 text-sm">
-          <p class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 focus:outline-none focus:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200">09:00 à 19:00 </p>
         </div>
 
       </div>

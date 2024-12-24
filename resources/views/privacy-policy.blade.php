@@ -3,9 +3,9 @@
 
     <x-privacy.hero/>
     
-    <main class="bg-[#1C1C1C] min-h-[calc(100vh-20rem)]">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-            <div class="prose prose-lg prose-invert max-w-none">
+    <main class="bg-[#f9f5f2] min-h-[calc(100vh-20rem)]">
+        <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+            <div class="prose prose-lg prose-invert max-w-none text-gray-800">
                 <x-privacy.section title="1. Introduction">
                     <p>
                         Chez Odeo, nous accordons une importance capitale à la protection de vos données personnelles. 

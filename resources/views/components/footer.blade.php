@@ -138,7 +138,7 @@
       <div class="col-span-full hidden lg:col-span-1 lg:block">
         <a class="flex-none font-semibold text-xl text-black focus:outline-none focus:opacity-80 dark:text-white" href="#" aria-label="Brand">
           <!-- Odeo -->
-          <img src="http://localhost:8000/images/logo.png" alt="odeo" class="h-10">
+          <img src="/images/logo.png" alt="odeo" class="h-10">
         </a>
 
         <div class="mt-2 grid space-y-3 text-sm">
@@ -226,7 +226,7 @@
         <div class="flex flex-wrap justify-between items-center gap-3">
           <div class="mt-3 sm:hidden">
             <a class="flex-none font-semibold text-xl text-black focus:outline-none focus:opacity-80 dark:text-white" href="#" aria-label="Brand">
-              <img src="http://localhost:8000/images/logo.png" alt="odeo" class="h-10">
+              <img src="/images/logo.png" alt="odeo" class="h-10">
             </a>
             <p class="mt-1 text-xs sm:text-sm text-gray-600 dark:text-neutral-400">
               © 2024 Odeo.

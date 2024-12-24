@@ -18,7 +18,7 @@
 </style>
 
 <div class="">
-    <div class="mt-auto w-full max-w-[85rem] py-10 px-4 sm:px-6 lg:px-8 mx-auto">
+    <div class="mt-auto w-full max-w-[85rem] py-10 px-0 sm:px-4 sm:px-6 lg:px-8 mx-auto">
         <div class="swiper my-tabs">
             <nav class="swiper-wrapper py-4 " aria-label="Tabs" role="tablist" aria-orientation="horizontal">
                 <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755] active" id="tabs-with-icons-item-1" aria-selected="true" data-hs-tab="#tabs-with-icons-1" aria-controls="tabs-with-icons-1" role="tab">
@@ -91,7 +91,7 @@
     <div class="mt-3">
         <div id="tabs-with-icons-1" class=" bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-1">
             <!-- Main Content -->
-            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
                     <!-- Left Column -->
                     <div class="lg:w-1/2  ">
@@ -117,7 +117,7 @@
                             Découvrez une solution complète au-delà d'une simple caisse tactile - Compatible TPE Maroc et adaptée aux fast-food.
                         </p>
 
-                        <p class="text-gray-700 mb-8">
+                        <p class="text-gray-700 mb-4">
                             Odeo propose une solution de caisse manager personnalisée qui révolutionne la gestion de votre restaurant. Notre système combine caisse tactile et logiciel de gestion avancé, avec des prix caisse enregistreuse Maroc adaptés à tous les budgets. Que vous gériez un restaurant traditionnel ou un fast-food, notre solution s'adapte à la taille de votre établissement avec un système TPE paiement intégré.
                         </p>
 
@@ -166,22 +166,211 @@
                             </div>
                         </div>
 
-                            <div class="py-2">
-                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Visionner une démo
-                                    </a>
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Contactez-nous
-                                    </a>
-                                </div>
-                            </div>
+                        <x-buttons class="mt-6"/>
                         </div>
                 </div>
             </main>
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pos.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/pos-o.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pms.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </div>
         </div>
         <div id="tabs-with-icons-2" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-2">
-            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
                     <!-- Left Column -->
                     <div class="lg:w-1/2  ">
@@ -208,7 +397,7 @@
                             Notre caisse enregistreuse tactile va au-delà d'une simple gestion des commandes.
                         </p>
 
-                        <p class="text-gray-700 mb-8">
+                        <p class="text-gray-700 mb-4">
                             Odeo met à votre disposition une caisse tactile Maroc pensée pour les bars et leurs défis quotidiens. Notre système s'adapte à vos besoins spécifiques, de la gestion des happy hours à la comptabilité détaillée des boissons.
                         </p>
 
@@ -255,22 +444,211 @@
                             </div>
                         </div>
 
-                            <div class="py-2">
-                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Visionner une démo
-                                    </a>
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Contactez-nous
-                                    </a>
-                                </div>
-                            </div>
+                            <x-buttons class="mt-6"/>
                         </div>
                 </div>
             </main>
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pos.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/pos-o.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pms.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </div>
         </div>
         <div id="tabs-with-icons-3" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-3">
-            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
                     <!-- Left Column -->
                     <div class="lg:w-1/2  ">
@@ -297,7 +675,7 @@
                             Une caisse enregistreuse qui comprend les spécificités de votre métier.
                         </p>
 
-                        <p class="text-gray-700 mb-8">
+                        <p class="text-gray-700 mb-4">
                             Odeo propose une solution adaptée au rythme unique des boulangeries. Notre système accompagne vos pics d'activité tout en gérant efficacement vos stocks et votre production quotidienne.
                         </p>
 
@@ -344,22 +722,211 @@
                             </div>
                         </div>
 
-                            <div class="py-2">
-                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Visionner une démo
-                                    </a>
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Contactez-nous
-                                    </a>
-                                </div>
-                            </div>
+                            <x-buttons class="mt-6"/>
                         </div>
                 </div>
             </main>
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pos.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/pos-o.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pms.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </div>
         </div>
         <div id="tabs-with-icons-4" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-4">
-            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
                     <!-- Left Column -->
                     <div class="lg:w-1/2  ">
@@ -385,7 +952,7 @@
                             Plus qu'une caisse enregistreuse, un véritable outil de gestion hôtelière.
                         </p>
 
-                        <p class="text-gray-700 mb-8">
+                        <p class="text-gray-700 mb-4">
                             Odeo offre une solution complète qui simplifie la gestion quotidienne de votre hôtel. Notre système intègre toutes les fonctionnalités nécessaires pour optimiser vos opérations et améliorer l'expérience client.
                         </p>
 
@@ -438,22 +1005,211 @@
                             </div>
                         </div>
 
-                            <div class="py-2">
-                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Visionner une démo
-                                    </a>
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Contactez-nous
-                                    </a>
-                                </div>
-                            </div>
+                            <x-buttons class="mt-6"/>
                         </div>
                 </div>
             </main>
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pos.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/pos-o.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pms.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </div>
         </div>
         <div id="tabs-with-icons-5" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-5">
-            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
                     <!-- Left Column -->
                     <div class="lg:w-1/2  ">
@@ -479,7 +1235,7 @@
                             Une caisse enregistreuse spécialement adaptée au pressing.
                         </p>
 
-                        <p class="text-gray-700 mb-8">
+                        <p class="text-gray-700 mb-4">
                             Odeo a développé une solution qui répond aux exigences spécifiques des pressings. Notre système facilite le suivi des commandes, la gestion des délais et la satisfaction client.
                         </p>
 
@@ -527,22 +1283,211 @@
                             </div>
                         </div>
 
-                            <div class="py-2">
-                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Visionner une démo
-                                    </a>
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Contactez-nous
-                                    </a>
-                                </div>
-                            </div>
+                            <x-buttons class="mt-6"/>
                         </div>
                 </div>
             </main>
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pos.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/pos-o.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pms.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </div>
         </div>
         <div id="tabs-with-icons-6" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-6">
-            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
                     <!-- Left Column -->
                     <div class="lg:w-1/2  ">
@@ -568,7 +1513,7 @@
                             Une solution complète adaptée aux maisons d'hôtes.
                         </p>
 
-                        <p class="text-gray-700 mb-8">
+                        <p class="text-gray-700 mb-4">
                             Odeo propose un système parfaitement adapté aux spécificités des riads. Notre solution facilite la gestion des réservations, des services et de l'expérience client unique que propose votre établissement.
                         </p>
 
@@ -615,22 +1560,211 @@
                             </div>
                         </div>
 
-                            <div class="py-2">
-                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Visionner une démo
-                                    </a>
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Contactez-nous
-                                    </a>
-                                </div>
-                            </div>
+                            <x-buttons class="mt-6"/>
                         </div>
                 </div>
             </main>
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pos.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/pos-o.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pms.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </div>
         </div>
         <div id="tabs-with-icons-7" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-7">
-            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
                     <!-- Left Column -->
                     <div class="lg:w-1/2  ">
@@ -655,7 +1789,7 @@
                             Une solution complète adaptée aux maisons d'hôtes.
                         </p>
 
-                        <p class="text-gray-700 mb-8">
+                        <p class="text-gray-700 mb-4">
                             Odeo propose un système parfaitement adapté aux spécificités des riads. Notre solution facilite la gestion des réservations, des services et de l'expérience client unique que propose votre établissement.
                         </p>
 
@@ -702,22 +1836,211 @@
                             </div>
                         </div>
 
-                            <div class="py-2">
-                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Visionner une démo
-                                    </a>
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Contactez-nous
-                                    </a>
-                                </div>
-                            </div>
+                            <x-buttons class="mt-6"/>
                         </div>
                 </div>
             </main>
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pos.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/pos-o.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pms.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </div>
         </div>
         <div id="tabs-with-icons-8" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-8">
-            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
                     <!-- Left Column -->
                     <div class="lg:w-1/2  ">
@@ -742,7 +2065,7 @@
                             Une solution complète adaptée aux maisons d'hôtes.
                         </p>
 
-                        <p class="text-gray-700 mb-8">
+                        <p class="text-gray-700 mb-4">
                             Odeo propose un système parfaitement adapté aux spécificités des riads. Notre solution facilite la gestion des réservations, des services et de l'expérience client unique que propose votre établissement.
                         </p>
 
@@ -789,22 +2112,211 @@
                             </div>
                         </div>
 
-                            <div class="py-2">
-                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Visionner une démo
-                                    </a>
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Contactez-nous
-                                    </a>
-                                </div>
-                            </div>
+                            <x-buttons class="mt-6"/>
                         </div>
                 </div>
             </main>
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pos.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/pos-o.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pms.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </div>
         </div>
         <div id="tabs-with-icons-9" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-9">
-            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
                     <!-- Left Column -->
                     <div class="lg:w-1/2  ">
@@ -829,7 +2341,7 @@
                             Une solution complète adaptée aux maisons d'hôtes.
                         </p>
 
-                        <p class="text-gray-700 mb-8">
+                        <p class="text-gray-700 mb-4">
                             Odeo propose un système parfaitement adapté aux spécificités des riads. Notre solution facilite la gestion des réservations, des services et de l'expérience client unique que propose votre établissement.
                         </p>
 
@@ -876,23 +2388,212 @@
                             </div>
                         </div>
 
-                            <div class="py-2">
-                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Visionner une démo
-                                    </a>
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Contactez-nous
-                                    </a>
-                                </div>
-                            </div>
+                            <x-buttons class="mt-6"/>
                         </div>
                 </div>
             </main>
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pos.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/pos-o.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pms.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </div>
         </div>
 
         <div id="tabs-with-icons-10" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-10">
-            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
                     <!-- Left Column -->
                     <div class="lg:w-1/2  ">
@@ -917,7 +2618,7 @@
                             Plus qu'une caisse enregistreuse, un véritable outil de gestion hôtelière.
                         </p>
 
-                        <p class="text-gray-700 mb-8">
+                        <p class="text-gray-700 mb-4">
                             Odeo offre une solution complète qui simplifie la gestion quotidienne de votre hôtel. Notre système intègre toutes les fonctionnalités nécessaires pour optimiser vos opérations et améliorer l'expérience client.
                         </p>
 
@@ -970,22 +2671,211 @@
                             </div>
                         </div>
 
-                            <div class="py-2">
-                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Visionner une démo
-                                    </a>
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Contactez-nous
-                                    </a>
-                                </div>
-                            </div>
+                            <x-buttons class="mt-6"/>
                         </div>
                 </div>
             </main>
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pos.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/pos-o.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pms.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </div>
         </div>
         <div id="tabs-with-icons-11" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-11">
-            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
                     <!-- Left Column -->
                     <div class="lg:w-1/2  ">
@@ -1010,7 +2900,7 @@
                             Une caisse enregistreuse spécialement adaptée au pressing.
                         </p>
 
-                        <p class="text-gray-700 mb-8">
+                        <p class="text-gray-700 mb-4">
                             Odeo a développé une solution qui répond aux exigences spécifiques des pressings. Notre système facilite le suivi des commandes, la gestion des délais et la satisfaction client.
                         </p>
 
@@ -1058,22 +2948,211 @@
                             </div>
                         </div>
 
-                            <div class="py-2">
-                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Visionner une démo
-                                    </a>
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Contactez-nous
-                                    </a>
-                                </div>
-                            </div>
+                            <x-buttons class="mt-6"/>
                         </div>
                 </div>
             </main>
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pos.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/pos-o.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pms.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </div>
         </div>
         <div id="tabs-with-icons-12" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-12">
-            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
                     <!-- Left Column -->
                     <div class="lg:w-1/2  ">
@@ -1098,7 +3177,7 @@
                             Une solution complète adaptée aux maisons d'hôtes.
                         </p>
 
-                        <p class="text-gray-700 mb-8">
+                        <p class="text-gray-700 mb-4">
                             Odeo propose un système parfaitement adapté aux spécificités des riads. Notre solution facilite la gestion des réservations, des services et de l'expérience client unique que propose votre établissement.
                         </p>
 
@@ -1145,22 +3224,211 @@
                             </div>
                         </div>
 
-                            <div class="py-2">
-                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Visionner une démo
-                                    </a>
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Contactez-nous
-                                    </a>
-                                </div>
-                            </div>
+                            <x-buttons class="mt-6"/>
                         </div>
                 </div>
             </main>
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pos.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/pos-o.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pms.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </div>
         </div>
         <div id="tabs-with-icons-13" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-13">
-            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
                     <!-- Left Column -->
                     <div class="lg:w-1/2  ">
@@ -1185,7 +3453,7 @@
                             Une solution complète adaptée aux maisons d'hôtes.
                         </p>
 
-                        <p class="text-gray-700 mb-8">
+                        <p class="text-gray-700 mb-4">
                             Odeo propose un système parfaitement adapté aux spécificités des riads. Notre solution facilite la gestion des réservations, des services et de l'expérience client unique que propose votre établissement.
                         </p>
 
@@ -1232,22 +3500,211 @@
                             </div>
                         </div>
 
-                            <div class="py-2">
-                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Visionner une démo
-                                    </a>
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Contactez-nous
-                                    </a>
-                                </div>
-                            </div>
+                            <x-buttons class="mt-6"/>
                         </div>
                 </div>
             </main>
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pos.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/pos-o.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pms.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </div>
         </div>
         <div id="tabs-with-icons-14" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-14">
-            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
                     <!-- Left Column -->
                     <div class="lg:w-1/2  ">
@@ -1272,7 +3729,7 @@
                             Une solution complète adaptée aux maisons d'hôtes.
                         </p>
 
-                        <p class="text-gray-700 mb-8">
+                        <p class="text-gray-700 mb-4">
                             Odeo propose un système parfaitement adapté aux spécificités des riads. Notre solution facilite la gestion des réservations, des services et de l'expérience client unique que propose votre établissement.
                         </p>
 
@@ -1319,22 +3776,211 @@
                             </div>
                         </div>
 
-                            <div class="py-2">
-                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Visionner une démo
-                                    </a>
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Contactez-nous
-                                    </a>
-                                </div>
-                            </div>
+                            <x-buttons class="mt-6"/>
                         </div>
                 </div>
             </main>
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pos.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/pos-o.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pms.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </div>
         </div>
         <div id="tabs-with-icons-15" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-15">
-            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
                     <!-- Left Column -->
                     <div class="lg:w-1/2  ">
@@ -1359,7 +4005,7 @@
                             Une solution complète adaptée aux maisons d'hôtes.
                         </p>
 
-                        <p class="text-gray-700 mb-8">
+                        <p class="text-gray-700 mb-4">
                             Odeo propose un système parfaitement adapté aux spécificités des riads. Notre solution facilite la gestion des réservations, des services et de l'expérience client unique que propose votre établissement.
                         </p>
 
@@ -1406,30 +4052,220 @@
                             </div>
                         </div>
 
-                            <div class="py-2">
-                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Visionner une démo
-                                    </a>
-                                    <a href="#" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Contactez-nous
-                                    </a>
+                            <x-buttons class="mt-6"/>
+                        </div>
+                </div>
+                
+            </main>
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
                                 </div>
                             </div>
                         </div>
-                </div>
-            </main>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pos.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/pos-o.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                Stock avec Lightspeed Inventory
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                                <div class="flex gap-4">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                    <p class="text-gray-900 ">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pms.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </div>
         </div>
     </div>
 </div>
 </div>
 
 
-  <!-- Swiper JS -->
-  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<!-- Swiper JS -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
-  <!-- Initialize Swiper -->
-  <script>
+<!-- Initialize Swiper -->
+<script>
 
 
 var swiper = new Swiper(".my-tabs", {

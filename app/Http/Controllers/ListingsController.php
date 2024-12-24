@@ -31,6 +31,7 @@ class ListingsController extends Controller
             Lounge (correct)
             Bar (correct)
             Piscine
+            boutique
             PMS (si c’est un système, utilisez Système PMS pour plus de clarté)
             Hôtel
             Maison d’hôtes
@@ -51,9 +52,69 @@ class ListingsController extends Controller
             POS pour bars et cafés
             Système de caisse tout-en-un
             Logiciel de gestion hôtelière PMS
+
+
+            ===========================================
+            Nos Produits
+            Logiciel
         */
         
         $listings = [
+            [
+                "id"=>1,
+                "title"=>"Tirez le meilleur de votre activité",
+                "slug"=>"boutique",
+                "short_description"=>"Odeo, le logiciel de caisse tout-en-un et sa plateforme de paiements intégrée, équipe les meilleurs restaurants et commerçants dans plus de 165 000 emplacements dans le monde.* ",
+                "description"=>"",
+                "image"=>[
+                    "url"=>"/images/b/boutique.jpg",
+                    "alt"=>"odeo - caisse enregesture - resturants",
+                ],
+                "sections"=>[
+                    [
+                        "title"=>"Stock avec Odeo Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
+                        "image"=>[
+                            "url"=>"/images/products/odeo-pos.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                    [
+                        "title"=>"Stock avec Lightspeed Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
+                        "image"=>[
+                            "url"=>"/images/products/pos-o.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                    [
+                        "title"=>"Stock avec Lightspeed Inventory",
+                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
+                        "image"=>[
+                            "url"=>"/images/products/odeo-pms.png",
+                            "alt"=>"Stock avec Lightspeed Inventory",
+                        ],
+                        "features"=>[
+                            "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
+                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute ",
+                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
+                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                        ],
+                    ],
+                ],
+            ],
             [
                 "id"=>1,
                 "title"=>"Tirez le meilleur de votre activité",

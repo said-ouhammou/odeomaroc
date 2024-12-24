@@ -2,11 +2,11 @@
     @if ($listing)
         <section class="">
             <div class="grid lg:grid-cols-2 items-center ">
-                <div class="bg-[#4a1d34] flex flex-col justify-center p-6 h-full">
-                    <p class="text-white text-sm uppercase tracking-widest font-medium">
+                <div class="bg-[#4a1d34] flex flex-col justify-center p-6 h-full order-2 lg:order-1">
+                    <p class="text-white text-sm uppercase tracking-widest font-medium mb-3">
                         CAISSE ENREGISTREUSE - ODEO
                     </p>
-                    <h1 class="text-white text-4xl sm:text-5xl font-bold leading-tight">
+                    <h1 class="text-white text-xl sm:text-3xl md:text-4xl lg:text-5xl font-bold leading-tight">
                         {{-- Tirez le meilleur de votre activité --}}
                         {{$listing['title']}}
                     </h1>
@@ -26,7 +26,7 @@
                         </div>
                     </div>
                 </div>
-                <div class=" bg-[#f8f5f2] flex items-center justify-center">
+                <div class=" bg-[#f8f5f2] flex items-center justify-center order-1 lg:order-2">
                     {{-- <img src="{{asset('/images/b/b-1.jpg')}}" alt="CAISSE ENREGISTREUSE - ODEO " class="block max-h-[500px] object-cover"> --}}
                     <img src="{{ asset($listing['image']['url']) }}" 
                     alt="{{ $listing['image']['alt'] }}" 
@@ -40,7 +40,7 @@
             <div class="flex flex-col lg:flex-row gap-12">
                 <!-- Left Column -->
                 <div class="lg:w-1/2">
-                    <h1 class="text-[#4a1d34] text-4xl lg:text-5xl font-bold mb-6">
+                    <h1 class="text-[#4a1d34] text-xl sm:text-3xl md:text-4xl lg:text-5xl font-bold mb-6">
                         {{-- Stock avec Lightspeed Inventory --}}
                         {{$listing['sections'][0]['title']}}
                     </h1>
@@ -110,7 +110,7 @@
 
                 <!-- Right Column -->
                 <div class="lg:w-1/2">
-                    <h1 class="text-[#4a1d34] text-4xl lg:text-5xl font-bold mb-6">
+                    <h1 class="text-[#4a1d34] text-xl sm:text-3xl md:text-4xl lg:text-5xl font-bold mb-6">
                         {{-- Stock avec Lightspeed Inventory --}}
                         {{$listing['sections'][1]['title']}}
                     </h1>
@@ -139,7 +139,7 @@
             <div class="flex flex-col lg:flex-row gap-12">
                 <!-- Left Column -->
                 <div class="lg:w-1/2">
-                    <h1 class="text-[#4a1d34] text-4xl lg:text-5xl font-bold mb-6">
+                    <h1 class="text-[#4a1d34] text-xl sm:text-3xl md:text-4xl lg:text-5xl font-bold mb-6">
                         {{-- Stock avec Lightspeed Inventory --}}
                         {{$listing['sections'][2]['title']}}
                     </h1>
@@ -187,7 +187,7 @@
         @include('partials.webapp')
 
         <x-reviews/>
-        <x-buttons/>
+        <x-buttons class="justify-center"/>
 
     @else
     <div class="bg-[#f8f5f2]">

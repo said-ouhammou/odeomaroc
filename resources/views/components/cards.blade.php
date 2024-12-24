@@ -1,9 +1,9 @@
-<div class="max-w-7xl mx-auto px-10 py-16 my-8">
-    <h1 class="text-3xl md:text-4xl font-bold text-center mb-16">
+<div class="max-w-7xl mx-auto px-4 sm:px-10 py-8 sm:py-16 my-8">
+    <h1 class="text-xl sm:text-2xl md:text-3xl font-bold text-center mb-16">
       Odeo équipe les meilleurs établissements au Maroc, offrant des solutions innovantes pour une gestion simplifiée et efficace.
     </h1>
     
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-4">
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 md:gap-4">
         <!-- First Stat -->
         <div class="flex flex-col items-center text-center">
             <div class="flex items-center">

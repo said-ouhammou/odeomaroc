@@ -1,5 +1,5 @@
 <section class="bg-[#812755]  relative overflow-hidden">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 relative z-10">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 sm:py-20 relative z-10">
       <div class="grid lg:grid-cols-2 gap-12 items-center">
         <!-- Text Content -->
         <div class="space-y-8">
@@ -7,7 +7,7 @@
             <p class="text-white text-sm uppercase tracking-widest font-medium">
               CAISSE ENREGISTREUSE - ODEO
             </p>
-            <h1 class="text-white text-4xl sm:text-5xl font-bold leading-tight">
+            <h1 class="text-white text-2xl sm:text-5xl font-bold leading-tight">
               {{-- Tirez le meilleur de votre activité --}}
               Innovation en caisse tactile pour votre succès
             </h1>

@@ -14,6 +14,10 @@ Route::get('/solutions', function () {
 
 Route::get('/solutions/{slug}', [ListingsController::class,'index']);
 
+Route::get('/produits', function() {
+    return view('products');
+});
+
 Route::get('/politique-de-protection-de-la-vie-privee', function () {
     return view('privacy-policy');
 });

@@ -1,4 +1,9 @@
-<main class="max-w-7xl bg-[#f8f5f2]  my-2 rounded-[50px] mx-auto px-4 sm:px-6 lg:px-8 py-12">
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <h1 class="text-[#4a1d34] text-xl md:text-4xl lg:text-5xl font-bold mb-6">
+        Une application back office inclue avec tous nos solutions
+    </h1>
+</div>
+<main class="max-w-7xl bg-[#f8f5f2]  my-2 rounded-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
     <div class="flex flex-col lg:flex-row gap-12">
         <!-- Left Column -->
         <div class="lg:w-1/2 text-black">
@@ -67,7 +72,7 @@
     </div>
 </main>
 
-<main class="max-w-7xl bg-[#f8f5f2] my-2 rounded-[50px]  mx-auto px-4 sm:px-6 lg:px-8 py-12">
+<main class="max-w-7xl bg-[#f8f5f2] my-2 rounded-3xl  mx-auto px-4 sm:px-6 lg:px-8 py-12">
     <div class="flex flex-col lg:flex-row gap-12">
         <!-- Left Column -->
         <div class="lg:w-1/2 h-fit border-2 border-solid border-[#812755] rounded-xl ">
@@ -141,7 +146,7 @@
     </div>
 </main>
 
-<main class="max-w-7xl bg-[#f8f5f2] my-2 rounded-[50px]  mx-auto px-4 sm:px-6 lg:px-8 py-12">
+<main class="max-w-7xl bg-[#f8f5f2] my-2 rounded-3xl  mx-auto px-4 sm:px-6 lg:px-8 py-12">
     <div class="flex flex-col lg:flex-row gap-12">
         <!-- Left Column -->
         <div class="lg:w-1/2 text-black">

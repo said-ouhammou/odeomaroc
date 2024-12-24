@@ -1,5 +1,5 @@
 <section class="bg-[#f8f5f2] py-6">
-    <div class="container mx-auto px-10">
+    <div class="container mx-auto px-4 sm:px-10">
         <div class="grid md:grid-cols-2 gap-4 items-center justify-items-center ">
             
             <div class="w-full max-w-xl bg-white border border-gray-200 rounded-3xl dark:bg-gray-800 dark:border-gray-700 overflow-hidden">

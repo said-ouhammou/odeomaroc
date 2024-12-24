@@ -71,77 +71,82 @@
                         <div class="hs-dropdown-menu transition-[opacity,margin] duration-[0.1ms] md:duration-[150ms] hs-dropdown-open:opacity-100 opacity-0 relative md:w-48 hidden z-10 md:mt-2 md:!mx-[10px] md:top-0 md:end-full ps-7 md:ps-0 md:bg-white md:rounded-lg md:shadow-md dark:bg-neutral-800 dark:divide-neutral-700 before:hidden md:before:block before:absolute before:-end-5 before:top-0 before:h-full before:w-5 md:after:hidden after:absolute after:top-1 after:start-[18px] after:w-0.5 after:h-[calc(100%-0.25rem)] after:bg-gray-100 dark:md:bg-neutral-800 dark:after:bg-neutral-700" role="menu" aria-orientation="vertical" aria-labelledby="hs-header-base-dropdown-sub">
                           <ul class="max-h-[400px] overflow-x-auto">
                             <li>
-                              <a href="/solutions/restaurant" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-                                Restaurant
+                              <a href="/solutions/restaurant" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+                                Restaurant 
                               </a>
                             </li>
                             <li>
-                              <a href="/solutions/snack" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                              <a href="/solutions/snack" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
                                 Snack
                               </a>
                             </li>
                             <li>
-                              <a href="/solutions/cafe" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                              <a href="/solutions/cafe" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
                                 Café
                               </a>
                             </li>
                             <li>
-                              <a href="/solutions/salon-de-the" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                              <a href="/solutions/salon-de-the" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
                                 Salon de thé
                               </a>
                             </li>
                             <li>
-                              <a href="/solutions/patisserie" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                              <a href="/solutions/patisserie" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
                                 Pâtisserie
                               </a>
                             </li>
                             <li>
-                              <a href="/solutions/boulangerie" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                              <a href="/solutions/boulangerie" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
                                 Boulangerie
                               </a>
                             </li>
                             <li>
-                              <a href="/solutions/fast-food" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                              <a href="/solutions/fast-food" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
                                 Fast-food
                               </a>
                             </li>
                             <li>
-                              <a href="/solutions/night-club" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                              <a href="/solutions/night-club" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
                                 Night-club 
                               </a>
                             </li>
                             <li>
-                              <a href="/solutions/lounge" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                              <a href="/solutions/lounge" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
                                 Lounge
                               </a>
                             </li>
                             <li>
-                              <a href="/solutions/bar" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                              <a href="/solutions/bar" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
                                 Bar
                               </a>
                             </li>
                             <li>
-                              <a href="/solutions/spa" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                              <a href="/solutions/spa" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
                                 spa
                               </a>
                             </li>
                             <li>
-                              <a href="/solutions/piscine" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                              <a href="/solutions/piscine" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
                                 Piscine
                               </a>
                             </li>
                             <li>
-                              <a href="/solutions/hotel" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                              <a href="/solutions/boutique" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+                                Boutique
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/solutions/hotel" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
                                 Hôtel
                               </a>
                             </li>
                             <li>
-                              <a href="/solutions/maison-d-hotes" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                              <a href="/solutions/maison-d-hotes" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
                                 Maison d’hôtes
                               </a>
                             </li>
                             <li>
-                              <a href="/solutions/riad" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+                              <a href="/solutions/riad" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
                                 Riad
                               </a>
                             </li>
@@ -160,96 +165,50 @@
                         <div class="hs-dropdown-menu transition-[opacity,margin] duration-[0.1ms] md:duration-[150ms] hs-dropdown-open:opacity-100 opacity-0 relative md:w-48 hidden z-10 md:mt-2 md:!mx-[10px] md:top-0 md:end-full ps-7 md:ps-0 md:bg-white md:rounded-lg md:shadow-md dark:bg-neutral-800 dark:divide-neutral-700 before:hidden md:before:block before:absolute before:-end-5 before:top-0 before:h-full before:w-5 md:after:hidden after:absolute after:top-1 after:start-[18px] after:w-0.5 after:h-[calc(100%-0.25rem)] after:bg-gray-100 dark:md:bg-neutral-800 dark:after:bg-neutral-700" role="menu" aria-orientation="vertical" aria-labelledby="hs-header-base-dropdown-sub">
                           <ul class="max-h-[400px] overflow-x-auto">
                             <li>
-                              <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-                                Restaurant
+                              <a href="#" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+                                Caisse enregistreuse
                               </a>
                             </li>
                             <li>
-                              <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-                                Gastronomique
+                              <a href="#" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+                                Imprimante technique 
                               </a>
                             </li>
                             <li>
-                              <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-                                Multi-site
+                              <a href="#" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+                                Rouleau imprimante technique
                               </a>
                             </li>
                             <li>
-                              <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-                                Hôtel
+                              <a href="#" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+                                Douchette / Lecteur code-barres
                               </a>
                             </li>
                             <li>
-                              <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-                                Bar
+                              <a href="#" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+                                Totem publicitaire interactif
                               </a>
                             </li>
                             <li>
-                              <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-                                Café
+                              <a href="#" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+                                Kitchen Display - Écran de cuisine
                               </a>
                             </li>
                             <li>
-                              <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-                                Restauration rapide
+                              <a href="#" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+                                Tiroir de caisse 
                               </a>
                             </li>
                             <li>
-                              <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-                                Riads
+                              <a href="#" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+                                PDA POS / Tablette de prise de commande
                               </a>
-                            </li>
-                            <li>
-                              <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-                                Spas
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-                                Resorts
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-                                Centres de vacances
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-                                Auberges
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-                                Chambres d'hôtes
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-                                Locations de vacances
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-                                Croisières
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-                                Club de golf
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-                                Camping
-                              </a>
-                            </li>
-                            
+                            </li>                            
                           </ul>
                         </div>
                       </div>  
   
-                      <a class="p-2 md:px-3 flex items-center text-sm text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300" href="/solutions">
+                      <a class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300" href="/solutions">
                         Nos Solutions
                       </a>
                     </div>
@@ -297,142 +256,147 @@
 
       <ul class="">
         <li>
-          <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+          <a href="/solutions/restaurant " class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
             Restaurant
           </a>
         </li>
         <li>
-          <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-            Gastronomique
+          <a href="/solutions/snack" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+            Snack
           </a>
         </li>
         <li>
-          <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-            Multi-site
-          </a>
-        </li>
-        <li>
-          <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-            Hôtel
-          </a>
-        </li>
-        <li>
-          <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-            Bar
-          </a>
-        </li>
-        <li>
-          <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+          <a href="/solutions/cafe" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
             Café
           </a>
         </li>
         <li>
-          <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+          <a href="/solutions/salon-de-the" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+            Salon de thé
+          </a>
+        </li>
+        <li>
+          <a href="/solutions/patisserie" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+            Pâtisserie
+          </a>
+        </li>
+        <li>
+          <a href="/solutions/boulangerie" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+            Boulangerie
+          </a>
+        </li>
+        <li>
+          <a href="/solutions/fast-food" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
             Restauration rapide
           </a>
         </li>
         <li>
-          <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-            Riads
+          <a href="/solutions/night-club" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+            Night-club
           </a>
         </li>
         <li>
-          <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-            Spas
+          <a href="/solutions/lounge" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+            Lounge
           </a>
         </li>
         <li>
-          <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-            Resorts
+          <a href="/solutions/bar" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+            Bar
           </a>
         </li>
         <li>
-          <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-            Centres de vacances
+          <a href="/solutions/piscine" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+            Piscine
           </a>
         </li>
         <li>
-          <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-            Auberges
+          <a href="/solutions/boutique" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+            Boutique
           </a>
         </li>
         <li>
-          <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-            Chambres d'hôtes
+          <a href="/solutions/hotel" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+            Hôtel
           </a>
         </li>
         <li>
-          <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-            Locations de vacances
+          <a href="/solutions/maison-d-hotes" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+            Maison d’hôtes
           </a>
         </li>
         <li>
-          <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-            Croisières
-          </a>
-        </li>
-        <li>
-          <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-            Club de golf
-          </a>
-        </li>
-        <li>
-          <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-            Camping
+          <a href="/solutions/riad" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+            Riad
           </a>
         </li>
         
       </ul>
-      <p class="text-lg font-semibold text-gray-800 uppercase py-3">Nos produits</p>
+      <a href="/produits" class="block text-lg font-semibold text-gray-800 uppercase py-3">Nos produits</a>
       <ul class="">
         <li>
-          <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
+          <a href="#" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
             Caisse enregistreuse
           </a>
         </li>
         <li>
-          <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-            Système de gestion de restaurant
+          <a href="#" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+            Imprimante technique 
           </a>
         </li>
         <li>
-          <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-            Gestion des stocks
+          <a href="#" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+            Rouleau imprimante technique
           </a>
         </li>
         <li>
-          <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-            Terminal de paiement
+          <a href="#" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+            Douchette / Lecteur code-barres
           </a>
         </li>
         <li>
-          <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-            Application de caisse mobile
+          <a href="#" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+            Totem publicitaire interactif
           </a>
         </li>
         <li>
-          <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-            Gestion des réservations (PMS)
+          <a href="#" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+            Kitchen Display - Écran de cuisine
           </a>
         </li>
         <li>
-          <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-            Gestion des paiements
+          <a href="#" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+            Tiroir de caisse 
           </a>
         </li>
         <li>
-          <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-            Rapports et statistiques
+          <a href="#" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+            PDA POS / Tablette de prise de commande
+          </a>
+        </li>
+      </ul>
+
+      {{-- Nos services --}}
+      <a href="https://www.odeosystems.com" target="_blank" class="block text-lg font-semibold text-gray-800 uppercase py-3">Nos services</a>
+      <ul class="">
+        <li>
+          <a href="https://www.odeosystems.com/developpement-site-web" target="_blank" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+            Développement des sites web
           </a>
         </li>
         <li>
-          <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-            Gestion des employés
+          <a href="https://www.odeosystems.com/developpement-application-web" target="_blank" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+            Développement des applications web 
           </a>
         </li>
         <li>
-          <a href="#" class="block p-2 rounded-md underline font-semibold bg-opacity-10 text-[#812755] hover:bg-opacity-20 transition-colors duration-200">
-            Interface utilisateur
+          <a href="https://www.odeosystems.com/developpement-application-mobile" target="_blank" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+            Développement des applications mobile
+          </a>
+        </li>
+        <li>
+          <a href="https://www.odeosystems.com/consultation-en-technologie" target="_blank" class="p-2 md:px-3 flex items-center text-mg text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-none focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300">
+            Consultation en Technologie
           </a>
         </li>
       </ul>

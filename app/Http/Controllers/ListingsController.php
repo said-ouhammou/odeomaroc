@@ -76,7 +76,7 @@ class ListingsController extends Controller
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pos.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
@@ -86,11 +86,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
                         "image"=>[
                             "url"=>"/images/products/pos-o.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -100,11 +100,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pms.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -131,7 +131,7 @@ class ListingsController extends Controller
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pos.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
@@ -141,11 +141,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
                         "image"=>[
                             "url"=>"/images/products/pos-o.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -155,11 +155,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pms.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -186,7 +186,7 @@ class ListingsController extends Controller
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pos.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
@@ -196,11 +196,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
                         "image"=>[
                             "url"=>"/images/products/pos-o.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -210,11 +210,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pms.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -241,7 +241,7 @@ class ListingsController extends Controller
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pos.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
@@ -251,11 +251,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
                         "image"=>[
                             "url"=>"/images/products/pos-o.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -265,11 +265,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pms.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -296,7 +296,7 @@ class ListingsController extends Controller
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pos.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
@@ -306,11 +306,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
                         "image"=>[
                             "url"=>"/images/products/pos-o.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -320,11 +320,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pms.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -351,7 +351,7 @@ class ListingsController extends Controller
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pos.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
@@ -361,11 +361,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
                         "image"=>[
                             "url"=>"/images/products/pos-o.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -375,11 +375,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pms.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -406,7 +406,7 @@ class ListingsController extends Controller
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pos.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
@@ -416,11 +416,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
                         "image"=>[
                             "url"=>"/images/products/pos-o.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -430,11 +430,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pms.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -461,7 +461,7 @@ class ListingsController extends Controller
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pos.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
@@ -471,11 +471,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
                         "image"=>[
                             "url"=>"/images/products/pos-o.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -485,11 +485,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pms.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -516,7 +516,7 @@ class ListingsController extends Controller
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pos.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
@@ -526,11 +526,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
                         "image"=>[
                             "url"=>"/images/products/pos-o.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -540,11 +540,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pms.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -571,7 +571,7 @@ class ListingsController extends Controller
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pos.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
@@ -581,11 +581,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
                         "image"=>[
                             "url"=>"/images/products/pos-o.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -595,11 +595,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pms.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -626,7 +626,7 @@ class ListingsController extends Controller
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pos.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
@@ -636,11 +636,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
                         "image"=>[
                             "url"=>"/images/products/pos-o.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -650,11 +650,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pms.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -681,7 +681,7 @@ class ListingsController extends Controller
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pos.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
@@ -691,11 +691,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
                         "image"=>[
                             "url"=>"/images/products/pos-o.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -705,11 +705,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pms.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -736,7 +736,7 @@ class ListingsController extends Controller
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pos.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
@@ -746,11 +746,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
                         "image"=>[
                             "url"=>"/images/products/pos-o.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -760,11 +760,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pms.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -791,7 +791,7 @@ class ListingsController extends Controller
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pos.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
@@ -801,11 +801,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
                         "image"=>[
                             "url"=>"/images/products/pos-o.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -815,11 +815,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pms.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -846,7 +846,7 @@ class ListingsController extends Controller
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pos.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
@@ -856,11 +856,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
                         "image"=>[
                             "url"=>"/images/products/pos-o.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -870,11 +870,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pms.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -901,7 +901,7 @@ class ListingsController extends Controller
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pos.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
@@ -911,11 +911,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. - odeo ",
                         "image"=>[
                             "url"=>"/images/products/pos-o.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",
@@ -925,11 +925,11 @@ class ListingsController extends Controller
                         ],
                     ],
                     [
-                        "title"=>"Stock avec Lightspeed Inventory",
+                        "title"=>"Stock avec Odeo Inventory",
                         "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
                         "image"=>[
                             "url"=>"/images/products/odeo-pms.png",
-                            "alt"=>"Stock avec Lightspeed Inventory",
+                            "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
                             "Dites adieu au comptage manuel avec des inventaires automatisés en temps réel et des rapports de gaspillage",

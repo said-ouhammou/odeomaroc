@@ -176,7 +176,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -261,7 +261,7 @@
                         <!-- Right Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -307,7 +307,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -454,7 +454,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -539,7 +539,7 @@
                         <!-- Right Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -585,7 +585,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -732,7 +732,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -817,7 +817,7 @@
                         <!-- Right Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -863,7 +863,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -1015,7 +1015,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -1100,7 +1100,7 @@
                         <!-- Right Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -1146,7 +1146,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -1293,7 +1293,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -1378,7 +1378,7 @@
                         <!-- Right Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -1424,7 +1424,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -1570,7 +1570,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -1655,7 +1655,7 @@
                         <!-- Right Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -1701,7 +1701,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -1846,7 +1846,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -1931,7 +1931,7 @@
                         <!-- Right Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -1977,7 +1977,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -2122,7 +2122,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -2207,7 +2207,7 @@
                         <!-- Right Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -2253,7 +2253,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -2398,7 +2398,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -2483,7 +2483,7 @@
                         <!-- Right Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -2529,7 +2529,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -2681,7 +2681,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -2766,7 +2766,7 @@
                         <!-- Right Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -2812,7 +2812,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -2958,7 +2958,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -3043,7 +3043,7 @@
                         <!-- Right Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -3089,7 +3089,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -3234,7 +3234,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -3319,7 +3319,7 @@
                         <!-- Right Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -3365,7 +3365,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -3510,7 +3510,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -3595,7 +3595,7 @@
                         <!-- Right Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -3641,7 +3641,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -3786,7 +3786,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -3871,7 +3871,7 @@
                         <!-- Right Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -3917,7 +3917,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -4063,7 +4063,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -4148,7 +4148,7 @@
                         <!-- Right Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">
@@ -4194,7 +4194,7 @@
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Lightspeed Inventory
+                                Stock avec Odeo Inventory
                             </h1>
                             
                             <div class="space-y-8">

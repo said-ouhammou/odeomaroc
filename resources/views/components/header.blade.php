@@ -44,7 +44,7 @@
             <!-- End Offcanvas Header -->
             <div class="grow">
               <div class="flex flex-col md:flex-row md:justify-end md:items-center gap-0.5 md:gap-1">
-                <a href="#" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-4 py-2 rounded-full text-xs font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
+                <a href="/contact" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-4 py-2 rounded-full text-xs font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
                   Visionner une démo
                 </a>
                 

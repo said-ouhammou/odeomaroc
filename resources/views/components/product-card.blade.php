@@ -24,7 +24,7 @@
                             <!-- Left Column -->
                             <div class="lg:w-1/2 ">
                                 <h1 class="text-[#4a1d34] text-2xl lg:text-3xl font-bold mb-6">
-                                    {{-- Stock avec Lightspeed Inventory --}}
+                                    {{-- Stock avec Odeo Inventory --}}
                                     {{$product['title']}}
                                 </h1>
                                 <p class="text-md text-[#812755] mb-8">

@@ -17,10 +17,10 @@
                 
                     <div>
                         <div class="mt-3 flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
-                            <a href="#" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-4 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
+                            <a href="/contact" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-4 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
                                 Visionner une démo
                             </a>
-                            <a href="#" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-white text-center px-8 py-4 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
+                            <a href="/contact" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-white text-center px-8 py-4 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
                                 Contactez-nous
                             </a>
                         </div>
@@ -41,7 +41,7 @@
                 <!-- Left Column -->
                 <div class="lg:w-1/2">
                     <h1 class="text-[#4a1d34] text-xl sm:text-3xl md:text-4xl lg:text-5xl font-bold mb-6">
-                        {{-- Stock avec Lightspeed Inventory --}}
+                        {{-- Stock avec Odeo Inventory --}}
                         {{$listing['sections'][0]['title']}}
                     </h1>
                     <p class="text-md text-[#812755] mb-8">
@@ -111,7 +111,7 @@
                 <!-- Right Column -->
                 <div class="lg:w-1/2">
                     <h1 class="text-[#4a1d34] text-xl sm:text-3xl md:text-4xl lg:text-5xl font-bold mb-6">
-                        {{-- Stock avec Lightspeed Inventory --}}
+                        {{-- Stock avec Odeo Inventory --}}
                         {{$listing['sections'][1]['title']}}
                     </h1>
                     <p class="text-md text-[#812755] mb-8">
@@ -140,7 +140,7 @@
                 <!-- Left Column -->
                 <div class="lg:w-1/2">
                     <h1 class="text-[#4a1d34] text-xl sm:text-3xl md:text-4xl lg:text-5xl font-bold mb-6">
-                        {{-- Stock avec Lightspeed Inventory --}}
+                        {{-- Stock avec Odeo Inventory --}}
                         {{$listing['sections'][2]['title']}}
                     </h1>
                     <p class="text-md text-[#812755] mb-8">

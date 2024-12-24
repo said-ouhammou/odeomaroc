@@ -37,10 +37,10 @@ class ProductCard extends Component
             ],
             [
                 "id" => 2,
-                "title" => "Imprimante technique",
+                "title" => "Imprimante thermique",
                 "short_description" => "Imprimez vos tickets avec rapidité et efficacité.",
-                "description" => "Cette imprimante technique est spécialement conçue pour imprimer des tickets et reçus avec une grande précision et rapidité. Elle supporte divers formats de papier et offre des options de connectivité comme USB et Bluetooth, ce qui la rend flexible et adaptée à tout environnement professionnel. Sa faible consommation énergétique en fait un choix écologique et économique.",
-                "image" => "/images/products/imprimante-technique-2.avif",
+                "description" => "Cette imprimante thermique est spécialement conçue pour imprimer des tickets et reçus avec une grande précision et rapidité. Elle supporte divers formats de papier et offre des options de connectivité comme USB et Bluetooth, ce qui la rend flexible et adaptée à tout environnement professionnel. Sa faible consommation énergétique en fait un choix écologique et économique.",
+                "image" => "/images/products/imprimante-thermique-2.avif",
                 "features" => [
                     "Impression rapide et silencieuse",
                     "Supporte divers formats de papier",
@@ -50,13 +50,13 @@ class ProductCard extends Component
             ],
             [
                 "id" => 3,
-                "title" => "Rouleau imprimante technique",
+                "title" => "Rouleau imprimante thermique",
                 "short_description" => "Papier thermique de haute qualité pour imprimantes.",
-                "description" => "Les rouleaux pour imprimantes techniques sont conçus pour offrir une impression de qualité supérieure. Fabriqués avec du papier thermique durable, ils garantissent une longue durée d'utilisation et sont compatibles avec la majorité des imprimantes disponibles sur le marché. Faciles à installer, ces rouleaux sont idéals pour une utilisation professionnelle.",
-                "image" => "/images/products/rouleau-imprimante-technique.avif",
+                "description" => "Les rouleaux pour imprimantes thermiques sont conçus pour offrir une impression de qualité supérieure. Fabriqués avec du papier thermique durable, ils garantissent une longue durée d'utilisation et sont compatibles avec la majorité des imprimantes disponibles sur le marché. Faciles à installer, ces rouleaux sont idéals pour une utilisation professionnelle.",
+                "image" => "/images/products/rouleau-imprimante-thermique.avif",
                 "features" => [
                     "Papier thermique de haute qualité",
-                    "Compatible avec la plupart des imprimantes techniques",
+                    "Compatible avec la plupart des imprimantes thermiques",
                     "Longue durée d'utilisation",
                     "Facile à installer et à remplacer",
                 ],

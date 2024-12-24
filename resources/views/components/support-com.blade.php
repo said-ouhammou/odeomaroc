@@ -7,16 +7,16 @@
               <p class="text-md md:text-lg leading-relaxed mb-8 text-white">
                 Avec des solutions innovantes et un accompagnement sur mesure, Odeo est bien plus qu’un simple outil de gestion – c’est votre allié pour faire grandir votre entreprise au quotidien.
               </p>
-              <a href="#" class="w-full sm:w-auto inline-block bg-white border-2 border-white text-[#812755] text-center  px-8 py-4 rounded-full text-lg font-bold transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2  focus:ring-opacity-50">
+              {{-- <a href="#" class="w-full sm:w-auto inline-block bg-white border-2 border-white text-[#812755] text-center  px-8 py-4 rounded-full text-lg font-bold transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2  focus:ring-opacity-50">
                 En savoir plus
-              </a>
+              </a> --}}
           </div>
   
           <!-- Image -->
           <div class="relative">
               <img 
                   src="{{asset('/images/s/ss.jpg')}}" 
-                  alt="Professionnels Lightspeed" 
+                  alt="Professionnels Odeo" 
                   class="w-full rounded-lg shadow-lg"
               />
           </div>

@@ -33,7 +33,7 @@
       <div>
         <h4 class="text-xs font-semibold text-gray-900 uppercase dark:text-neutral-100">Nos Produits</h4>
   
-        <div class="mt-3 grid space-y-3 text-sm border-r-2">
+        <div class="mt-3 grid space-y-3 text-sm border-r-2 px-[0.3rem]">
           <p>
             <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 focus:outline-none focus:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200" href="/solutions/restaurant">
               caisse enregistreuse Restaurant

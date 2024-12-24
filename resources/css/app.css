@@ -1,3 +1,34 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+	font-family: 'FFRealRegular';
+	src: url('./fonts/FFRealTextRegular.woff');
+}
+
+@font-face {
+	font-family: 'FFRealBold';
+	src: url('./fonts/FFRealTextBold.woff2');
+}
+
+@font-face {
+	font-family: 'Inter';
+	src: url('./fonts/Inter-Regular.ttf');
+}
+
+html {
+	/* font-family:"Roboto", sans-serif; */
+	/* font-family: 'FFRealRegular'; */
+	/* font-family: 'FFRealRegular'; */
+	font-family: 'Inter';
+	scroll-behavior:smooth;
+}
+
+p {
+	font-family:"Inter", sans-serif;
+	font-size:15px;
+	font-weight:400;
+}
+
+

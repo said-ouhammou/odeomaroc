@@ -22,10 +22,10 @@ class ContactController extends Controller
         Contact::create($validated);
         
         // Send email
-        Mail::to('contact@odeosystems.com')->send(new ContactFormSubmission($validated));
+        Mail::to('contact@odeo.ma')->send(new ContactFormSubmission($validated));
 
         // Redirect back with success message
-         // Flash success message
+        // Flash success message
         session()->flash('success', 'Votre message a été envoyé avec succès.');
         return back();
     }

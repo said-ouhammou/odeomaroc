@@ -187,7 +187,7 @@
         @isset($listing['sections'][3]['additional_info'])
             <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 pb-4">
                 <div class="flex flex-col lg:flex-row gap-12">
-                    <div class="lg:w-1/2 bg-[#f2f2f4] p-6" style="border-radius:2rem">
+                    <div class="lg:w-1/2 bg-[#f2f2f4] p-6" style="border-radius:2rem;background:#f2f2f4">
                         <h1 class="text-[#4a1d34] text-xl sm:text-3xl md:text-4xl lg:text-4xl font-bold mb-6">
                             {!! $listing['sections'][3]['additional_info']['pourquoi'] !!}
                         </h1>
@@ -216,7 +216,7 @@
                         </div>
                     </div>
 
-                    <div class="lg:w-1/2 bg-[#f2f2f4] p-6" style="border-radius:2rem">
+                    <div class="lg:w-1/2 bg-[#f2f2f4] p-6" style="border-radius:2rem;background:#f2f2f4">
                         <h1 class="text-[#4a1d34] text-xl sm:text-3xl md:text-4xl lg:text-4xl font-bold mb-6">
                             {!! $listing['sections'][3]['additional_info']['avantages'] !!}
                         </h1>
@@ -248,14 +248,14 @@
 
                 <div class="flex flex-col lg:flex-row gap-12 pt-12">
                     <!-- Card 3: Une solution pensée pour les restaurants au Maroc et en Afrique -->
-                    <div class="lg:w-1/2 bg-[#f2f2f4] p-6" style="border-radius:2rem" >
+                    <div class="lg:w-1/2 bg-[#f2f2f4] p-6" style="border-radius:2rem;background:#f2f2f4" >
                         <div class="space-y-8">
                             @isset($listing['sections'][3]['additional_info']['solution_list'])
                                 @if(is_array($listing['sections'][3]['additional_info']['solution_list']))
                                     <div class="">
-                                        <h3 class="text-xl font-semibold text-gray-900">
+                                        <h1 class="text-[#4a1d34] text-xl sm:text-3xl md:text-4xl lg:text-4xl font-bold mb-6">
                                             {{ $listing['sections'][3]['additional_info']['solution'] }}
-                                        </h3>
+                                        </h1>
                                         @foreach ($listing['sections'][3]['additional_info']['solution_list'] as $solution)
                                             <div class="flex gap-4 mt-2">
                                                 <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -276,13 +276,13 @@
                         </div>
                     </div>
 
-                    <div class="lg:w-1/2 bg-[#f2f2f4] p-6" style="border-radius:2rem">
+                    <div class="lg:w-1/2 bg-[#f2f2f4] p-6" style="border-radius:2rem;background:#f2f2f4">
                         <div class="space-y-8">
                             @isset($listing['sections'][3]['additional_info']['Support Client'])
                                 <div class="">
-                                    <h3 class="text-xl font-semibold text-gray-900">
+                                    <h1 class="text-[#4a1d34] text-xl sm:text-3xl md:text-4xl lg:text-4xl font-bold mb-6">
                                         {{ $listing['sections'][3]['additional_info']['support_client'] }}
-                                    </h3>
+                                    </h1>
                                     @foreach ($listing['sections'][3]['additional_info']['Support Client'] as $solution)
                                         <div class="flex gap-4 mt-2">
                                             <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">

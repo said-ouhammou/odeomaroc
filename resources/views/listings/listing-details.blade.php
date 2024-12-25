@@ -1,4 +1,4 @@
-<x-layout>
+<x-layout :meta="$meta">
     @if ($listing)
         <section class="">
             <div class="grid lg:grid-cols-2 items-center ">
@@ -50,7 +50,7 @@
                     <div class="space-y-8">
                         @foreach ($listing['sections'][0]['features'] as $feature)
                             <div class="flex gap-4">
-                                <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#4a1d34" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                 </svg>
                                 <p class="text-gray-900">
@@ -91,7 +91,7 @@
                         <img 
                             src="{{asset($listing['sections'][1]['image']['url'])}}" 
                             alt="{{$listing['sections'][1]['image']['alt']}}"
-                            class="w-full object-cover block mx-auto "
+                            class="max-h-[500px] object-cover block mx-auto "
                         />
                         <!-- Overlay UI -->
                         <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
@@ -120,7 +120,7 @@
                     <div class="space-y-8">
                         @foreach ($listing['sections'][1]['features'] as $feature)
                             <div class="flex gap-4">
-                                <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#4a1d34" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                 </svg>
                                 <p class="text-gray-900">
@@ -149,7 +149,7 @@
                     <div class="space-y-8">
                         @foreach ($listing['sections'][2]['features'] as $feature)
                             <div class="flex gap-4">
-                                <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#4a1d34" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                 </svg>
                                 <p class="text-gray-900">
@@ -166,7 +166,7 @@
                         <img 
                             src="{{asset($listing['sections'][2]['image']['url'])}}" 
                             alt="{{$listing['sections'][2]['image']['alt']}}"
-                            class="max-h-[600px] object-cover block mx-auto "
+                            class="max-h-[500px] object-cover block mx-auto "
                         />
                         <!-- Overlay UI -->
                         <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
@@ -199,7 +199,7 @@
                                 @if(is_array($listing['sections'][3]['additional_info']['Pourquoi_list']))
                                     @foreach ($listing['sections'][3]['additional_info']['Pourquoi_list'] as $point)
                                         <div class="flex gap-4">
-                                            <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#4a1d34" viewBox="0 0 24 24">
                                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                             </svg>
                                             <p class="text-gray-900">
@@ -228,7 +228,7 @@
                                 @if(is_array($listing['sections'][3]['additional_info']['Avantages_list']))
                                     @foreach ($listing['sections'][3]['additional_info']['Avantages_list'] as $advantage)
                                         <div class="flex gap-4">
-                                            <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#4a1d34" viewBox="0 0 24 24">
                                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                             </svg>
                                             <p class="text-gray-900">
@@ -258,7 +258,7 @@
                                         </h1>
                                         @foreach ($listing['sections'][3]['additional_info']['solution_list'] as $solution)
                                             <div class="flex gap-4 mt-2">
-                                                <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#4a1d34" viewBox="0 0 24 24">
                                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                                 </svg>
                                                 <p class="text-gray-900">
@@ -285,7 +285,7 @@
                                     </h1>
                                     @foreach ($listing['sections'][3]['additional_info']['Support Client'] as $solution)
                                         <div class="flex gap-4 mt-2">
-                                            <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#4a1d34" viewBox="0 0 24 24">
                                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                             </svg>
                                             <p class="text-gray-900">

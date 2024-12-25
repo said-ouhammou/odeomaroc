@@ -36,7 +36,7 @@
                 <h1 class="text-[#4a1d34] text-2xl lg:text-3xl font-bold my-8">Nos Produits</h1>
                 <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
                     
-                   <x-product-card/>
+                    <x-product-card/>
                 </div>
             </div>
 

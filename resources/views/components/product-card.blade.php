@@ -34,7 +34,7 @@
                                 <div class="space-y-2">
                                     @foreach ($product['features'] as $feature)
                                         <div class="flex gap-4">
-                                            <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#4a1d34" viewBox="0 0 24 24">
                                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                             </svg>
                                             <p class="text-gray-900">

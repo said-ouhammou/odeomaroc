@@ -1,4 +1,4 @@
-<x-layout>
+<x-layout :meta="$meta">
     
     <main class="bg-[#f8f5f2]">
         <div class="grid lg:grid-cols-2 items-center ">

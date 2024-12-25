@@ -1,5 +1,4 @@
-<x-layout>
-
+<x-layout :meta="$meta">
 
     <section class="relative overflow-hidden py-20 bg-[#4a1d34]">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">

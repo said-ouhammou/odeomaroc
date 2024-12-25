@@ -1,4 +1,4 @@
-<x-layout>
+<x-layout :meta="$meta">
 <div class="bg-[#812755] text-white py-20">
     <div class="container mx-auto text-center">
         <h1 class="text-3xl font-bold">Technologies Que Nous Utilisons</h1>

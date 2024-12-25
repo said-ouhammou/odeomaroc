@@ -8,27 +8,34 @@ class TechnologiesController extends Controller
 {
     public function technologies()
     {
-        // $technologies = [
-        //     [
-        //         'name' => 'React.js',
-        //         'description' => 'Une bibliothèque JavaScript pour construire des interfaces utilisateur.',
-        //         'logo' => '/images/react.png', // Adjust the path to your assets
-        //         'link' => '#'
-        //     ],
-        //     [
-        //         'name' => 'Vue.js',
-        //         'description' => 'Un framework JavaScript progressif pour créer des interfaces utilisateur.',
-        //         'logo' => '/images/vue.png',
-        //         'link' => '#'
-        //     ],
-        //     [
-        //         'name' => 'Laravel',
-        //         'description' => 'Un framework PHP pour le développement d\'applications web élégantes.',
-        //         'logo' => '/images/laravel.png',
-        //         'link' => '#'
-        //     ],
-        //     // Add more technologies here
-        // ];
+        $meta = [
+            // Meta Tags
+            "title" => "Odeo - Technologies de Solutions POS et PMS au Maroc",
+            "description" => "Odeo - Découvrez les technologies innovantes derrière nos solutions de caisses enregistreuses (POS) et PMS. Nous offrons des systèmes modernes et adaptés aux besoins spécifiques de votre entreprise.",
+            "keywords" => "Odeo, technologies POS, technologies PMS, systèmes de caisse, innovation POS, solutions technologiques pour entreprises Maroc",
+            "robots" => "index, follow", 
+            "author" => "Odeo Systems",
+        
+            // Open Graph Meta Tags
+            "graph" => [
+                "title" => "Odeo - Technologies de Solutions POS et PMS au Maroc",
+                "description" => "Odeo - Découvrez les technologies innovantes derrière nos solutions de caisses enregistreuses (POS) et PMS. Nous offrons des systèmes modernes et adaptés aux besoins spécifiques de votre entreprise.",
+                "image" => "/images/logo.png",
+                "url" => "https://www.odeo.ma/technologies", 
+                "type" => "website", 
+                "locale" => "fr_FR", 
+                "site_name" => "Odeo Systems", 
+            ],
+        
+            // Twitter Meta Tags
+            "twitter" => [
+                "card" => "summary_large_image", 
+                "title" => "Odeo - Technologies de Solutions POS et PMS au Maroc",
+                "description" => "Odeo - Découvrez les technologies innovantes derrière nos solutions de caisses enregistreuses (POS) et PMS. Nous offrons des systèmes modernes et adaptés aux besoins spécifiques de votre entreprise.",
+                "image" => "/images/logo.png",
+                "site" => "@OdeoSystems", 
+            ],
+        ];
 
         $technologies = [
             [
@@ -78,7 +85,7 @@ class TechnologiesController extends Controller
             ],
         ];
 
-        return view('technologies', compact('technologies'));
+        return view('technologies', compact('technologies','meta'));
     }
 
 }

@@ -7,6 +7,35 @@ use Illuminate\Http\Request;
 class partenairesController extends Controller
 {
     public function partenairesList(){
+        $meta = [
+            // Meta Tags
+            "title" => "Odeo - Nos Partenaires Technologiques",
+            "description" => "Odeo - Découvrez nos partenaires technologiques, dont Dell, HP et d'autres leaders du secteur, qui nous aident à offrir les meilleures solutions POS et PMS au Maroc. Ensemble, nous fournissons des systèmes de caisses enregistreuses performants et adaptés aux besoins des entreprises.",
+            "keywords" => "Odeo, partenaires technologiques, Dell, HP, solutions POS, solutions PMS, partenaires stratégiques, technologies POS, partenaires au Maroc, matériel informatique",
+            "robots" => "index, follow", 
+            "author" => "Odeo Systems",
+        
+            // Open Graph Meta Tags
+            "graph" => [
+                "title" => "Odeo - Nos Partenaires Technologiques",
+                "description" => "Odeo - Découvrez nos partenaires technologiques, dont Dell, HP et d'autres leaders du secteur, qui nous aident à offrir les meilleures solutions POS et PMS au Maroc. Ensemble, nous fournissons des systèmes de caisses enregistreuses performants et adaptés aux besoins des entreprises.",
+                "image" => "/images/logo.png",
+                "url" => "https://www.odeo.ma/partenaires", 
+                "type" => "website", 
+                "locale" => "fr_FR", 
+                "site_name" => "Odeo Systems", 
+            ],
+        
+            // Twitter Meta Tags
+            "twitter" => [
+                "card" => "summary_large_image", 
+                "title" => "Odeo - Nos Partenaires Technologiques",
+                "description" => "Odeo - Découvrez nos partenaires technologiques, dont Dell, HP et d'autres leaders du secteur, qui nous aident à offrir les meilleures solutions POS et PMS au Maroc.",
+                "image" => "/images/logo.png",
+                "site" => "@OdeoSystems", 
+            ],
+        ]; 
+
         $partenaires = [
             [
                 'name' => 'Microsoft',
@@ -80,6 +109,6 @@ class partenairesController extends Controller
             ],
 
         ];
-        return view('partenaires',compact('partenaires')); 
+        return view('partenaires',compact('partenaires','meta')); 
     }
 }

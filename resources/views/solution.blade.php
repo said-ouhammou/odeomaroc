@@ -1,4 +1,4 @@
-<x-layout>
+<x-layout :meta="$meta">
     <main class="min-h-screen">
         <div class="grid lg:grid-cols-2 items-center min-h-screen">
             <div class="bg-[#4a1d34] flex flex-col justify-center p-6 h-full order-2 lg:order-1">

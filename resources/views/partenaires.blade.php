@@ -1,7 +1,8 @@
-<x-layout>
+<x-layout :meta="$meta">
 <div class="bg-[#812755] text-white py-20">
     <div class="container mx-auto text-center">
         <h1 class="text-3xl font-bold">Nos Partenaires</h1>
+        <p class="mt-2 text-lg max-w-3xl mx-auto">Découvrez nos partenaires technologiques, dont Dell, HP et d'autres leaders du secteur. Ensemble, nous offrons des solutions POS et PMS performantes adaptées aux besoins des entreprises au Maroc</p>
     </div>
 </div>
 

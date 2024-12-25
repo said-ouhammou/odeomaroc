@@ -1,4 +1,4 @@
-<x-layout>
+<x-layout :meta="$meta">
 
 
     <x-privacy.hero/>

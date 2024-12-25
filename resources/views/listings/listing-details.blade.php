@@ -182,6 +182,127 @@
             </div>
         </section>
 
+        <!--  -->
+        <!-- New Section: Boostez votre restaurant avec Odeo -->
+        @isset($listing['sections'][3]['additional_info'])
+            <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 pb-4">
+                <div class="flex flex-col lg:flex-row gap-12">
+                    <div class="lg:w-1/2 bg-[#f2f2f4] p-6" style="border-radius:2rem">
+                        <h1 class="text-[#4a1d34] text-xl sm:text-3xl md:text-4xl lg:text-4xl font-bold mb-6">
+                            {!! $listing['sections'][3]['additional_info']['pourquoi'] !!}
+                        </h1>
+                        <p class="text-md text-[#812755] mb-8">
+                            {!! $listing['sections'][3]['text'] !!}
+                        </p>
+                        <div class="space-y-8">
+                            @isset($listing['sections'][3]['additional_info']['Pourquoi_list'])
+                                @if(is_array($listing['sections'][3]['additional_info']['Pourquoi_list']))
+                                    @foreach ($listing['sections'][3]['additional_info']['Pourquoi_list'] as $point)
+                                        <div class="flex gap-4">
+                                            <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                            </svg>
+                                            <p class="text-gray-900">
+                                                {{ $point }}
+                                            </p>
+                                        </div>
+                                    @endforeach
+                                @else
+                                    <p class="text-gray-900">
+                                        {{ $listing['sections'][3]['additional_info']['Pourquoi_list'] }}
+                                    </p>
+                                @endif
+                            @endisset
+                        </div>
+                    </div>
+
+                    <div class="lg:w-1/2 bg-[#f2f2f4] p-6" style="border-radius:2rem">
+                        <h1 class="text-[#4a1d34] text-xl sm:text-3xl md:text-4xl lg:text-4xl font-bold mb-6">
+                            {!! $listing['sections'][3]['additional_info']['avantages'] !!}
+                        </h1>
+                        <p class="text-md text-[#812755] mb-8">
+                            {!! $listing['sections'][3]['text'] !!}
+                        </p>
+                        <div class="space-y-8">
+                            @isset($listing['sections'][3]['additional_info']['Avantages_list'])
+                                @if(is_array($listing['sections'][3]['additional_info']['Avantages_list']))
+                                    @foreach ($listing['sections'][3]['additional_info']['Avantages_list'] as $advantage)
+                                        <div class="flex gap-4">
+                                            <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                            </svg>
+                                            <p class="text-gray-900">
+                                                {{ $advantage }}
+                                            </p>
+                                        </div>
+                                    @endforeach
+                                @else
+                                    <p class="text-gray-900">
+                                        {{ $listing['sections'][3]['additional_info']['Avantages_list'] }}
+                                    </p>
+                                @endif
+                            @endisset
+                        </div>
+                    </div>
+                </div>
+
+                <div class="flex flex-col lg:flex-row gap-12 pt-12">
+                    <!-- Card 3: Une solution pensée pour les restaurants au Maroc et en Afrique -->
+                    <div class="lg:w-1/2 bg-[#f2f2f4] p-6" style="border-radius:2rem" >
+                        <div class="space-y-8">
+                            @isset($listing['sections'][3]['additional_info']['solution_list'])
+                                @if(is_array($listing['sections'][3]['additional_info']['solution_list']))
+                                    <div class="">
+                                        <h3 class="text-xl font-semibold text-gray-900">
+                                            {{ $listing['sections'][3]['additional_info']['solution'] }}
+                                        </h3>
+                                        @foreach ($listing['sections'][3]['additional_info']['solution_list'] as $solution)
+                                            <div class="flex gap-4 mt-2">
+                                                <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                                </svg>
+                                                <p class="text-gray-900">
+                                                    {{ $solution }}
+                                                </p>
+                                            </div>
+                                        @endforeach
+                                    </div>
+                                @else
+                                    <p class="text-gray-900">
+                                        {{ $listing['sections'][3]['additional_info']['solution_list'] }}
+                                    </p>
+                                @endif
+                            @endisset
+                        </div>
+                    </div>
+
+                    <div class="lg:w-1/2 bg-[#f2f2f4] p-6" style="border-radius:2rem">
+                        <div class="space-y-8">
+                            @isset($listing['sections'][3]['additional_info']['Support Client'])
+                                <div class="">
+                                    <h3 class="text-xl font-semibold text-gray-900">
+                                        {{ $listing['sections'][3]['additional_info']['support_client'] }}
+                                    </h3>
+                                    @foreach ($listing['sections'][3]['additional_info']['Support Client'] as $solution)
+                                        <div class="flex gap-4 mt-2">
+                                            <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                            </svg>
+                                            <p class="text-gray-900">
+                                                {{ $solution }}
+                                            </p>
+                                        </div>
+                                    @endforeach
+                                </div>
+                            @endisset
+                        </div>
+                    </div>
+                </div>
+            </section>
+        @endisset
+
+        <!--  -->
+
         @include('partials.webapp')
 
         <x-reviews/>

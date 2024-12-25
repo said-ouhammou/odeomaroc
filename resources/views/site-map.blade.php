@@ -23,17 +23,17 @@
                 <li><a href="/hotel" class="hover:underline">Hôtel</a></li>
                 <li><a href="/maison-d-hotes" class="hover:underline">Maison d’hôtes</a></li>
                 <li><a href="/riad" class="hover:underline">Riad</a></li>
-                <li><a href="/matériel" class="hover:underline text-xl font-bold mb-8 text-[#7f2855]">Nos matériaux</a></li>
+                <li><a href="/produits" class="hover:underline text-xl font-bold mb-8 text-[#7f2855]">Nos matériaux</a></li>
                 <!-- Added product links -->
-                <li><a href="/nos-produits" class="hover:underline">Nos produits</a></li>
-                <li><a href="/caisse-enregistreuse" class="hover:underline">Caisse enregistreuse</a></li>
-                <li><a href="/imprimante-thermique" class="hover:underline">Imprimante thermique</a></li>
-                <li><a href="/rouleau-imprimante-thermique" class="hover:underline">Rouleau imprimante thermique</a></li>
-                <li><a href="/douchette-lecteur-code-barres" class="hover:underline">Douchette / Lecteur code-barres</a></li>
-                <li><a href="/totem-publicitaire-interactif" class="hover:underline">Totem publicitaire interactif</a></li>
-                <li><a href="/kitchen-display-ecran-de-cuisine" class="hover:underline">Kitchen Display - Écran de cuisine</a></li>
-                <li><a href="/tiroir-de-caisse" class="hover:underline">Tiroir de caisse</a></li>
-                <li><a href="/pda-pos-tablette-de-prise-de-commande" class="hover:underline">PDA POS / Tablette de prise de commande</a></li>
+                <li><a href="/produits" class="hover:underline">Nos produits</a></li>
+                <li><a href="/produits" class="hover:underline">Caisse enregistreuse</a></li>
+                <li><a href="/produits" class="hover:underline">Imprimante thermique</a></li>
+                <li><a href="/produits" class="hover:underline">Rouleau imprimante thermique</a></li>
+                <li><a href="/produits" class="hover:underline">Douchette / Lecteur code-barres</a></li>
+                <li><a href="/produits" class="hover:underline">Totem publicitaire interactif</a></li>
+                <li><a href="/produits" class="hover:underline">Kitchen Display - Écran de cuisine</a></li>
+                <li><a href="/produits" class="hover:underline">Tiroir de caisse</a></li>
+                <li><a href="/produits" class="hover:underline">PDA POS / Tablette de prise de commande</a></li>
                 {{--  --}}
                 <li><a href="/matériel" class="hover:underline text-xl font-bold mb-8 text-[#7f2855]">Nos services</a></li>
                 <li><a href="/developpement-sites-web" class="hover:underline">Développement des sites web</a></li>

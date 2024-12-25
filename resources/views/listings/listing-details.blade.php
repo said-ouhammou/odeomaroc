@@ -7,13 +7,12 @@
                         CAISSE ENREGISTREUSE - ODEO
                     </p>
                     <h1 class="text-white text-xl sm:text-3xl md:text-4xl lg:text-5xl font-bold leading-tight">
-                        {{-- Tirez le meilleur de votre activité --}}
                         {{$listing['title']}}
                     </h1>
                     <p class="mt-3 text-gray-300 text-ld leading-relaxed max-w-2xl">
-                        {{-- Odeo, le logiciel de caisse tout-en-un et sa plateforme de paiements intégrée, équipe les meilleurs restaurants et commerçants dans plus de 165 000 emplacements dans le monde.* --}}
-                        {{$listing['short_description']}}
+                        {!! $listing['short_description'] !!}
                     </p>
+                    
                 
                     <div>
                         <div class="mt-3 flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
@@ -41,12 +40,11 @@
                 <!-- Left Column -->
                 <div class="lg:w-1/2">
                     <h1 class="text-[#4a1d34] text-xl sm:text-3xl md:text-4xl lg:text-5xl font-bold mb-6">
-                        {{-- Stock avec Odeo Inventory --}}
-                        {{$listing['sections'][0]['title']}}
+                        {!! $listing['sections'][0]['title'] !!}
                     </h1>
                     <p class="text-md text-[#812755] mb-8">
                         {{-- Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. --}}
-                        {{$listing['sections'][0]['text']}}
+                        {!! $listing['sections'][0]['text'] !!}
                     </p>
                     
                     <div class="space-y-8">

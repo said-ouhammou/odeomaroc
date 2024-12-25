@@ -282,9 +282,9 @@ class ListingsController extends Controller
             ],
             [
                 "id"=>2,
-                "title"=>"Boostez votre boutique",
+                "title"=>"Boostez votre salon de thé avec Odeo",
                 "slug"=>"salon-de-the",
-                "short_description"=>"Odeo propose des solutions intuitives pour gérer les commandes et les paiements dans les bars. ",
+                "short_description"=>"Odeo propose des solutions innovantes pour les salons de thé, alliant facilité d'utilisation et outils de gestion avancés. Optimisez votre activité avec une <span class='font-bold'>caisse enregistreuse tactile</span> performante et adaptée à vos besoins. Offrez à vos clients une expérience fluide grâce à notre caisse enregistreuse spécialement conçue pour les <span class='font-bold'>salons de thé</span>",
                 "description"=>"",
                 "image"=>[
                     "url"=>"/images/b/salon-de-the.jpg",
@@ -292,17 +292,16 @@ class ListingsController extends Controller
                 ],
                 "sections"=>[
                     [
-                        "title"=>"Stock avec Odeo Inventory",
-                        "text"=>"Commandez de qu'il vous faut grâce à un outil de gestion des stocks qui vous permet de planifier à l'avance et de réduire vos pertes alimentaires. ",
+                        "title"=>"Gestion des Stocks",
+                        "text"=>"<span class='font-semibold' />Gérez efficacement les stocks de votre salon de thé</span> Avec <span class='font-bold' />Odeo Inventory</span>, suivez vos stocks en temps réel et réduisez les pertes. Simplifiez la gestion de vos ingrédients et produits pour offrir une expérience client de qualité avec une <span class='font-bold' />caisse enregistreuse</span> qui vous aide à mieux gérer vos stocks.",
                         "image"=>[
                             "url"=>"/images/products/odeo-pos.png",
                             "alt"=>"Stock avec Odeo Inventory",
                         ],
                         "features"=>[
-                            'Dites adieu au comptage manuel avec des <span class="font-semibold">inventaires automatisés en temps réel</span> et des <span class="font-semibold">rapports de gaspillage</span>',
-                            "Créez des recettes avec des suggestions de prix pour les menus et un suivi de la marge brute avec odeo ",
-                            "Gérez vos fournisseurs dans un même endroit et créez, envoyez et recevez facilement des commandes ",
-                            "Vérifiez si vos stocks ont été vendus, périmés ou gaspillés grâce aux rapports de stock en temps réel",
+                            'Création d\'inventaires automatiques.',
+                            "Suivi des niveaux de stocks en temps réel",
+                            "Gestion intuitive des produits et des fournisseurs.",
                         ],
                     ],
                     [

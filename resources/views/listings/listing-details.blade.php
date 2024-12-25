@@ -1,4 +1,4 @@
-<x-layout>
+<x-layout :meta="$meta">
     @if ($listing)
         <section class="">
             <div class="grid lg:grid-cols-2 items-center ">

@@ -10,7 +10,7 @@ class ListingsController extends Controller
         
         $listing = $this->getListing($slug);
 
-        return view('listings.listing-details',['listing'=>$listing]);
+        return view('listings.listing-details',['listing'=>$listing,'meta'=>$listing['meta']]);
     }
 
     public function getListing($slug = null){
@@ -117,6 +117,34 @@ class ListingsController extends Controller
                         ],
                     ],
                 ],
+                "meta" => [
+                    // Meta Tags
+                    "title" => "Odeo - POS pour Boutiques au Maroc",
+                    "description" => "Découvrez les solutions POS d'Odeo pour boutiques au Maroc. Simplifiez la gestion de vos ventes et améliorez l'expérience client avec des systèmes performants et adaptés.",
+                    "keywords" => "Odeo, POS boutique Maroc, caisse enregistreuse boutique, système POS Maroc, gestion boutique, équipements POS Maroc, solutions pour boutiques",
+                    "robots" => "index, follow",
+                    "author" => "Odeo Systems",
+                
+                    // Open Graph Meta Tags
+                    "graph" => [
+                        "title" => "Odeo - POS pour Boutiques au Maroc",
+                        "description" => "Découvrez les solutions POS d'Odeo pour boutiques au Maroc. Simplifiez la gestion de vos ventes et améliorez l'expérience client avec des systèmes performants et adaptés.",
+                        "image" => "/images/b/boutique.jpg",
+                        "url" => "https://www.odeo.ma/boutique",
+                        "type" => "website",
+                        "locale" => "fr_FR",
+                        "site_name" => "Odeo Systems",
+                    ],
+                
+                    // Twitter Meta Tags
+                    "twitter" => [
+                        "card" => "summary_large_image",
+                        "title" => "Odeo - POS pour Boutiques au Maroc",
+                        "description" => "Découvrez les solutions POS d'Odeo pour boutiques au Maroc. Simplifiez la gestion de vos ventes et améliorez l'expérience client avec des systèmes performants et adaptés.",
+                        "image" => "/images/b/boutique.jpg",
+                        "site" => "@OdeoSystems", // Twitter handle
+                    ],
+                ],                
             ],
             //Restaurant done
             [
@@ -210,6 +238,34 @@ class ListingsController extends Controller
                     ],
                     // 
                 ],
+                'meta' => [
+                    // Meta Tags
+                    "title" => "Odeo - POS pour Restaurants au Maroc",
+                    "description" => "Optimisez la gestion de votre restaurant avec les solutions POS d'Odeo. Des systèmes adaptés pour améliorer votre service client et simplifier vos opérations au Maroc.",
+                    "keywords" => "Odeo, POS restaurant Maroc, caisse enregistreuse restaurant, système POS Maroc, gestion restaurant, équipements POS Maroc, solutions pour restaurants",
+                    "robots" => "index, follow",
+                    "author" => "Odeo Systems",
+                
+                    // Open Graph Meta Tags
+                    "graph" => [
+                        "title" => "Odeo - POS pour Restaurants au Maroc",
+                        "description" => "Optimisez la gestion de votre restaurant avec les solutions POS d'Odeo. Des systèmes adaptés pour améliorer votre service client et simplifier vos opérations au Maroc.",
+                        "image" => "/images/products/pos-o.png",
+                        "url" => "https://www.odeo.ma/restaurant",
+                        "type" => "website",
+                        "locale" => "fr_FR",
+                        "site_name" => "Odeo Systems",
+                    ],
+                
+                    // Twitter Meta Tags
+                    "twitter" => [
+                        "card" => "summary_large_image",
+                        "title" => "Odeo - POS pour Restaurants au Maroc",
+                        "description" => "Optimisez la gestion de votre restaurant avec les solutions POS d'Odeo. Des systèmes adaptés pour améliorer votre service client et simplifier vos opérations au Maroc.",
+                        "image" => "/images/products/pos-o.png",
+                        "site" => "@OdeoSystems", // Twitter handle
+                    ],
+                ],                
             ],
             //Snack done
             [
@@ -299,6 +355,35 @@ class ListingsController extends Controller
                     ]
                     // 
                 ],
+                "meta" => [
+                    // Meta Tags
+                    "title" => "Odeo - POS pour Snacks au Maroc",
+                    "description" => "Odeo propose des solutions POS dédiées aux snacks au Maroc. Optimisez la gestion de vos commandes et paiements grâce à des systèmes performants et adaptés à vos besoins.",
+                    "keywords" => "Odeo, POS snack Maroc, caisse enregistreuse snack, système POS Maroc, gestion snack, équipements POS Maroc, solutions pour snacks",
+                    "robots" => "index, follow",
+                    "author" => "Odeo Systems",
+                
+                    // Open Graph Meta Tags
+                    "graph" => [
+                        "title" => "Odeo - POS pour Snacks au Maroc",
+                        "description" => "Odeo propose des solutions POS dédiées aux snacks au Maroc. Optimisez la gestion de vos commandes et paiements grâce à des systèmes performants et adaptés à vos besoins.",
+                        "image" => "/images/b/snack.jpg",
+                        "url" => "https://www.odeo.ma/snack",
+                        "type" => "website",
+                        "locale" => "fr_FR",
+                        "site_name" => "Odeo Systems",
+                    ],
+                
+                    // Twitter Meta Tags
+                    "twitter" => [
+                        "card" => "summary_large_image",
+                        "title" => "Odeo - POS pour Snacks au Maroc",
+                        "description" => "Odeo propose des solutions POS dédiées aux snacks au Maroc. Optimisez la gestion de vos commandes et paiements grâce à des systèmes performants et adaptés à vos besoins.",
+                        "image" => "/images/b/snack.jpg",
+                        "site" => "@OdeoSystems", // Twitter handle
+                    ],
+                ],
+                
             ],
             //Bar
             [
@@ -355,6 +440,34 @@ class ListingsController extends Controller
                         ],
                     ],
                 ],
+                "meta" => [
+                    // Meta Tags
+                    "title" => "Odeo - POS pour Bars au Maroc",
+                    "description" => "Odeo propose des solutions POS adaptées aux bars au Maroc. Simplifiez la gestion de vos commandes et paiements grâce à des systèmes modernes et performants.",
+                    "keywords" => "Odeo, POS bar Maroc, caisse enregistreuse bar, système POS Maroc, gestion bar, équipements POS Maroc, solutions pour bars",
+                    "robots" => "index, follow",
+                    "author" => "Odeo Systems",
+                
+                    // Open Graph Meta Tags
+                    "graph" => [
+                        "title" => "Odeo - POS pour Bars au Maroc",
+                        "description" => "Odeo propose des solutions POS adaptées aux bars au Maroc. Simplifiez la gestion de vos commandes et paiements grâce à des systèmes modernes et performants.",
+                        "image" => "/images/b/bar.jpg",
+                        "url" => "https://www.odeo.ma/bar",
+                        "type" => "website",
+                        "locale" => "fr_FR",
+                        "site_name" => "Odeo Systems",
+                    ],
+                
+                    // Twitter Meta Tags
+                    "twitter" => [
+                        "card" => "summary_large_image",
+                        "title" => "Odeo - POS pour Bars au Maroc",
+                        "description" => "Odeo propose des solutions POS adaptées aux bars au Maroc. Simplifiez la gestion de vos commandes et paiements grâce à des systèmes modernes et performants.",
+                        "image" => "/images/b/bar.jpg",
+                        "site" => "@OdeoSystems", // Twitter handle
+                    ],
+                ],                
             ],  
             //Cafe        
             [
@@ -455,6 +568,34 @@ class ListingsController extends Controller
                     ]
                     // 
                 ],
+                "meta" => [
+                    // Meta Tags
+                    "title" => "Odeo - POS pour Cafés au Maroc",
+                    "description" => "Odeo fournit des solutions POS dédiées aux cafés au Maroc. Gérez vos commandes et paiements efficacement avec des systèmes modernes et intuitifs.",
+                    "keywords" => "Odeo, POS café Maroc, caisse enregistreuse café, système POS Maroc, gestion café, équipements POS Maroc, solutions pour cafés",
+                    "robots" => "index, follow",
+                    "author" => "Odeo Systems",
+                
+                    // Open Graph Meta Tags
+                    "graph" => [
+                        "title" => "Odeo - POS pour Cafés au Maroc",
+                        "description" => "Odeo fournit des solutions POS dédiées aux cafés au Maroc. Gérez vos commandes et paiements efficacement avec des systèmes modernes et intuitifs.",
+                        "image" => "/images/b/cafe.jpg",
+                        "url" => "https://www.odeo.ma/cafe",
+                        "type" => "website",
+                        "locale" => "fr_FR",
+                        "site_name" => "Odeo Systems",
+                    ],
+                
+                    // Twitter Meta Tags
+                    "twitter" => [
+                        "card" => "summary_large_image",
+                        "title" => "Odeo - POS pour Cafés au Maroc",
+                        "description" => "Odeo fournit des solutions POS dédiées aux cafés au Maroc. Gérez vos commandes et paiements efficacement avec des systèmes modernes et intuitifs.",
+                        "image" => "/images/b/cafe.jpg",
+                        "site" => "@OdeoSystems", // Twitter handle
+                    ],
+                ],                
             ],
             //Salon the done
             [
@@ -557,6 +698,34 @@ class ListingsController extends Controller
                     ]
                     // 
                 ],
+                "meta" => [
+                    // Meta Tags
+                    "title" => "Odeo - POS pour Salons de Thé au Maroc",
+                    "description" => "Odeo propose des solutions POS modernes pour salons de thé au Maroc. Simplifiez la gestion des commandes et des paiements avec des systèmes adaptés à votre activité.",
+                    "keywords" => "Odeo, POS salon de thé Maroc, caisse enregistreuse salon de thé, système POS Maroc, gestion salon de thé, équipements POS Maroc, solutions pour salons de thé",
+                    "robots" => "index, follow",
+                    "author" => "Odeo Systems",
+                
+                    // Open Graph Meta Tags
+                    "graph" => [
+                        "title" => "Odeo - POS pour Salons de Thé au Maroc",
+                        "description" => "Odeo propose des solutions POS modernes pour salons de thé au Maroc. Simplifiez la gestion des commandes et des paiements avec des systèmes adaptés à votre activité.",
+                        "image" => "/images/b/salon-de-the.jpg",
+                        "url" => "https://www.odeo.ma/salon-de-the",
+                        "type" => "website",
+                        "locale" => "fr_FR",
+                        "site_name" => "Odeo Systems",
+                    ],
+                
+                    // Twitter Meta Tags
+                    "twitter" => [
+                        "card" => "summary_large_image",
+                        "title" => "Odeo - POS pour Salons de Thé au Maroc",
+                        "description" => "Odeo propose des solutions POS modernes pour salons de thé au Maroc. Simplifiez la gestion des commandes et des paiements avec des systèmes adaptés à votre activité.",
+                        "image" => "/images/b/salon-de-the.jpg",
+                        "site" => "@OdeoSystems", // Twitter handle
+                    ],
+                ],                
             ],
             //Patesserie
             [
@@ -657,6 +826,34 @@ class ListingsController extends Controller
                     ]
                     // 
                 ],
+                "meta" => [
+                    // Meta Tags
+                    "title" => "Odeo - POS pour Pâtisseries au Maroc",
+                    "description" => "Odeo propose des systèmes POS performants pour pâtisseries au Maroc. Facilitez la gestion des ventes, commandes et paiements avec des solutions adaptées à votre activité.",
+                    "keywords" => "Odeo, POS pâtisserie Maroc, caisse enregistreuse pâtisserie, système POS Maroc, gestion pâtisserie, équipements POS Maroc, solutions pour pâtisseries",
+                    "robots" => "index, follow",
+                    "author" => "Odeo Systems",
+                
+                    // Open Graph Meta Tags
+                    "graph" => [
+                        "title" => "Odeo - POS pour Pâtisseries au Maroc",
+                        "description" => "Odeo propose des systèmes POS performants pour pâtisseries au Maroc. Facilitez la gestion des ventes, commandes et paiements avec des solutions adaptées à votre activité.",
+                        "image" => "/images/b/patisserie.jpg",
+                        "url" => "https://www.odeo.ma/patisserie",
+                        "type" => "website",
+                        "locale" => "fr_FR",
+                        "site_name" => "Odeo Systems",
+                    ],
+                
+                    // Twitter Meta Tags
+                    "twitter" => [
+                        "card" => "summary_large_image",
+                        "title" => "Odeo - POS pour Pâtisseries au Maroc",
+                        "description" => "Odeo propose des systèmes POS performants pour pâtisseries au Maroc. Facilitez la gestion des ventes, commandes et paiements avec des solutions adaptées à votre activité.",
+                        "image" => "/images/b/patisserie.jpg",
+                        "site" => "@OdeoSystems", // Twitter handle
+                    ],
+                ],                
             ],
             //Boulangerie
             [
@@ -757,6 +954,34 @@ class ListingsController extends Controller
                     ],
                     // 
                 ],
+                "meta" => [
+                    // Meta Tags
+                    "title" => "Odeo - POS pour Boulangeries au Maroc",
+                    "description" => "Odeo offre des systèmes POS performants pour boulangeries au Maroc, permettant de gérer facilement les ventes, commandes et paiements. Optimisez la gestion de votre boulangerie avec nos solutions adaptées.",
+                    "keywords" => "Odeo, POS boulangerie Maroc, caisse enregistreuse boulangerie, système POS Maroc, gestion boulangerie, équipements POS Maroc, solutions pour boulangeries",
+                    "robots" => "index, follow",
+                    "author" => "Odeo Systems",
+                
+                    // Open Graph Meta Tags
+                    "graph" => [
+                        "title" => "Odeo - POS pour Boulangeries au Maroc",
+                        "description" => "Odeo offre des systèmes POS performants pour boulangeries au Maroc, permettant de gérer facilement les ventes, commandes et paiements. Optimisez la gestion de votre boulangerie avec nos solutions adaptées.",
+                        "image" => "/images/b/boulangerie.jpg",
+                        "url" => "https://www.odeo.ma/boulangerie",
+                        "type" => "website",
+                        "locale" => "fr_FR",
+                        "site_name" => "Odeo Systems",
+                    ],
+                
+                    // Twitter Meta Tags
+                    "twitter" => [
+                        "card" => "summary_large_image",
+                        "title" => "Odeo - POS pour Boulangeries au Maroc",
+                        "description" => "Odeo offre des systèmes POS performants pour boulangeries au Maroc, permettant de gérer facilement les ventes, commandes et paiements. Optimisez la gestion de votre boulangerie avec nos solutions adaptées.",
+                        "image" => "/images/b/boulangerie.jpg",
+                        "site" => "@OdeoSystems", // Twitter handle
+                    ],
+                ],                
             ],
             //Fast Food
             [
@@ -869,6 +1094,34 @@ class ListingsController extends Controller
                     // 
 
                 ],
+                "meta" => [
+                    // Meta Tags
+                    "title" => "Odeo - POS pour Restauration Rapide au Maroc",
+                    "description" => "Odeo propose des solutions POS adaptées à la restauration rapide au Maroc, permettant une gestion rapide et efficace des commandes et paiements. Optimisez votre service client et la gestion de votre établissement.",
+                    "keywords" => "Odeo, POS restauration rapide Maroc, caisse enregistreuse fast food, système POS Maroc, gestion fast food, équipements POS Maroc, solutions pour restauration rapide",
+                    "robots" => "index, follow",
+                    "author" => "Odeo Systems",
+                
+                    // Open Graph Meta Tags
+                    "graph" => [
+                        "title" => "Odeo - POS pour Restauration Rapide au Maroc",
+                        "description" => "Odeo propose des solutions POS adaptées à la restauration rapide au Maroc, permettant une gestion rapide et efficace des commandes et paiements. Optimisez votre service client et la gestion de votre établissement.",
+                        "image" => "/images/b/fast-food.jpg",
+                        "url" => "https://www.odeo.ma/fast-food",
+                        "type" => "website",
+                        "locale" => "fr_FR",
+                        "site_name" => "Odeo Systems",
+                    ],
+                
+                    // Twitter Meta Tags
+                    "twitter" => [
+                        "card" => "summary_large_image",
+                        "title" => "Odeo - POS pour Restauration Rapide au Maroc",
+                        "description" => "Odeo propose des solutions POS adaptées à la restauration rapide au Maroc, permettant une gestion rapide et efficace des commandes et paiements. Optimisez votre service client et la gestion de votre établissement.",
+                        "image" => "/images/b/fast-food.jpg",
+                        "site" => "@OdeoSystems", // Twitter handle
+                    ],
+                ],                
             ],
             //Night Club
             [
@@ -967,6 +1220,34 @@ class ListingsController extends Controller
                     ]
                     // 
                 ],
+                "meta" => [
+                    // Meta Tags
+                    "title" => "Odeo - POS pour Night-club au Maroc",
+                    "description" => "Odeo propose des solutions POS spécialement conçues pour les night-clubs au Maroc, permettant une gestion rapide des commandes, des paiements et des clients dans un environnement dynamique.",
+                    "keywords" => "Odeo, POS night-club Maroc, caisse enregistreuse night-club, système POS Maroc, gestion night-club, équipements POS Maroc, solutions pour night-club",
+                    "robots" => "index, follow",
+                    "author" => "Odeo Systems",
+                
+                    // Open Graph Meta Tags
+                    "graph" => [
+                        "title" => "Odeo - POS pour Night-club au Maroc",
+                        "description" => "Odeo propose des solutions POS spécialement conçues pour les night-clubs au Maroc, permettant une gestion rapide des commandes, des paiements et des clients dans un environnement dynamique.",
+                        "image" => "/images/b/night-club.jpg",
+                        "url" => "https://www.odeo.ma/night-club",
+                        "type" => "website",
+                        "locale" => "fr_FR",
+                        "site_name" => "Odeo Systems",
+                    ],
+                
+                    // Twitter Meta Tags
+                    "twitter" => [
+                        "card" => "summary_large_image",
+                        "title" => "Odeo - POS pour Night-club au Maroc",
+                        "description" => "Odeo propose des solutions POS spécialement conçues pour les night-clubs au Maroc, permettant une gestion rapide des commandes, des paiements et des clients dans un environnement dynamique.",
+                        "image" => "/images/b/night-club.jpg",
+                        "site" => "@OdeoSystems", // Twitter handle
+                    ],
+                ],                
             ],
             // Lounge
             [
@@ -1065,6 +1346,34 @@ class ListingsController extends Controller
                     ]
                     // 
                 ],
+                "meta" => [
+                    // Meta Tags
+                    "title" => "Odeo - POS pour Lounge au Maroc",
+                    "description" => "Odeo propose des solutions POS adaptées aux lounges au Maroc, permettant une gestion fluide des commandes, paiements et services pour offrir une expérience client optimale.",
+                    "keywords" => "Odeo, POS lounge Maroc, caisse enregistreuse lounge, système POS Maroc, gestion lounge, équipements POS Maroc, solutions pour lounges",
+                    "robots" => "index, follow",
+                    "author" => "Odeo Systems",
+                
+                    // Open Graph Meta Tags
+                    "graph" => [
+                        "title" => "Odeo - POS pour Lounge au Maroc",
+                        "description" => "Odeo propose des solutions POS adaptées aux lounges au Maroc, permettant une gestion fluide des commandes, paiements et services pour offrir une expérience client optimale.",
+                        "image" => "/images/b/lounge.jpg",
+                        "url" => "https://www.odeo.ma/lounge",
+                        "type" => "website",
+                        "locale" => "fr_FR",
+                        "site_name" => "Odeo Systems",
+                    ],
+                
+                    // Twitter Meta Tags
+                    "twitter" => [
+                        "card" => "summary_large_image",
+                        "title" => "Odeo - POS pour Lounge au Maroc",
+                        "description" => "Odeo propose des solutions POS adaptées aux lounges au Maroc, permettant une gestion fluide des commandes, paiements et services pour offrir une expérience client optimale.",
+                        "image" => "/images/b/lounge.jpg",
+                        "site" => "@OdeoSystems", // Twitter handle
+                    ],
+                ],                
             ],
             // Pressage
             [
@@ -1163,6 +1472,34 @@ class ListingsController extends Controller
                     ]
                     // 
                 ],
+                "meta" => [
+                    // Meta Tags
+                    "title" => "Odeo - POS pour Pressing au Maroc",
+                    "description" => "Odeo propose des solutions POS adaptées aux pressings au Maroc, permettant une gestion optimisée des commandes, paiements et services de nettoyage à sec pour une expérience client fluide.",
+                    "keywords" => "Odeo, POS pressing Maroc, caisse enregistreuse pressing, système POS Maroc, gestion pressing, équipements POS Maroc, solutions pour pressings",
+                    "robots" => "index, follow",
+                    "author" => "Odeo Systems",
+                
+                    // Open Graph Meta Tags
+                    "graph" => [
+                        "title" => "Odeo - POS pour Pressing au Maroc",
+                        "description" => "Odeo propose des solutions POS adaptées aux pressings au Maroc, permettant une gestion optimisée des commandes, paiements et services de nettoyage à sec pour une expérience client fluide.",
+                        "image" => "/images/b/pressing.jpg",
+                        "url" => "https://www.odeo.ma/pressing",
+                        "type" => "website",
+                        "locale" => "fr_FR",
+                        "site_name" => "Odeo Systems",
+                    ],
+                
+                    // Twitter Meta Tags
+                    "twitter" => [
+                        "card" => "summary_large_image",
+                        "title" => "Odeo - POS pour Pressing au Maroc",
+                        "description" => "Odeo propose des solutions POS adaptées aux pressings au Maroc, permettant une gestion optimisée des commandes, paiements et services de nettoyage à sec pour une expérience client fluide.",
+                        "image" => "/images/b/pressing.jpg",
+                        "site" => "@OdeoSystems", // Twitter handle
+                    ],
+                ],                
             ],
             // Spa
             [
@@ -1260,6 +1597,34 @@ class ListingsController extends Controller
                     ]
                     // 
                 ],
+                "meta" => [
+                    // Meta Tags
+                    "title" => "Odeo - POS pour Spa au Maroc",
+                    "description" => "Odeo propose des solutions POS spécialement adaptées aux spas au Maroc, permettant une gestion fluide des réservations, paiements et services de bien-être pour une expérience client optimale.",
+                    "keywords" => "Odeo, POS spa Maroc, caisse enregistreuse spa, système POS Maroc, gestion spa, équipements POS Maroc, solutions pour spas",
+                    "robots" => "index, follow",
+                    "author" => "Odeo Systems",
+                
+                    // Open Graph Meta Tags
+                    "graph" => [
+                        "title" => "Odeo - POS pour Spa au Maroc",
+                        "description" => "Odeo propose des solutions POS spécialement adaptées aux spas au Maroc, permettant une gestion fluide des réservations, paiements et services de bien-être pour une expérience client optimale.",
+                        "image" => "/images/b/spa.jpg",
+                        "url" => "https://www.odeo.ma/spa",
+                        "type" => "website",
+                        "locale" => "fr_FR",
+                        "site_name" => "Odeo Systems",
+                    ],
+                
+                    // Twitter Meta Tags
+                    "twitter" => [
+                        "card" => "summary_large_image",
+                        "title" => "Odeo - POS pour Spa au Maroc",
+                        "description" => "Odeo propose des solutions POS spécialement adaptées aux spas au Maroc, permettant une gestion fluide des réservations, paiements et services de bien-être pour une expérience client optimale.",
+                        "image" => "/images/b/spa.jpg",
+                        "site" => "@OdeoSystems", // Twitter handle
+                    ],
+                ],                
             ],
             // Piscine
             [
@@ -1357,6 +1722,34 @@ class ListingsController extends Controller
                     ],
                     // 
                 ],
+                "meta" => [
+                    // Meta Tags
+                    "title" => "Odeo - POS pour Piscine au Maroc",
+                    "description" => "Odeo propose des solutions POS adaptées aux piscines au Maroc, facilitant la gestion des réservations, paiements et services pour offrir une expérience client exceptionnelle.",
+                    "keywords" => "Odeo, POS piscine Maroc, caisse enregistreuse piscine, système POS piscine, gestion piscine, équipements POS Maroc, solutions pour piscines",
+                    "robots" => "index, follow",
+                    "author" => "Odeo Systems",
+                
+                    // Open Graph Meta Tags
+                    "graph" => [
+                        "title" => "Odeo - POS pour Piscine au Maroc",
+                        "description" => "Odeo propose des solutions POS adaptées aux piscines au Maroc, facilitant la gestion des réservations, paiements et services pour offrir une expérience client exceptionnelle.",
+                        "image" => "/images/b/pool.jpg",
+                        "url" => "https://www.odeo.ma/piscine",
+                        "type" => "website",
+                        "locale" => "fr_FR",
+                        "site_name" => "Odeo Systems",
+                    ],
+                
+                    // Twitter Meta Tags
+                    "twitter" => [
+                        "card" => "summary_large_image",
+                        "title" => "Odeo - POS pour Piscine au Maroc",
+                        "description" => "Odeo propose des solutions POS adaptées aux piscines au Maroc, facilitant la gestion des réservations, paiements et services pour offrir une expérience client exceptionnelle.",
+                        "image" => "/images/b/pool.jpg",
+                        "site" => "@OdeoSystems", // Twitter handle
+                    ],
+                ],                
             ],
             //Hotel
             [
@@ -1454,6 +1847,34 @@ class ListingsController extends Controller
                     ]
                     // 
                 ],
+                "meta" => [
+                    // Meta Tags
+                    "title" => "Odeo - POS pour Hôtel au Maroc",
+                    "description" => "Odeo propose des solutions POS adaptées aux hôtels au Maroc, simplifiant la gestion des réservations, des paiements et des services pour offrir une expérience client fluide et efficace.",
+                    "keywords" => "Odeo, POS hôtel Maroc, caisse enregistreuse hôtel, système POS hôtel, gestion hôtelière, équipements POS Maroc, solutions pour hôtels",
+                    "robots" => "index, follow",
+                    "author" => "Odeo Systems",
+                
+                    // Open Graph Meta Tags
+                    "graph" => [
+                        "title" => "Odeo - POS pour Hôtel au Maroc",
+                        "description" => "Odeo propose des solutions POS adaptées aux hôtels au Maroc, simplifiant la gestion des réservations, des paiements et des services pour offrir une expérience client fluide et efficace.",
+                        "image" => "/images/b/b-2.jpg",
+                        "url" => "https://www.odeo.ma/hotel",
+                        "type" => "website",
+                        "locale" => "fr_FR",
+                        "site_name" => "Odeo Systems",
+                    ],
+                
+                    // Twitter Meta Tags
+                    "twitter" => [
+                        "card" => "summary_large_image",
+                        "title" => "Odeo - POS pour Hôtel au Maroc",
+                        "description" => "Odeo propose des solutions POS adaptées aux hôtels au Maroc, simplifiant la gestion des réservations, des paiements et des services pour offrir une expérience client fluide et efficace.",
+                        "image" => "/images/b/b-2.jpg",
+                        "site" => "@OdeoSystems", // Twitter handle
+                    ],
+                ],                
             ],
             // Maison D'hotes
             [
@@ -1551,6 +1972,34 @@ class ListingsController extends Controller
                     ]
                     // 
                 ],
+                "meta" => [
+                    // Meta Tags
+                    "title" => "Odeo - POS pour Maison d'Hôtes au Maroc",
+                    "description" => "Odeo offre des solutions POS adaptées aux maisons d’hôtes au Maroc, permettant une gestion fluide des réservations, des paiements et des services pour améliorer l'expérience des clients.",
+                    "keywords" => "Odeo, POS maison d'hôtes Maroc, caisse enregistreuse maison d'hôtes, système POS maison d'hôtes, gestion maison d'hôtes, équipements POS Maroc, solutions pour maisons d'hôtes",
+                    "robots" => "index, follow",
+                    "author" => "Odeo Systems",
+                
+                    // Open Graph Meta Tags
+                    "graph" => [
+                        "title" => "Odeo - POS pour Maison d'Hôtes au Maroc",
+                        "description" => "Odeo offre des solutions POS adaptées aux maisons d’hôtes au Maroc, permettant une gestion fluide des réservations, des paiements et des services pour améliorer l'expérience des clients.",
+                        "image" => "/images/b/maisondhotes.jpg",
+                        "url" => "https://www.odeo.ma/maison-d-hotes",
+                        "type" => "website",
+                        "locale" => "fr_FR",
+                        "site_name" => "Odeo Systems",
+                    ],
+                
+                    // Twitter Meta Tags
+                    "twitter" => [
+                        "card" => "summary_large_image",
+                        "title" => "Odeo - POS pour Maison d'Hôtes au Maroc",
+                        "description" => "Odeo offre des solutions POS adaptées aux maisons d’hôtes au Maroc, permettant une gestion fluide des réservations, des paiements et des services pour améliorer l'expérience des clients.",
+                        "image" => "/images/b/maisondhotes.jpg",
+                        "site" => "@OdeoSystems", // Twitter handle
+                    ],
+                ],                
             ],
             // Riad
             [
@@ -1648,6 +2097,34 @@ class ListingsController extends Controller
                     ]
                     // 
                 ],
+                "meta" => [
+                    // Meta Tags
+                    "title" => "Odeo - POS pour Riad au Maroc",
+                    "description" => "Odeo propose des solutions POS spécifiquement conçues pour les Riads au Maroc, permettant une gestion efficace des réservations, des paiements et des services pour une expérience client optimale.",
+                    "keywords" => "Odeo, POS Riad Maroc, caisse enregistreuse Riad, système POS Riad, gestion Riad, équipements POS Maroc, solutions pour Riads",
+                    "robots" => "index, follow",
+                    "author" => "Odeo Systems",
+                
+                    // Open Graph Meta Tags
+                    "graph" => [
+                        "title" => "Odeo - POS pour Riad au Maroc",
+                        "description" => "Odeo propose des solutions POS spécifiquement conçues pour les Riads au Maroc, permettant une gestion efficace des réservations, des paiements et des services pour une expérience client optimale.",
+                        "image" => "/images/b/riad.jpg",
+                        "url" => "https://www.odeo.ma/riad",
+                        "type" => "website",
+                        "locale" => "fr_FR",
+                        "site_name" => "Odeo Systems",
+                    ],
+                
+                    // Twitter Meta Tags
+                    "twitter" => [
+                        "card" => "summary_large_image",
+                        "title" => "Odeo - POS pour Riad au Maroc",
+                        "description" => "Odeo propose des solutions POS spécifiquement conçues pour les Riads au Maroc, permettant une gestion efficace des réservations, des paiements et des services pour une expérience client optimale.",
+                        "image" => "/images/b/riad.jpg",
+                        "site" => "@OdeoSystems", // Twitter handle
+                    ],
+                ],                
             ],
             
         ];

@@ -111,71 +111,71 @@
 
                     <!-- Right Column -->
                     <div class="lg:w-1/2 text-black">
-                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Notre caisse enregistreuse Maroc est conçue par des restaurateurs pour les restaurants !!</h1>
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Solution de Caisse enregistreuse pour Restaurant</h1>
                         
                         <p class="text-[#812755] text-lg mb-3">
-                            Découvrez une solution complète au-delà d'une simple caisse tactile - Compatible TPE Maroc et adaptée aux fast-food.
+                            Gérez votre restaurant avec efficacité grâce à notre solution complète
                         </p>
 
                         <p class="text-gray-700 mb-8">
-                            Odeo propose une solution de caisse manager personnalisée qui révolutionne la gestion de votre restaurant. Notre système combine caisse tactile et logiciel de gestion avancé, avec des prix caisse enregistreuse Maroc adaptés à tous les budgets. Que vous gériez un restaurant traditionnel ou un fast-food, notre solution s'adapte à la taille de votre établissement avec un système TPE paiement intégré.
+                            Notre système de gestion pour restaurants permet de simplifier la prise de commandes, le suivi des tables, et la gestion des stocks. Offrez une expérience client exceptionnelle tout en optimisant vos opérations grâce à une interface intuitive et des outils performants.
                         </p>
 
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 7h6m0 10H9m3 4v-4m0 0l3-3m-3 3l-3-3m12 1V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>
-                                    Système de caisse tactile avec gestion des paiements et commandes
+                                    Prise de commandes simplifiée avec caisse tactile
                                 </span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
-                                <span>gestion des stocks avancée avec contrôle automatique</span>
+                                <span>
+                                    Gestion des tables et des réservations en temps rée
+                                </span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
-                                <span>Interface de caisse enregistreuse automatique avec export comptable</span>
+                                <span>Suivi des commandes en cuisine avec impression automatique</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                </div>
+                                <span>Rapports détaillés sur les ventes et les performances</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Organisation cuisine avec imprimante caisse et bon de commande</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v13m0-13V6a2 2 0 112 2h-2zm0 0V5.5A2.5 2.5 0 109.5 8H12zm-7 4h14M5 12a2 2 0 110-4h14a2 2 0 110 4M5 12v7a2 2 0 002 2h10a2 2 0 002-2v-7"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Tiroir caisse et système de fidélisation clients intégré</span>
                             </div>
                         </div>
-
-                            <div class="py-2">
-                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
-                                    <a href="/contact" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Visionner une démo
-                                    </a>
-                                    <a href="/contact" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Contactez-nous
-                                    </a>
-                                </div>
-                            </div>
+                        <x-buttons class="mt-6"/>
                         </div>
                 </div>
             </main>
@@ -216,41 +216,41 @@
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 7h6m0 10H9m3 4v-4m0 0l3-3m-3 3l-3-3m12 1V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Caisse tactile rapide et intuitive pour service express</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Gestion des commandes sur place et à emporter</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Menu digital personnalisable avec photos des plats</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.813 15.904 9 18.75l-.813-2.846a4.5 4.5 0 0 0-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 0 0 3.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 0 0 3.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 0 0-3.09 3.09ZM18.259 8.715 18 9.75l-.259-1.035a3.375 3.375 0 0 0-2.455-2.456L14.25 6l1.036-.259a3.375 3.375 0 0 0 2.455-2.456L18 2.25l.259 1.035a3.375 3.375 0 0 0 2.456 2.456L21.75 6l-1.035.259a3.375 3.375 0 0 0-2.456 2.456ZM16.894 20.567 16.5 21.75l-.394-1.183a2.25 2.25 0 0 0-1.423-1.423L13.5 18.75l1.183-.394a2.25 2.25 0 0 0 1.423-1.423l.394-1.183.394 1.183a2.25 2.25 0 0 0 1.423 1.423l1.183.394-1.183.394a2.25 2.25 0 0 0-1.423 1.423Z" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Suivi des ventes en temps réel avec tableau de bord</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 11.25v8.25a1.5 1.5 0 0 1-1.5 1.5H5.25a1.5 1.5 0 0 1-1.5-1.5v-8.25M12 4.875A2.625 2.625 0 1 0 9.375 7.5H12m0-2.625V7.5m0-2.625A2.625 2.625 0 1 1 14.625 7.5H12m0 0V21m-8.625-9.75h18c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125h-18c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z" />
-                                    </svg>                                      
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>                                     
                                 </div>
                                 <span>Système de fidélisation clients intégré à la caisse enregistreuse</span>
                             </div>
@@ -297,41 +297,41 @@
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 10.5V6a3.75 3.75 0 1 0-7.5 0v4.5m11.356-1.993 1.263 12c.07.665-.45 1.243-1.119 1.243H4.25a1.125 1.125 0 0 1-1.12-1.243l1.264-12A1.125 1.125 0 0 1 5.513 7.5h12.974c.576 0 1.059.435 1.119 1.007ZM8.625 10.5a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm7.5 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Z" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg> 
                                 </div>
                                 <span>Interface caisse tactile personnalisée pour les cafés</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25M9 16.5v.75m3-3v3M15 12v5.25m-4.5-15H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
-                                    </svg>                                      
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>                                     
                                 </div>
                                 <span>Gestion des tables et terrasses intégrée</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Suivi des consommations et encaissements en temps réel</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-width="2" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5m-9-6h.008v.008H12v-.008ZM12 15h.008v.008H12V15Zm0 2.25h.008v.008H12v-.008ZM9.75 15h.008v.008H9.75V15Zm0 2.25h.008v.008H9.75v-.008ZM7.5 15h.008v.008H7.5V15Zm0 2.25h.008v.008H7.5v-.008Zm6.75-4.5h.008v.008h-.008v-.008Zm0 2.25h.008v.008h-.008V15Zm0 2.25h.008v.008h-.008v-.008Zm2.25-4.5h.008v.008H16.5v-.008Zm0 2.25h.008v.008H16.5V15Z" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Gestion des happy hours et promotions automatisée</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z" />
-                                    </svg>                                      
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>                                     
                                 </div>
                                 <span>Programme de fidélisation clients intégré à la caisse</span>
                             </div>
@@ -377,40 +377,40 @@
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5m-9-6h.008v.008H12v-.008ZM12 15h.008v.008H12V15Zm0 2.25h.008v.008H12v-.008ZM9.75 15h.008v.008H9.75V15Zm0 2.25h.008v.008H9.75v-.008ZM7.5 15h.008v.008H7.5V15Zm0 2.25h.008v.008H7.5v-.008Zm6.75-4.5h.008v.008h-.008v-.008Zm0 2.25h.008v.008h-.008V15Zm0 2.25h.008v.008h-.008v-.008Zm2.25-4.5h.008v.008H16.5v-.008Zm0 2.25h.008v.008H16.5V15Z" />
+                                   <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>                                      
                                 </div>
                                 <span>Caisse tactile ergonomique avec interface personnalisé</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>  
                                 </div>
                                 <span>Gestion des tables et réservations intégrée</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="size-6">
-                                        <path stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M11.42 15.17 17.25 21A2.652 2.652 0 0 0 21 17.25l-5.877-5.877M11.42 15.17l2.496-3.03c.317-.384.74-.626 1.208-.766M11.42 15.17l-4.655 5.653a2.548 2.548 0 1 1-3.586-3.586l6.837-5.63m5.108-.233c.55-.164 1.163-.188 1.743-.14a4.5 4.5 0 0 0 4.486-6.336l-3.276 3.277a3.004 3.004 0 0 1-2.25-2.25l3.276-3.276a4.5 4.5 0 0 0-6.336 4.486c.091 1.076-.071 2.264-.904 2.95l-.102.085m-1.745 1.437L5.909 7.5H4.5L2.25 3.75l1.5-1.5L7.5 4.5v1.409l4.26 4.26m-1.745 1.437 1.745-1.437m6.615 8.206L15.75 15.75M4.867 19.125h.008v.008h-.008v-.008Z" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Suivi des commandes pâtisseries et boissons chaude</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Gestion des événements et service traiteur</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Système de fidélisation clients sophistiqu</span>
@@ -456,41 +456,40 @@
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 10.5V6a3.75 3.75 0 1 0-7.5 0v4.5m11.356-1.993 1.263 12c.07.665-.45 1.243-1.119 1.243H4.25a1.125 1.125 0 0 1-1.12-1.243l1.264-12A1.125 1.125 0 0 1 5.513 7.5h12.974c.576 0 1.059.435 1.119 1.007ZM8.625 10.5a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm7.5 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Z" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>     
                                 </div>
                                 <span>Suivi des stocks de pâtisseries fraîches</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Gestion des commandes spéciales pour événements</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z" />
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6 6h.008v.008H6V6Z" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg> 
                                 </div>
                                 <span>Planning de production optimisé pour une gestion fluide</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M21 11.25v8.25a1.5 1.5 0 0 1-1.5 1.5H5.25a1.5 1.5 0 0 1-1.5-1.5v-8.25M12 4.875A2.625 2.625 0 1 0 9.375 7.5H12m0-2.625V7.5m0-2.625A2.625 2.625 0 1 1 14.625 7.5H12m0 0V21m-8.625-9.75h18c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125h-18c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>                                      
                                 </div>
                                 <span>Contrôle des dates de péremption des produits</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M14.857 17.082a23.848 23.848 0 0 0 5.454-1.31A8.967 8.967 0 0 1 18 9.75V9A6 6 0 0 0 6 9v.75a8.967 8.967 0 0 1-2.312 6.022c1.733.64 3.56 1.085 5.455 1.31m5.714 0a24.255 24.255 0 0 1-5.714 0m5.714 0a3 3 0 1 1-5.714 0" />
+                                   <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Interface caisse tactile simple et rapide</span>
@@ -537,40 +536,40 @@
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Caisse tactile simple et rapide pour un service efficace</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Gestion des commandes de pains, viennoiseries et pâtisseries</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>                                      
                                 </div>
                                 <span>Suivi des stocks d'ingrédients en temps réel</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>  
                                 </div>
                                 <span>Menu digital avec options de produits personnalisables</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Intégration avec les systèmes de fidélité clients</span>
@@ -625,40 +624,40 @@
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Caisse tactile rapide et intuitive pour une gestion efficace</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Prise de commande instantanée avec interface adaptée</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>                                      
                                 </div>
                                 <span>Gestion des menus personnalisables et des options de commande</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>  
                                 </div>
                                 <span>Suivi des stocks et gestion des ingrédients en temps réel</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Intégration avec les plateformes de livraison pour service rapide</span>
@@ -704,40 +703,40 @@
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Caisse tactile rapide pour gestion des entrées et des boissons</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Suivi des réservations en temps réel avec système de billetterie</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>                                      
                                 </div>
                                 <span>Gestion des stocks de boissons et produits liés</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>  
                                 </div>
                                 <span>Programme de fidélisation pour clients réguliers</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Rapports détaillés des ventes et des consommations</span>
@@ -782,40 +781,40 @@
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Caisse tactile performante pour gestion des commandes au bar et en salle</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Suivi des réservations VIP et des événements spéciaux</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>                                      
                                 </div>
                                 <span>Menu digital avec photos de cocktails et plats</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>  
                                 </div>
                                 <span>Rapports détaillés des ventes et performances en temps réel</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Système de fidélisation intégré pour clients réguliers</span>
@@ -861,40 +860,40 @@
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5m-9-6h.008v.008H12v-.008ZM12 15h.008v.008H12V15Zm0 2.25h.008v.008H12v-.008ZM9.75 15h.008v.008H9.75V15Zm0 2.25h.008v.008H9.75v-.008ZM7.5 15h.008v.008H7.5V15Zm0 2.25h.008v.008H7.5v-.008Zm6.75-4.5h.008v.008h-.008v-.008Zm0 2.25h.008v.008h-.008V15Zm0 2.25h.008v.008h-.008v-.008Zm2.25-4.5h.008v.008H16.5v-.008Zm0 2.25h.008v.008H16.5V15Z" />
+                                   <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>                                      
                                 </div>
                                 <span>Caisse tactile rapide pour service au bar</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>  
                                 </div>
                                 <span>Suivi des commandes et des ventes en temps réel</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="size-6">
-                                        <path stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M11.42 15.17 17.25 21A2.652 2.652 0 0 0 21 17.25l-5.877-5.877M11.42 15.17l2.496-3.03c.317-.384.74-.626 1.208-.766M11.42 15.17l-4.655 5.653a2.548 2.548 0 1 1-3.586-3.586l6.837-5.63m5.108-.233c.55-.164 1.163-.188 1.743-.14a4.5 4.5 0 0 0 4.486-6.336l-3.276 3.277a3.004 3.004 0 0 1-2.25-2.25l3.276-3.276a4.5 4.5 0 0 0-6.336 4.486c.091 1.076-.071 2.264-.904 2.95l-.102.085m-1.745 1.437L5.909 7.5H4.5L2.25 3.75l1.5-1.5L7.5 4.5v1.409l4.26 4.26m-1.745 1.437 1.745-1.437m6.615 8.206L15.75 15.75M4.867 19.125h.008v.008h-.008v-.008Z" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Gestion des stocks de boissons et accessoires</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Rapports détaillés pour le contrôle des marges</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Système de fidélisation intégré pour les clients réguliers</span>
@@ -927,74 +926,64 @@
 
                     <!-- Right Column -->
                     <div class="lg:w-1/2 text-black">
-                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Une solution imaginée par des professionnels du pressing !</h1>
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Solution de caisse enregistreuse Maroc pour Spa</h1>
                         
                         <p class="text-[#812755] text-lg mb-3">
-                            Une caisse enregistreuse spécialement adaptée au pressing.
+                            Une caisse tactile intuitive pour gérer efficacement votre spa.
                         </p>
 
                         <p class="text-gray-700 mb-8">
-                            Odeo a développé une solution qui répond aux exigences spécifiques des pressings. Notre système facilite le suivi des commandes, la gestion des délais et la satisfaction client.
+                            Optimisez la gestion de votre spa avec notre solution de caisse enregistreuse spécialement conçue pour les établissements de bien-être. Notre caisse tactile simplifie la prise de rendez-vous, la gestion des services, et le suivi des clients. Une solution complète pour offrir à vos clients une expérience de relaxation tout en améliorant l'efficacité de votre gestion.
                         </p>
 
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 10.5V6a3.75 3.75 0 1 0-7.5 0v4.5m11.356-1.993 1.263 12c.07.665-.45 1.243-1.119 1.243H4.25a1.125 1.125 0 0 1-1.12-1.243l1.264-12A1.125 1.125 0 0 1 5.513 7.5h12.974c.576 0 1.059.435 1.119 1.007ZM8.625 10.5a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm7.5 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Z" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>     
                                 </div>
-                                <span>Suivi des articles et délais</span>
+                                <span>Caisse tactile intuitive et facile à utiliser</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
-                                <span>Gestion des prestations spéciales</span>
+                                <span>Gestion des rendez-vous et des services en temps réel</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z" />
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6 6h.008v.008H6V6Z" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg> 
                                 </div>
-                                <span>Étiquetage automatisé</span>
+                                <span>Suivi des préférences et historique client</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M21 11.25v8.25a1.5 1.5 0 0 1-1.5 1.5H5.25a1.5 1.5 0 0 1-1.5-1.5v-8.25M12 4.875A2.625 2.625 0 1 0 9.375 7.5H12m0-2.625V7.5m0-2.625A2.625 2.625 0 1 1 14.625 7.5H12m0 0V21m-8.625-9.75h18c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125h-18c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>                                      
                                 </div>
-                                <span>Programme fidélité intégré</span>
+                                <span>Rapports détaillés sur les ventes, services et marges</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M14.857 17.082a23.848 23.848 0 0 0 5.454-1.31A8.967 8.967 0 0 1 18 9.75V9A6 6 0 0 0 6 9v.75a8.967 8.967 0 0 1-2.312 6.022c1.733.64 3.56 1.085 5.455 1.31m5.714 0a24.255 24.255 0 0 1-5.714 0m5.714 0a3 3 0 1 1-5.714 0" />
+                                   <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
-                                <span>Alertes clients automatiques</span>
+                                <span>Système de fidélisation et cartes-cadeaux</span>
                             </div>
                         </div>
-
-                            <div class="py-2">
-                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
-                                    <a href="/contact" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Visionner une démo
-                                    </a>
-                                    <a href="/contact" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Contactez-nous
-                                    </a>
-                                </div>
-                            </div>
+                        <x-buttons class="mt-6"/>
                         </div>
                 </div>
             </main>
         </div>
+        <!-- Piscine -->
         <div id="tabs-with-icons-12" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-12">
             <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
                 <div class="flex flex-col lg:flex-row gap-12">
@@ -1015,73 +1004,66 @@
 
                     <!-- Right Column -->
                     <div class="lg:w-1/2 text-black">
-                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Créée en collaboration avec des gérants de riads !</h1>
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Solution de caisse enregistreuse Maroc pour Piscine</h1>
                         
                         <p class="text-[#812755] text-lg mb-3">
-                            Une solution complète adaptée aux maisons d'hôtes.
-                        </p>
+                            Une caisse tactile intuitive pour gérer efficacement votre piscine
+                            </p>
 
                         <p class="text-gray-700 mb-8">
-                            Odeo propose un système parfaitement adapté aux spécificités des riads. Notre solution facilite la gestion des réservations, des services et de l'expérience client unique que propose votre établissement.
+                            Optimisez la gestion de votre piscine avec notre solution de caisse enregistreuse dédiée aux établissements aquatiques. Notre caisse tactile simplifie la gestion des entrées, des réservations de créneaux horaires, et des services annexes (cours, location de matériel). Une solution complète pour améliorer l'expérience client et la gestion de votre piscine.
                         </p>
 
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
-                                <span>Gestion des réservations simplifiée</span>
+                                <span>Caisse tactile intuitive et facile à utiliser</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
-                                <span>Suivi des prestations sur mesure</span>
+                                <span>Gestion des entrées et réservations de créneaux horaires</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                </div>
+                                <span>Suivi des abonnements et des accès</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>                                      
                                 </div>
-                                <span>Interface multilingue</span>
+                                <span>Gestion des services additionnels (cours, location de matériel)</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>  
                                 </div>
-                                <span>Facturation services additionnels</span>
+                                <span>Rapports détaillés sur les ventes, abonnements et marges</span>
                             </div>
-                            <div class="flex items-center gap-4">
-                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
-                                    </svg>
-                                </div>
-                                <span>Statistiques d'occupation</span>
-                            </div>
+                            
                         </div>
 
-                            <div class="py-2">
-                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
-                                    <a href="/contact" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Visionner une démo
-                                    </a>
-                                    <a href="/contact" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Contactez-nous
-                                    </a>
-                                </div>
-                            </div>
+                        <x-buttons class="mt-6"/>
                         </div>
                 </div>
             </main>
         </div>
+        <!-- Hotel -->
         <div id="tabs-with-icons-13" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-13">
             <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
                 <div class="flex flex-col lg:flex-row gap-12">
@@ -1102,73 +1084,65 @@
 
                     <!-- Right Column -->
                     <div class="lg:w-1/2 text-black">
-                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Créée en collaboration avec des gérants de riads !</h1>
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Solution de caisse enregistreuse PMS pour hôtel au Maroc</h1>
                         
                         <p class="text-[#812755] text-lg mb-3">
-                            Une solution complète adaptée aux maisons d'hôtes.
+                            Optimisez la gestion de votre hôtel avec notre système PMS intégré
                         </p>
 
                         <p class="text-gray-700 mb-8">
-                            Odeo propose un système parfaitement adapté aux spécificités des riads. Notre solution facilite la gestion des réservations, des services et de l'expérience client unique que propose votre établissement.
+                            Notre solution de gestion pour hôtels au Maroc, basée sur le système PMS, facilite la gestion des réservations, des check-ins, des services en chambre et des paiements. Un système complet qui centralise la gestion des hôtels et améliore l'efficacité de votre équipe, tout en offrant une expérience client exceptionnelle.
                         </p>
 
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
-                                <span>Gestion des réservations simplifiée</span>
+                                <span>Gestion des réservations en temps réel avec le système PMS</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
-                                <span>Suivi des prestations sur mesure</span>
+                                <span>Check-in rapide et facile pour les clients</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>                                      
                                 </div>
-                                <span>Interface multilingue</span>
+                                <span>Gestion des demandes spéciales et des préférences des clients</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>  
                                 </div>
-                                <span>Facturation services additionnels</span>
+                                <span>Facturation en temps réel, gestion des paiements sécurisés</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
-                                <span>Statistiques d'occupation</span>
+                                <span>Suivi des services en chambre et facturation automatique</span>
                             </div>
                         </div>
 
-                            <div class="py-2">
-                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
-                                    <a href="/contact" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Visionner une démo
-                                    </a>
-                                    <a href="/contact" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Contactez-nous
-                                    </a>
-                                </div>
-                            </div>
+                        <x-buttons class="mt-6"/>
                         </div>
                 </div>
             </main>
         </div>
+        <!--  Maison d'hôte -->
         <div id="tabs-with-icons-14" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-14">
             <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
                 <div class="flex flex-col lg:flex-row gap-12">
@@ -1189,73 +1163,63 @@
 
                     <!-- Right Column -->
                     <div class="lg:w-1/2 text-black">
-                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Créée en collaboration avec des gérants de riads !</h1>
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Solution de gestion PMS pour votre Maison d'Hôte au Maroc</h1>
                         
-                        <p class="text-[#812755] text-lg mb-3">
-                            Une solution complète adaptée aux maisons d'hôtes.
+                        <p class="text-[#812755] text-lg mb-3"> Une gestion fluide et efficace pour vos hôtes et vos services
                         </p>
 
                         <p class="text-gray-700 mb-8">
-                            Odeo propose un système parfaitement adapté aux spécificités des riads. Notre solution facilite la gestion des réservations, des services et de l'expérience client unique que propose votre établissement.
+                            Optimisez la gestion de votre Maison d'Hôte au Maroc avec notre système PMS conçu pour simplifier la gestion des réservations, des services en chambre et des paiements. Notre solution offre une interface simple et intuitive, idéale pour les maisons d'hôtes marocaines, afin d'améliorer l'expérience de vos hôtes et faciliter le travail de votre équipe.
                         </p>
 
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
-                                <span>Gestion des réservations simplifiée</span>
+                                <span>Gestion des réservations en temps réel avec un calendrier intégré</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
-                                <span>Suivi des prestations sur mesure</span>
+                                <span>Check-in et check-out automatisés et simplifiés</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>                                      
                                 </div>
-                                <span>Interface multilingue</span>
+                                <span>Suivi des demandes et préférences des clients</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>  
                                 </div>
-                                <span>Facturation services additionnels</span>
+                                <span>Facturation claire et détaillée des services offerts</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
-                                <span>Statistiques d'occupation</span>
+                                <span>Gestion des paiements avec options sécurisées</span>
                             </div>
                         </div>
-
-                            <div class="py-2">
-                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
-                                    <a href="/contact" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Visionner une démo
-                                    </a>
-                                    <a href="/contact" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Contactez-nous
-                                    </a>
-                                </div>
-                            </div>
+                        <x-buttons class="mt-6"/>
                         </div>
                 </div>
             </main>
         </div>
+        <!-- Riad -->
         <div id="tabs-with-icons-15" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-15">
             <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
                 <div class="flex flex-col lg:flex-row gap-12">
@@ -1276,69 +1240,64 @@
 
                     <!-- Right Column -->
                     <div class="lg:w-1/2 text-black">
-                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Créée en collaboration avec des gérants de riads !</h1>
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Solution de Gestion de Réservations pour Riad</h1>
                         
-                        <p class="text-[#812755] text-lg mb-3">
-                            Une solution complète adaptée aux maisons d'hôtes.
+                        <p class="text-[#812755] text-lg mb-3">Une solution de caisse enregistreuse et gestion des réservations pour votre riad.
                         </p>
 
                         <p class="text-gray-700 mb-8">
-                            Odeo propose un système parfaitement adapté aux spécificités des riads. Notre solution facilite la gestion des réservations, des services et de l'expérience client unique que propose votre établissement.
+                            Optimisez la gestion de votre riad avec notre solution complète de gestion des réservations et des services. Un système performant pour gérer vos chambres, les réservations des clients, et offrir une expérience client exceptionnelle.
                         </p>
 
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
-                                <span>Gestion des réservations simplifiée</span>
+                                <span>Gestion des réservations en temps réel avec suivi des disponibilités</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
+
+                                    
                                 </div>
-                                <span>Suivi des prestations sur mesure</span>
+                                <span>Check-in et check-out rapides avec l'interface tactile</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+
+                                    
+                                    
+                                </div>
+                                <span>Suivi des services personnalisés pour chaque client (spa, repas, etc.)</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>                                      
                                 </div>
-                                <span>Interface multilingue</span>
+                                <span>Gestion des paiements et des dépôts avec plusieurs options de paiement</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>  
                                 </div>
-                                <span>Facturation services additionnels</span>
+                                <span>Rapports de performance détaillés pour optimiser la gestion du riad</span>
                             </div>
-                            <div class="flex items-center gap-4">
-                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
-                                    </svg>
-                                </div>
-                                <span>Statistiques d'occupation</span>
-                            </div>
+                            
                         </div>
-
-                            <div class="py-2">
-                                <div class="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
-                                    <a href="/contact" class="w-full sm:w-auto inline-block bg-[#812755] text-white text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Visionner une démo
-                                    </a>
-                                    <a href="/contact" class="w-full sm:w-auto inline-block bg-transparent border-2 border-[#812755] text-[#812755] text-center px-8 py-2 rounded-full text-lg font-bold hover:bg-[#812755] hover:text-white transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-[#812755] focus:ring-opacity-50">
-                                        Contactez-nous
-                                    </a>
-                                </div>
-                            </div>
+                        <x-buttons class="mt-6"/>
                         </div>
                 </div>
                 

@@ -22,36 +22,36 @@
         <div class="swiper my-tabs">
             <nav class="swiper-wrapper py-4 " aria-label="Tabs" role="tablist" aria-orientation="horizontal">
                 <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755] active" id="tabs-with-icons-item-1" aria-selected="true" data-hs-tab="#tabs-with-icons-1" aria-controls="tabs-with-icons-1" role="tab">
-                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-tools-kitchen-2"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M19 3v12h-5c-.023 -3.681 .184 -7.406 5 -12zm0 12v6h-1v-3m-10 -14v17m-3 -17v3a3 3 0 1 0 6 0v-3" /></svg>
+                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="#7f2855"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-tools-kitchen-2"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M19 3v12h-5c-.023 -3.681 .184 -7.406 5 -12zm0 12v6h-1v-3m-10 -14v17m-3 -17v3a3 3 0 1 0 6 0v-3" /></svg>
                     
                     Restaurant
                 </button>
                 <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-2" aria-selected="false" data-hs-tab="#tabs-with-icons-2" aria-controls="tabs-with-icons-2" role="tab">
-                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-milk"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M8 6h8v-2a1 1 0 0 0 -1 -1h-6a1 1 0 0 0 -1 1v2z" /><path d="M16 6l1.094 1.759a6 6 0 0 1 .906 3.17v8.071a2 2 0 0 1 -2 2h-8a2 2 0 0 1 -2 -2v-8.071a6 6 0 0 1 .906 -3.17l1.094 -1.759" /><path d="M12 16m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" /><path d="M10 10h4" /></svg>
+                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="#7f2855"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-milk"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M8 6h8v-2a1 1 0 0 0 -1 -1h-6a1 1 0 0 0 -1 1v2z" /><path d="M16 6l1.094 1.759a6 6 0 0 1 .906 3.17v8.071a2 2 0 0 1 -2 2h-8a2 2 0 0 1 -2 -2v-8.071a6 6 0 0 1 .906 -3.17l1.094 -1.759" /><path d="M12 16m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" /><path d="M10 10h4" /></svg>
                     Snack
                 </button>
                 <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-3" aria-selected="false" data-hs-tab="#tabs-with-icons-3" aria-controls="tabs-with-icons-3" role="tab">
-                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-coffee"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M3 14c.83 .642 2.077 1.017 3.5 1c1.423 .017 2.67 -.358 3.5 -1c.83 -.642 2.077 -1.017 3.5 -1c1.423 -.017 2.67 .358 3.5 1" /><path d="M8 3a2.4 2.4 0 0 0 -1 2a2.4 2.4 0 0 0 1 2" /><path d="M12 3a2.4 2.4 0 0 0 -1 2a2.4 2.4 0 0 0 1 2" /><path d="M3 10h14v5a6 6 0 0 1 -6 6h-2a6 6 0 0 1 -6 -6v-5z" /><path d="M16.746 16.726a3 3 0 1 0 .252 -5.555" /></svg>
+                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="#7f2855"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-coffee"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M3 14c.83 .642 2.077 1.017 3.5 1c1.423 .017 2.67 -.358 3.5 -1c.83 -.642 2.077 -1.017 3.5 -1c1.423 -.017 2.67 .358 3.5 1" /><path d="M8 3a2.4 2.4 0 0 0 -1 2a2.4 2.4 0 0 0 1 2" /><path d="M12 3a2.4 2.4 0 0 0 -1 2a2.4 2.4 0 0 0 1 2" /><path d="M3 10h14v5a6 6 0 0 1 -6 6h-2a6 6 0 0 1 -6 -6v-5z" /><path d="M16.746 16.726a3 3 0 1 0 .252 -5.555" /></svg>
                     Café
                 </button>
                 <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-4" aria-selected="false" data-hs-tab="#tabs-with-icons-4" aria-controls="tabs-with-icons-4" role="tab">
-                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-teapot"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M10.29 3h3.42a2 2 0 0 1 1.988 1.78l1.555 14a2 2 0 0 1 -1.988 2.22h-6.53a2 2 0 0 1 -1.988 -2.22l1.555 -14a2 2 0 0 1 1.988 -1.78z" /><path d="M7.47 12.5l-4.257 -5.019a.899 .899 0 0 1 .69 -1.481h13.09a3 3 0 0 1 3.007 3v3c0 1.657 -1.346 3 -3.007 3" /><path d="M7 17h10" /></svg>
+                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="#7f2855"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-teapot"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M10.29 3h3.42a2 2 0 0 1 1.988 1.78l1.555 14a2 2 0 0 1 -1.988 2.22h-6.53a2 2 0 0 1 -1.988 -2.22l1.555 -14a2 2 0 0 1 1.988 -1.78z" /><path d="M7.47 12.5l-4.257 -5.019a.899 .899 0 0 1 .69 -1.481h13.09a3 3 0 0 1 3.007 3v3c0 1.657 -1.346 3 -3.007 3" /><path d="M7 17h10" /></svg>
                     Salon de thé
                 </button>
                 <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-5" aria-selected="false" data-hs-tab="#tabs-with-icons-5" aria-controls="tabs-with-icons-5" role="tab">
-                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-cake-roll"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M12 15c-4.97 0 -9 -2.462 -9 -5.5s4.03 -5.5 9 -5.5s9 2.462 9 5.5s-4.03 5.5 -9 5.5" /><path d="M12 6.97c3 0 4 1.036 4 1.979c0 2.805 -8 2.969 -8 -.99c0 -2.11 1.5 -3.959 4 -3.959" /><path d="M21 9.333v5.334c0 2.945 -4.03 5.333 -9 5.333s-9 -2.388 -9 -5.333v-5.334" /></svg>
+                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="#7f2855"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-cake-roll"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M12 15c-4.97 0 -9 -2.462 -9 -5.5s4.03 -5.5 9 -5.5s9 2.462 9 5.5s-4.03 5.5 -9 5.5" /><path d="M12 6.97c3 0 4 1.036 4 1.979c0 2.805 -8 2.969 -8 -.99c0 -2.11 1.5 -3.959 4 -3.959" /><path d="M21 9.333v5.334c0 2.945 -4.03 5.333 -9 5.333s-9 -2.388 -9 -5.333v-5.334" /></svg>
                     Pâtisserie
                 </button>
                 <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-6" aria-selected="false" data-hs-tab="#tabs-with-icons-6" aria-controls="tabs-with-icons-6" role="tab">
-                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-baguette"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5.628 11.283l5.644 -5.637c2.665 -2.663 5.924 -3.747 8.663 -1.205l.188 .181a2.987 2.987 0 0 1 0 4.228l-11.287 11.274a3 3 0 0 1 -4.089 .135l-.143 -.135c-2.728 -2.724 -1.704 -6.117 1.024 -8.841z" /><path d="M9.5 7.5l1.5 3.5" /><path d="M6.5 10.5l1.5 3.5" /><path d="M12.5 4.5l1.5 3.5" /></svg>
+                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="#7f2855"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-baguette"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5.628 11.283l5.644 -5.637c2.665 -2.663 5.924 -3.747 8.663 -1.205l.188 .181a2.987 2.987 0 0 1 0 4.228l-11.287 11.274a3 3 0 0 1 -4.089 .135l-.143 -.135c-2.728 -2.724 -1.704 -6.117 1.024 -8.841z" /><path d="M9.5 7.5l1.5 3.5" /><path d="M6.5 10.5l1.5 3.5" /><path d="M12.5 4.5l1.5 3.5" /></svg>
                     Boulangerie
                 </button>
                 <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-7" aria-selected="false" data-hs-tab="#tabs-with-icons-7" aria-controls="tabs-with-icons-7" role="tab">
-                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-burger"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M4 15h16a4 4 0 0 1 -4 4h-8a4 4 0 0 1 -4 -4z" /><path d="M12 4c3.783 0 6.953 2.133 7.786 5h-15.572c.833 -2.867 4.003 -5 7.786 -5z" /><path d="M5 12h14" /></svg>
+                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="#7f2855"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-burger"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M4 15h16a4 4 0 0 1 -4 4h-8a4 4 0 0 1 -4 -4z" /><path d="M12 4c3.783 0 6.953 2.133 7.786 5h-15.572c.833 -2.867 4.003 -5 7.786 -5z" /><path d="M5 12h14" /></svg>
                     Fast food
                 </button>
                 <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-8" aria-selected="false" data-hs-tab="#tabs-with-icons-8" aria-controls="tabs-with-icons-8" role="tab">
-                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-glass-full"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M8 21l8 0" /><path d="M12 15l0 6" /><path d="M17 3l1 7c0 3.012 -2.686 5 -6 5s-6 -1.988 -6 -5l1 -7h10z" /><path d="M6 10a5 5 0 0 1 6 0a5 5 0 0 0 6 0" /></svg>
+                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="#7f2855"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-glass-full"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M8 21l8 0" /><path d="M12 15l0 6" /><path d="M17 3l1 7c0 3.012 -2.686 5 -6 5s-6 -1.988 -6 -5l1 -7h10z" /><path d="M6 10a5 5 0 0 1 6 0a5 5 0 0 0 6 0" /></svg>
                         Night club
                 </button>
                 <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-9" aria-selected="false" data-hs-tab="#tabs-with-icons-9" aria-controls="tabs-with-icons-9" role="tab">
@@ -59,27 +59,27 @@
                         Lounge
                 </button>
                 <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-10" aria-selected="false" data-hs-tab="#tabs-with-icons-10" aria-controls="tabs-with-icons-10" role="tab">
-                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-glass"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M8 21h8" /><path d="M12 16v5" /><path d="M17 5l1 6c0 3.012 -2.686 5 -6 5s-6 -1.988 -6 -5l1 -6" /><path d="M12 5m-5 0a5 2 0 1 0 10 0a5 2 0 1 0 -10 0" /></svg>
+                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="#7f2855"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-glass"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M8 21h8" /><path d="M12 16v5" /><path d="M17 5l1 6c0 3.012 -2.686 5 -6 5s-6 -1.988 -6 -5l1 -6" /><path d="M12 5m-5 0a5 2 0 1 0 10 0a5 2 0 1 0 -10 0" /></svg>
                         Bar
                 </button>
                 <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-11" aria-selected="false" data-hs-tab="#tabs-with-icons-11" aria-controls="tabs-with-icons-11" role="tab">
-                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-massage"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M4 17m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" /><path d="M9 5m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" /><path d="M4 22l4 -2v-3h12" /><path d="M11 20h9" /><path d="M8 14l3 -2l1 -4c3 1 3 4 3 6" /></svg>
+                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="#7f2855"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-massage"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M4 17m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" /><path d="M9 5m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" /><path d="M4 22l4 -2v-3h12" /><path d="M11 20h9" /><path d="M8 14l3 -2l1 -4c3 1 3 4 3 6" /></svg>
                         Spa
                 </button>
                 <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-12" aria-selected="false" data-hs-tab="#tabs-with-icons-12" aria-controls="tabs-with-icons-12" role="tab">
-                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-swimming"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M16 9m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" /><path d="M6 11l4 -2l3.5 3l-1.5 2" /><path d="M3 16.75a2.4 2.4 0 0 0 1 .25a2.4 2.4 0 0 0 2 -1a2.4 2.4 0 0 1 2 -1a2.4 2.4 0 0 1 2 1a2.4 2.4 0 0 0 2 1a2.4 2.4 0 0 0 2 -1a2.4 2.4 0 0 1 2 -1a2.4 2.4 0 0 1 2 1a2.4 2.4 0 0 0 2 1a2.4 2.4 0 0 0 1 -.25" /></svg>
+                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="#7f2855"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-swimming"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M16 9m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" /><path d="M6 11l4 -2l3.5 3l-1.5 2" /><path d="M3 16.75a2.4 2.4 0 0 0 1 .25a2.4 2.4 0 0 0 2 -1a2.4 2.4 0 0 1 2 -1a2.4 2.4 0 0 1 2 1a2.4 2.4 0 0 0 2 1a2.4 2.4 0 0 0 2 -1a2.4 2.4 0 0 1 2 -1a2.4 2.4 0 0 1 2 1a2.4 2.4 0 0 0 2 1a2.4 2.4 0 0 0 1 -.25" /></svg>
                         Piscine
                 </button>
                 <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-13" aria-selected="false" data-hs-tab="#tabs-with-icons-13" aria-controls="tabs-with-icons-13" role="tab">
-                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-building-skyscraper"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M3 21l18 0" /><path d="M5 21v-14l8 -4v18" /><path d="M19 21v-10l-6 -4" /><path d="M9 9l0 .01" /><path d="M9 12l0 .01" /><path d="M9 15l0 .01" /><path d="M9 18l0 .01" /></svg>
+                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="#7f2855"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-building-skyscraper"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M3 21l18 0" /><path d="M5 21v-14l8 -4v18" /><path d="M19 21v-10l-6 -4" /><path d="M9 9l0 .01" /><path d="M9 12l0 .01" /><path d="M9 15l0 .01" /><path d="M9 18l0 .01" /></svg>
                         Hotel
                 </button>
                 <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-14" aria-selected="false" data-hs-tab="#tabs-with-icons-14" aria-controls="tabs-with-icons-14" role="tab">
-                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-bed"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M7 9m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" /><path d="M22 17v-3h-20" /><path d="M2 8v9" /><path d="M12 14h10v-2a3 3 0 0 0 -3 -3h-7v5z" /></svg>
+                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="#7f2855"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-bed"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M7 9m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" /><path d="M22 17v-3h-20" /><path d="M2 8v9" /><path d="M12 14h10v-2a3 3 0 0 0 -3 -3h-7v5z" /></svg>
                     Maison d'hôte
                 </button>
                 <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-15" aria-selected="false" data-hs-tab="#tabs-with-icons-15" aria-controls="tabs-with-icons-15" role="tab">
-                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-lamp"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 20h6" /><path d="M12 20v-8" /><path d="M5 12h14l-4 -8h-6z" /></svg>
+                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="#7f2855"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-lamp"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 20h6" /><path d="M12 20v-8" /><path d="M5 12h14l-4 -8h-6z" /></svg>
                     Riad
                 </button>
             </nav>
@@ -103,7 +103,7 @@
                             
                             <a href="/restaurant" class=" mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
-                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
                                 </svg>
                             </a>
@@ -125,8 +125,8 @@
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 7h6m0 10H9m3 4v-4m0 0l3-3m-3 3l-3-3m12 1V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2z"/>
+                                   <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>
@@ -135,40 +135,40 @@
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Gestion des tables et des réservations en temps rée</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Suivi des commandes en cuisine avec impression automatique</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Rapports détaillés sur les ventes et les performances</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Organisation cuisine avec imprimante caisse et bon de commande</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v13m0-13V6a2 2 0 112 2h-2zm0 0V5.5A2.5 2.5 0 109.5 8H12zm-7 4h14M5 12a2 2 0 110-4h14a2 2 0 110 4M5 12v7a2 2 0 002 2h10a2 2 0 002-2v-7"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Tiroir caisse et système de fidélisation clients intégré</span>
@@ -203,7 +203,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -278,7 +278,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -314,7 +314,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -361,7 +361,7 @@
                     
                             <a href="/snack" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
-                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
                                 </svg>
                             </a>
@@ -384,41 +384,41 @@
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 7h6m0 10H9m3 4v-4m0 0l3-3m-3 3l-3-3m12 1V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2z"/>
+                                   <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Caisse tactile rapide et intuitive pour service express</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Gestion des commandes sur place et à emporter</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Menu digital personnalisable avec photos des plats</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.813 15.904 9 18.75l-.813-2.846a4.5 4.5 0 0 0-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 0 0 3.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 0 0 3.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 0 0-3.09 3.09ZM18.259 8.715 18 9.75l-.259-1.035a3.375 3.375 0 0 0-2.455-2.456L14.25 6l1.036-.259a3.375 3.375 0 0 0 2.455-2.456L18 2.25l.259 1.035a3.375 3.375 0 0 0 2.456 2.456L21.75 6l-1.035.259a3.375 3.375 0 0 0-2.456 2.456ZM16.894 20.567 16.5 21.75l-.394-1.183a2.25 2.25 0 0 0-1.423-1.423L13.5 18.75l1.183-.394a2.25 2.25 0 0 0 1.423-1.423l.394-1.183.394 1.183a2.25 2.25 0 0 0 1.423 1.423l1.183.394-1.183.394a2.25 2.25 0 0 0-1.423 1.423Z" />
+                                   <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Suivi des ventes en temps réel avec tableau de bord</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 11.25v8.25a1.5 1.5 0 0 1-1.5 1.5H5.25a1.5 1.5 0 0 1-1.5-1.5v-8.25M12 4.875A2.625 2.625 0 1 0 9.375 7.5H12m0-2.625V7.5m0-2.625A2.625 2.625 0 1 1 14.625 7.5H12m0 0V21m-8.625-9.75h18c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125h-18c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z" />
-                                    </svg>                                      
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>                                    
                                 </div>
                                 <span>Système de fidélisation clients intégré à la caisse enregistreuse</span>
                             </div>
@@ -448,7 +448,7 @@
                             <div class="space-y-8">
                                 @foreach ($features as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -525,7 +525,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -562,7 +562,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -609,7 +609,7 @@
                             
                                 <a href="/cafe" class="mt-6 font-bold text-[#7f2855] flex items-center">
                                     Découvrir
-                                    <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
                                     </svg>
                                 </a>
@@ -632,41 +632,41 @@
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 10.5V6a3.75 3.75 0 1 0-7.5 0v4.5m11.356-1.993 1.263 12c.07.665-.45 1.243-1.119 1.243H4.25a1.125 1.125 0 0 1-1.12-1.243l1.264-12A1.125 1.125 0 0 1 5.513 7.5h12.974c.576 0 1.059.435 1.119 1.007ZM8.625 10.5a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm7.5 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Z" />
-                                    </svg> 
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
                                 </div>
                                 <span>Interface caisse tactile personnalisée pour les cafés</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25M9 16.5v.75m3-3v3M15 12v5.25m-4.5-15H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
-                                    </svg>                                      
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>                                   
                                 </div>
                                 <span>Gestion des tables et terrasses intégrée</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Suivi des consommations et encaissements en temps réel</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-width="2" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5m-9-6h.008v.008H12v-.008ZM12 15h.008v.008H12V15Zm0 2.25h.008v.008H12v-.008ZM9.75 15h.008v.008H9.75V15Zm0 2.25h.008v.008H9.75v-.008ZM7.5 15h.008v.008H7.5V15Zm0 2.25h.008v.008H7.5v-.008Zm6.75-4.5h.008v.008h-.008v-.008Zm0 2.25h.008v.008h-.008V15Zm0 2.25h.008v.008h-.008v-.008Zm2.25-4.5h.008v.008H16.5v-.008Zm0 2.25h.008v.008H16.5V15Z" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Gestion des happy hours et promotions automatisée</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z" />
-                                    </svg>                                      
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>                                    
                                 </div>
                                 <span>Programme de fidélisation clients intégré à la caisse</span>
                             </div>
@@ -700,7 +700,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -775,7 +775,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -811,7 +811,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -857,7 +857,7 @@
                             </div>
                             <a href="/salon-de-the" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
-                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
                                 </svg>
                             </a>
@@ -880,46 +880,42 @@
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5m-9-6h.008v.008H12v-.008ZM12 15h.008v.008H12V15Zm0 2.25h.008v.008H12v-.008ZM9.75 15h.008v.008H9.75V15Zm0 2.25h.008v.008H9.75v-.008ZM7.5 15h.008v.008H7.5V15Zm0 2.25h.008v.008H7.5v-.008Zm6.75-4.5h.008v.008h-.008v-.008Zm0 2.25h.008v.008h-.008V15Zm0 2.25h.008v.008h-.008v-.008Zm2.25-4.5h.008v.008H16.5v-.008Zm0 2.25h.008v.008H16.5V15Z" />
+                                   <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>                                      
                                 </div>
                                 <span>Caisse tactile ergonomique avec interface personnalisée</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    {{-- <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
-                                    </svg> --}}
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
-                                    </svg>  
+                                   
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg> 
                                 </div>
                                 <span>Gestion des tables et réservations intégrée</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    {{-- <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
-                                    </svg> --}}
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="size-6">
-                                        <path stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M11.42 15.17 17.25 21A2.652 2.652 0 0 0 21 17.25l-5.877-5.877M11.42 15.17l2.496-3.03c.317-.384.74-.626 1.208-.766M11.42 15.17l-4.655 5.653a2.548 2.548 0 1 1-3.586-3.586l6.837-5.63m5.108-.233c.55-.164 1.163-.188 1.743-.14a4.5 4.5 0 0 0 4.486-6.336l-3.276 3.277a3.004 3.004 0 0 1-2.25-2.25l3.276-3.276a4.5 4.5 0 0 0-6.336 4.486c.091 1.076-.071 2.264-.904 2.95l-.102.085m-1.745 1.437L5.909 7.5H4.5L2.25 3.75l1.5-1.5L7.5 4.5v1.409l4.26 4.26m-1.745 1.437 1.745-1.437m6.615 8.206L15.75 15.75M4.867 19.125h.008v.008h-.008v-.008Z" />
+                                   
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Suivi des commandes pâtisseries et boissons chaudes</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Gestion des événements et service traiteur</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Système de fidélisation clients sophistiqué</span>
@@ -954,7 +950,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -1029,7 +1025,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -1063,7 +1059,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -1109,7 +1105,7 @@
                             </div>
                             <a href="/patisserie" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
-                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
                                 </svg>
                             </a>
@@ -1132,41 +1128,40 @@
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 10.5V6a3.75 3.75 0 1 0-7.5 0v4.5m11.356-1.993 1.263 12c.07.665-.45 1.243-1.119 1.243H4.25a1.125 1.125 0 0 1-1.12-1.243l1.264-12A1.125 1.125 0 0 1 5.513 7.5h12.974c.576 0 1.059.435 1.119 1.007ZM8.625 10.5a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm7.5 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Z" />
-                                    </svg>     
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
                                 </div>
                                 <span>Suivi des stocks de pâtisseries fraîches</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Gestion des commandes spéciales pour événements</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z" />
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6 6h.008v.008H6V6Z" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg> 
                                 </div>
                                 <span>Planning de production optimisé pour une gestion fluide</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M21 11.25v8.25a1.5 1.5 0 0 1-1.5 1.5H5.25a1.5 1.5 0 0 1-1.5-1.5v-8.25M12 4.875A2.625 2.625 0 1 0 9.375 7.5H12m0-2.625V7.5m0-2.625A2.625 2.625 0 1 1 14.625 7.5H12m0 0V21m-8.625-9.75h18c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125h-18c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>                                      
                                 </div>
                                 <span>Contrôle des dates de péremption des produits</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M14.857 17.082a23.848 23.848 0 0 0 5.454-1.31A8.967 8.967 0 0 1 18 9.75V9A6 6 0 0 0 6 9v.75a8.967 8.967 0 0 1-2.312 6.022c1.733.64 3.56 1.085 5.455 1.31m5.714 0a24.255 24.255 0 0 1-5.714 0m5.714 0a3 3 0 1 1-5.714 0" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Interface caisse tactile simple et rapide</span>
@@ -1201,7 +1196,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -1276,7 +1271,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -1312,7 +1307,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -1358,7 +1353,7 @@
                             </div>
                             <a href="/boulangerie" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
-                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
                                 </svg>
                             </a>
@@ -1381,40 +1376,40 @@
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Caisse tactile simple et rapide pour un service efficace</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Gestion des commandes de pains, viennoiseries et pâtisseries</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>                                      
                                 </div>
                                 <span>Suivi des stocks d\'ingrédients en temps réel</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
-                                    </svg>  
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg> 
                                 </div>
                                 <span>Menu digital avec options de produits personnalisables</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Intégration avec les systèmes de fidélité clients</span>
@@ -1449,7 +1444,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -1524,7 +1519,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -1560,7 +1555,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -1606,7 +1601,7 @@
                             </div>
                             <a href="/boulangerie" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
-                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
                                 </svg>
                             </a>
@@ -1629,40 +1624,40 @@
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Caisse tactile rapide et intuitive pour une gestion efficace</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Prise de commande instantanée avec interface adaptée</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>                                      
                                 </div>
                                 <span>Gestion des menus personnalisables et des options de commande</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
-                                    </svg>  
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg> 
                                 </div>
                                 <span>Suivi des stocks et gestion des ingrédients en temps réel</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Intégration avec les plateformes de livraison pour service rapide</span>
@@ -1697,7 +1692,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -1772,7 +1767,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -1808,7 +1803,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -1854,7 +1849,7 @@
                             </div>
                             <a href="/night-club" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
-                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
                                 </svg>
                             </a>
@@ -1876,40 +1871,40 @@
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Caisse tactile rapide pour gestion des entrées et des boissons</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Suivi des réservations en temps réel avec système de billetterie</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>                                      
                                 </div>
                                 <span>Gestion des stocks de boissons et produits liés</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
-                                    </svg>  
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg> 
                                 </div>
                                 <span>Programme de fidélisation pour clients réguliers</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Rapports détaillés des ventes et des consommations</span>
@@ -1944,7 +1939,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -2019,7 +2014,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -2055,7 +2050,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -2101,7 +2096,7 @@
                             </div>
                             <a href="/lounge" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
-                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
                                 </svg>
                             </a>
@@ -2123,40 +2118,40 @@
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Caisse tactile performante pour gestion des commandes au bar et en salle</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Suivi des réservations VIP et des événements spéciaux</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>                                      
                                 </div>
                                 <span>Menu digital avec photos de cocktails et plats</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
-                                    </svg>  
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg> 
                                 </div>
                                 <span>Rapports détaillés des ventes et performances en temps réel</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Système de fidélisation intégré pour clients réguliers</span>
@@ -2191,7 +2186,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -2266,7 +2261,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -2302,7 +2297,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -2348,7 +2343,7 @@
                             </div>
                             <a href="/bar" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
-                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
                                 </svg>
                             </a>
@@ -2370,46 +2365,46 @@
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5m-9-6h.008v.008H12v-.008ZM12 15h.008v.008H12V15Zm0 2.25h.008v.008H12v-.008ZM9.75 15h.008v.008H9.75V15Zm0 2.25h.008v.008H9.75v-.008ZM7.5 15h.008v.008H7.5V15Zm0 2.25h.008v.008H7.5v-.008Zm6.75-4.5h.008v.008h-.008v-.008Zm0 2.25h.008v.008h-.008V15Zm0 2.25h.008v.008h-.008v-.008Zm2.25-4.5h.008v.008H16.5v-.008Zm0 2.25h.008v.008H16.5V15Z" />
+                                   <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>                                      
                                 </div>
                                 <span>Caisse tactile rapide pour service au bar</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    {{-- <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    {{-- <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg> --}}
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
-                                    </svg>  
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg> 
                                 </div>
                                 <span>Suivi des commandes et des ventes en temps réel</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    {{-- <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    {{-- <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg> --}}
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="size-6">
-                                        <path stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M11.42 15.17 17.25 21A2.652 2.652 0 0 0 21 17.25l-5.877-5.877M11.42 15.17l2.496-3.03c.317-.384.74-.626 1.208-.766M11.42 15.17l-4.655 5.653a2.548 2.548 0 1 1-3.586-3.586l6.837-5.63m5.108-.233c.55-.164 1.163-.188 1.743-.14a4.5 4.5 0 0 0 4.486-6.336l-3.276 3.277a3.004 3.004 0 0 1-2.25-2.25l3.276-3.276a4.5 4.5 0 0 0-6.336 4.486c.091 1.076-.071 2.264-.904 2.95l-.102.085m-1.745 1.437L5.909 7.5H4.5L2.25 3.75l1.5-1.5L7.5 4.5v1.409l4.26 4.26m-1.745 1.437 1.745-1.437m6.615 8.206L15.75 15.75M4.867 19.125h.008v.008h-.008v-.008Z" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Gestion des stocks de boissons et accessoires</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Rapports détaillés pour le contrôle des marges</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Système de fidélisation intégré pour les clients réguliers</span>
@@ -2444,7 +2439,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -2519,7 +2514,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -2555,7 +2550,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -2601,7 +2596,7 @@
                             </div>
                             <a href="/spa" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
-                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
                                 </svg>
                             </a>
@@ -2623,41 +2618,40 @@
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 10.5V6a3.75 3.75 0 1 0-7.5 0v4.5m11.356-1.993 1.263 12c.07.665-.45 1.243-1.119 1.243H4.25a1.125 1.125 0 0 1-1.12-1.243l1.264-12A1.125 1.125 0 0 1 5.513 7.5h12.974c.576 0 1.059.435 1.119 1.007ZM8.625 10.5a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm7.5 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Z" />
-                                    </svg>     
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
                                 </div>
                                 <span>Caisse tactile intuitive et facile à utiliser</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Gestion des rendez-vous et des services en temps réel</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z" />
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6 6h.008v.008H6V6Z" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg> 
                                 </div>
                                 <span>Suivi des préférences et historique client</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M21 11.25v8.25a1.5 1.5 0 0 1-1.5 1.5H5.25a1.5 1.5 0 0 1-1.5-1.5v-8.25M12 4.875A2.625 2.625 0 1 0 9.375 7.5H12m0-2.625V7.5m0-2.625A2.625 2.625 0 1 1 14.625 7.5H12m0 0V21m-8.625-9.75h18c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125h-18c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>                                      
                                 </div>
                                 <span>Rapports détaillés sur les ventes, services et marges</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M14.857 17.082a23.848 23.848 0 0 0 5.454-1.31A8.967 8.967 0 0 1 18 9.75V9A6 6 0 0 0 6 9v.75a8.967 8.967 0 0 1-2.312 6.022c1.733.64 3.56 1.085 5.455 1.31m5.714 0a24.255 24.255 0 0 1-5.714 0m5.714 0a3 3 0 1 1-5.714 0" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Système de fidélisation et cartes-cadeaux</span>
@@ -2692,7 +2686,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -2767,7 +2761,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -2803,7 +2797,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -2849,7 +2843,7 @@
                             </div>
                             <a href="/piscine" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
-                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
                                 </svg>
                             </a>
@@ -2871,40 +2865,40 @@
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Caisse tactile intuitive et facile à utiliser</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Gestion des entrées et réservations de créneaux horaires</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>                                      
                                 </div>
                                 <span>Suivi des abonnements et des accès</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
-                                    </svg>  
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg> 
                                 </div>
                                 <span>Gestion des services additionnels (cours, location de matériel)</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Rapports détaillés sur les ventes, abonnements et marges</span>
@@ -2939,7 +2933,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -3014,7 +3008,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -3050,7 +3044,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -3096,7 +3090,7 @@
                             </div>
                             <a href="/hotel" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
-                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
                                 </svg>
                             </a>
@@ -3118,40 +3112,40 @@
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Gestion des réservations en temps réel avec le système PMS</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Check-in rapide et facile pour les clients</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>                                      
                                 </div>
                                 <span>Gestion des demandes spéciales et des préférences des clients</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
-                                    </svg>  
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg> 
                                 </div>
                                 <span>Facturation en temps réel, gestion des paiements sécurisés</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Suivi des services en chambre et facturation automatique</span>
@@ -3186,7 +3180,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -3261,7 +3255,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -3297,7 +3291,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -3343,7 +3337,7 @@
                             </div>
                             <a href="/maison-d-hotes" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
-                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
                                 </svg>
                             </a>
@@ -3365,40 +3359,40 @@
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Gestion des réservations en temps réel avec un calendrier intégré</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Check-in et check-out automatisés et simplifiés</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>                                      
                                 </div>
                                 <span>Suivi des demandes et préférences des clients</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
-                                    </svg>  
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg> 
                                 </div>
                                 <span>Facturation claire et détaillée des services offerts</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Gestion des paiements avec options sécurisées</span>
@@ -3433,7 +3427,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -3508,7 +3502,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -3544,7 +3538,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -3590,7 +3584,7 @@
                             </div>
                             <a href="/riad" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
-                                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
                                 </svg>
                             </a>
@@ -3612,40 +3606,40 @@
                         <div class="space-y-2">
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Gestion des réservations en temps réel avec suivi des disponibilités</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Check-in et check-out rapides avec l'interface tactile</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>                                      
                                 </div>
                                 <span>Suivi des services personnalisés pour chaque client (spa, repas, etc.)</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-                                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
-                                    </svg>  
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg> 
                                 </div>
                                 <span>Gestion des paiements et des dépôts avec plusieurs options de paiement</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                     </svg>
                                 </div>
                                 <span>Rapports de performance détaillés pour optimiser la gestion du riad</span>
@@ -3681,7 +3675,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -3756,7 +3750,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">
@@ -3792,7 +3786,7 @@
                             <div class="space-y-8">
                                 @foreach ($data['features'] as $feature)
                                     <div class="flex gap-4">
-                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                         </svg>
                                         <p class="text-gray-900 ">

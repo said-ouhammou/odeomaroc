@@ -896,7 +896,7 @@
                         </p>
 
                         <p class="text-gray-700 mb-4">
-                        Découvrez notre solution de caisse enregistreuse spécialement conçue pour les salons de thé marocains. Notre système allie élégance et performance pour une gestion optimale de votre établissement, avec des fonctionnalités adaptées à l\'art du thé et de la pâtisserie.
+                        Découvrez notre solution de caisse enregistreuse spécialement conçue pour les salons de thé marocains. Notre système allie élégance et performance pour une gestion optimale de votre établissement, avec des fonctionnalités adaptées à l'art du thé et de la pâtisserie.
                         </p>
 
                         <div class="space-y-2">
@@ -2887,7 +2887,7 @@
                         </p>
 
                         <p class="text-gray-700 mb-4">
-                        Optimisez la gestion de votre piscine avec notre solution de caisse enregistreuse dédiée aux établissements aquatiques. Notre caisse tactile simplifie la gestion des entrées, des réservations de créneaux horaires, et des services annexes (cours, location de matériel). Une solution complète pour améliorer l\'expérience client et la gestion de votre piscine.
+                        Optimisez la gestion de votre piscine avec notre solution de caisse enregistreuse dédiée aux établissements aquatiques. Notre caisse tactile simplifie la gestion des entrées, des réservations de créneaux horaires, et des services annexes (cours, location de matériel). Une solution complète pour améliorer l'expérience client et la gestion de votre piscine.
                         </p>
 
                         <div class="space-y-2">
@@ -3196,7 +3196,7 @@
                                     'features' => [
                                         'Réservations en temps réel avec suivi des disponibilités',
                                         'Gestion des prévisions d\'occupation et des tarifs dynamiques',
-                                        'Check-in et check-out rapide via l\'interface',
+                                        'Check-in et check-out rapide via l'interface',
                                         'Suivi des annulations et des modifications de réservation'
                                     ]
                                 ];
@@ -3517,7 +3517,7 @@
                                     'image' => '/images/products/maison-dhote-services.png',
                                     'features' => [
                                         'Suivi des services en chambre (repas, boissons, équipements)',
-                                        'Personnalisation de l\'expérience client selon les préférences',
+                                        'Personnalisation de l'expérience client selon les préférences',
                                         'Commandes spéciales pour anniversaires et événements',
                                         'Gestion des demandes spéciales de chaque hôte'
                                     ]
@@ -3761,7 +3761,7 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Personnalisation de l\'Expérience Client',
+                                    'title' => 'Personnalisation de l'Expérience Client',
                                     'image' => '/images/products/riad-experience-client.png',
                                     'features' => [
                                         'Suivi des préférences et demandes spéciales des clients',

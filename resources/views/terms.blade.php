@@ -102,7 +102,9 @@
                     </div>
                     
                     <p class="mt-8">
-                        Pour toute question concernant ces conditions générales, veuillez nous contacter à [votre adresse e-mail] ou par courrier à [votre adresse postale].
+                        Pour toute question concernant ces conditions générales, veuillez nous contacter à <a href="mailto:contact@odeo.ma" target="_blank"><b>contact@odeo.ma</b></a> ou par courrier à <b>Résidence le Noyer A, Rue Ibn Sina
+                            1er étage N 15 - Guéliz
+                            Marrakech - Maroc</b>.
                     </p>
                     
                     <p class="mt-4">

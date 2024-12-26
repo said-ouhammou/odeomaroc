@@ -5,11 +5,11 @@
                 <p class="text-white text-sm uppercase tracking-widest font-medium">
                     CAISSE ENREGISTREUSE - ODEO
                 </p>
-                <h1 class="text-white text-xl sm:text-5xl font-bold leading-tight py-2">
-                    La révolution tactile pour votre commerce
+                <h1 class="text-white text-xl sm:text-4xl font-bold leading-tight py-2">
+                    Des Solutions de Gestion et de Caisse Adaptées à Votre Secteur
                 </h1>
                 <p class="text-gray-300 text-ld leading-relaxed max-w-2xl">
-                    Premier choix en matière de caisse tactile au Maroc, Odeo équipe plus de 165 000 commerces avec sa solution tout-en-un. Découvrez nos caisses enregistreuses nouvelle génération à prix compétitifs.
+                    Chez Odeo Systems, nous offrons des solutions sur mesure : caisses tactiles, caisses enregistreuses modernes, tiroirs-caisses et plus encore. Que vous cherchiez une caisse automatique, une caisse tactile abordable ou une solution pour salon de coiffure, nous avons ce qu’il vous faut. Optimisez votre gestion avec nos produits fiables et adaptés à votre activité.
                 </p>
             
                 <div class="mt-6">

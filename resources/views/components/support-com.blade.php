@@ -4,20 +4,27 @@
           <!-- Text Content -->
           <div class="max-w-xl">
             <h2 class="text-3xl md:text-4xl font-bold mb-8 text-white">Un support illimité et personnalisé 24h/24 et 7j/7 </h2>
-              <p class="text-md md:text-lg leading-relaxed mb-8 text-white">
-                Avec des solutions innovantes et un accompagnement sur mesure, Odeo est bien plus qu’un simple outil de gestion – c’est votre allié pour faire grandir votre entreprise au quotidien.
-              </p>
+              <div class="text-md md:text-lg leading-relaxed mb-8 text-white">
+                <p>Notre équipe de support est disponible <strong>24h/24 et 7j/7</strong>, prête à répondre à toutes vos demandes. Que ce soit pour des questions techniques, des demandes d'assistance ou des conseils personnalisés, nous nous engageons à offrir un service rapide et efficace.</p>
+
+                <p>Grâce à notre support illimité, vous bénéficiez d'une tranquillité d'esprit, sachant que nous sommes là pour vous aider à chaque étape. Notre priorité est de garantir la continuité de vos opérations et de résoudre tout problème rapidement.</p>
+
+                <p>Vous pouvez nous contacter à tout moment, et nous ferons de notre mieux pour vous assister. Notre service est conçu pour s’adapter à vos besoins spécifiques, avec des solutions sur mesure.</p>
+
+                <p>Nous nous engageons à vous offrir un support de qualité, à tout moment.</p>
+
+              </div>
               {{-- <a href="#" class="w-full sm:w-auto inline-block bg-white border-2 border-white text-[#812755] text-center  px-8 py-4 rounded-full text-lg font-bold transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2  focus:ring-opacity-50">
                 En savoir plus
               </a> --}}
           </div>
   
           <!-- Image -->
-          <div class="relative">
+          <div class="relative h-full">
               <img 
                   src="{{asset('/images/s/ss.jpg')}}" 
                   alt="Professionnels Odeo" 
-                  class="w-full rounded-lg shadow-lg"
+                  class="block object-cover w-full h-full max-h-[500px] rounded-lg shadow-lg"
               />
           </div>
       </div>

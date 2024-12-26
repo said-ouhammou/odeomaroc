@@ -62,11 +62,12 @@
                         contactez notre équipe dédiée à la protection des données :
                     </p>
                     <div class="mt-4">
-                        <p>Email : contact@odeo.ma</p>
-                        <p>Téléphone : +212 661 45 33 73</p>
-                        <p>Adresse : Résidence le Noyer A, Rue Ibn Sina
-                          1er étage N 15 - Guéliz
-                          Marrakech - Maroc
+                        <p>Email: <a href="mailto:contact@odeo.ma" target="_blank"><b>contact@odeo.ma</b></a></p>
+                        <p>Téléphone: <a href="tel:+212661453373" target="_blank"><b>+212 661 45 33 73</b></a></p>
+                        <p>Fix:<a href="tel:+212524422201" target="_blank"><b>+212 5 24 42 22 01</b></a></p>
+                        <p> <a href="https://maps.app.goo.gl/Vz472TuSsxXS5Egx6" target="_blank">Adresse:  <b>Résidence le Noyer A, Rue Ibn Sina
+                            1er étage N 15 - Guéliz
+                            Marrakech - Maroc</b> </a>
                         </p>
                     </div>
                 </x-privacy.section>

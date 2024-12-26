@@ -5,8 +5,9 @@
     <div class="relative overflow-hidden w-full min-h-64 bg-white">
         <div class="mt-auto w-full max-w-[85rem] pt-6  px-4 sm:px-6 lg:px-8 mx-auto">
             <h1 class="text-gray-700 text-md sm:text-xl md:text-3xl font-bold leading-tight">
-                Découvrez nos clients
+                Nos Clients de Confiance
             </h1>
+            <p class="py-2 text-lg text-gray-600">Découvrez les entreprises qui nous font confiance pour leurs solutions POS et PMS.</p>
         </div>
         <div class="swiper clients">
             <div class="swiper-wrapper">

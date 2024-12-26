@@ -42,7 +42,7 @@ class ProductCard extends Component
                 "description" => "Cette imprimante thermique est spécialement conçue pour imprimer des tickets et reçus avec une grande précision et rapidité. Elle supporte divers formats de papier et offre des options de connectivité comme USB et Bluetooth, ce qui la rend flexible et adaptée à tout environnement professionnel. Sa faible consommation énergétique en fait un choix écologique et économique.",
                 "image" => "/images/products/imprimante-thermique-2.avif",
                 "features" => [
-                    "Impression rapide et silencieuse",
+                    "Impression rapide",
                     "Supporte divers formats de papier",
                     "Connexion USB et Bluetooth pour plus de flexibilité",
                     "Faible consommation énergétique",

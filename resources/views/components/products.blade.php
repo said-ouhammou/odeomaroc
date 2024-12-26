@@ -10,7 +10,7 @@
                     <div class="p-4">
                             <h5 class="mb-2 text-xl font-semibold tracking-tight text-[#812755] dark:text-white">Le système de point de vente (POS) pour les entreprises</h5>
                        
-                        <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">Optimisez la gestion de votre entreprise avec notre système de point de vente complet. Que vous soyez un restaurant, un hôtel ou un magasin,</p>
+                        <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">Optimisez vos transactions et la gestion de votre entreprise avec un système POS intuitif, rapide et fiable, conçu pour améliorer l'efficacité opérationnelle.</p>
                         <p class="inline-flex font-medium items-center text-[#812755] hover:underline">
                             En savoir plus
                             <svg class="w-3 h-3 ms-2.5 rtl:rotate-[270deg]" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 18 18">
@@ -30,7 +30,7 @@
                        
                             <h5 class="mb-2 text-xl font-semibold tracking-tight text-[#812755] dark:text-white">Système de gestion hôtelière (PMS) pour les entreprises</h5>
                      
-                        <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">Transformez la gestion de votre établissement avec notre système de gestion hôtelière (PMS) puissant.</p>
+                        <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">Gérez facilement les réservations, le check-in/check-out et l'ensemble des opérations de votre établissement hôtelier avec un système PMS complet et adapté à vos besoins.</p>
                         <p class="inline-flex font-medium items-center text-[#812755] hover:underline">
                             En savoir plus
                             <svg class="w-3 h-3 ms-2.5 rtl:rotate-[270deg]" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 18 18">

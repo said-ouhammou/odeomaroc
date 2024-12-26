@@ -89,7 +89,7 @@
         </div>
 
     <div class="mt-3">
-        <!-- Restqurant done-->
+        <!-- Restaurant-->
         <div id="tabs-with-icons-1" class=" bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-1">
             <!-- Main Content -->
             <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
@@ -176,43 +176,33 @@
                     <div class="flex flex-col lg:flex-row gap-12">
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
+                            @php
+                                $data = [
+                                    'title' => 'Gestion des Commandes avec Caisse Tactile',
+                                    'image' => '/images/products/restaurant-commandes.png',
+                                    'features' => [
+                                        'Prise de commande rapide sur tablette ou caisse tactile',
+                                        'Envoi automatique des commandes en cuisine',
+                                        'Gestion des commandes à emporter et livraisons',
+                                        'Suivi en temps réel des ventes et des stocks'
+                                    ]
+                                ];
+                            @endphp
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Odeo Inventory
+                                {{ $data['title'] }}
                             </h1>
                             
                             <div class="space-y-8">
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
+                                @foreach ($data['features'] as $feature)
+                                    <div class="flex gap-4">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                        </svg>
+                                        <p class="text-gray-900 ">
+                                            {{ $feature }}
+                                        </p>
+                                    </div>
+                                @endforeach
                             </div>
                         </div>
         
@@ -261,43 +251,33 @@
         
                         <!-- Right Column -->
                         <div class="lg:w-1/2">
+                            @php
+                                $data = [
+                                    'title' => 'Gestion des Réservations et Tables',
+                                    'image' => '/images/products/restaurant-reservations.png',
+                                    'features' => [
+                                        'Gestion des réservations en ligne et en temps réel',
+                                        'Affichage des tables disponibles et réservées',
+                                        'Optimisation du placement des clients selon les disponibilités',
+                                        'Suivi des préférences des clients pour un service personnalisé'
+                                    ]
+                                ];
+                            @endphp
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Odeo Inventory
+                                {{ $data['title'] }}
                             </h1>
                             
                             <div class="space-y-8">
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
+                                @foreach ($data['features'] as $feature)
+                                    <div class="flex gap-4">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                        </svg>
+                                        <p class="text-gray-900 ">
+                                            {{ $feature }}
+                                        </p>
+                                    </div>
+                                @endforeach
                             </div>
                         </div>
                     
@@ -307,43 +287,33 @@
                     <div class="flex flex-col lg:flex-row gap-12">
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
+                            @php
+                                $data = [
+                                    'title' => 'Rapports et Analyses',
+                                    'image' => '/images/products/restaurant-analytics.png',
+                                    'features' => [
+                                        'Rapports de ventes détaillés par plat et par catégorie',
+                                        'Suivi des performances des employés',
+                                        'Analyse des tendances de consommation',
+                                        'Gestion des coûts et marges bénéficiaires'
+                                    ]
+                                ];
+                            @endphp
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Odeo Inventory
+                                {{ $data['title'] }}
                             </h1>
                             
                             <div class="space-y-8">
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
+                                @foreach ($data['features'] as $feature)
+                                    <div class="flex gap-4">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                        </svg>
+                                        <p class="text-gray-900 ">
+                                            {{ $feature }}
+                                        </p>
+                                    </div>
+                                @endforeach
                             </div>
                         </div>
         
@@ -370,7 +340,7 @@
                 </article>
             </div>
         </div>
-        <!-- Snack done-->
+        <!-- Snack -->
         <div id="tabs-with-icons-2" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-2">
             <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
@@ -618,7 +588,7 @@
                 </article>
             </div>
         </div>
-        <!-- Cafe done-->
+        <!-- Cafe -->
         <div id="tabs-with-icons-3" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-3">
             <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">

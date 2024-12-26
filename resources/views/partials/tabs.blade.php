@@ -3196,7 +3196,7 @@
                                     'features' => [
                                         'Réservations en temps réel avec suivi des disponibilités',
                                         'Gestion des prévisions d\'occupation et des tarifs dynamiques',
-                                        'Check-in et check-out rapide via l'interface',
+                                        'Check-in et check-out rapide via l\'interface',
                                         'Suivi des annulations et des modifications de réservation'
                                     ]
                                 ];
@@ -3517,7 +3517,7 @@
                                     'image' => '/images/products/maison-dhote-services.png',
                                     'features' => [
                                         'Suivi des services en chambre (repas, boissons, équipements)',
-                                        'Personnalisation de l'expérience client selon les préférences',
+                                        'Personnalisation de l\'expérience client selon les préférences',
                                         'Commandes spéciales pour anniversaires et événements',
                                         'Gestion des demandes spéciales de chaque hôte'
                                     ]
@@ -3761,7 +3761,7 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Personnalisation de l'Expérience Client',
+                                    'title' => 'Personnalisation de l\'Expérience Client',
                                     'image' => '/images/products/riad-experience-client.png',
                                     'features' => [
                                         'Suivi des préférences et demandes spéciales des clients',

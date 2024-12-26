@@ -1,6 +1,7 @@
 @if($products)
     @foreach($products as $product)
-    <div x-data="{ showModal: false }" class="bg-white rounded-lg shadow-md overflow-hidden relative group">
+    <div x-data="{ showModal: false }" class="bg-white rounded-lg shadow-md overflow-hidden relative group" x-init="() => {
+            $nextTick(() => {showModal = false;}">
         <img src="{{asset($product['image'])}}" alt="Product 1" class="w-full h-48 object-contain">
         <div class="p-4">
             <h2 class="text-xl font-semibold mb-2">{{$product['title']}}</h2>
@@ -13,7 +14,7 @@
             </button>
         </div>
         <!-- Modal -->
-        <div x-show="showModal" class="fixed inset-0 z-50 overflow-y-auto" aria-labelledby="modal-title" role="dialog" aria-modal="true">
+        <div x-show="showModal" x-cloak class="fixed inset-0 z-50 overflow-y-auto" aria-labelledby="modal-title" role="dialog" aria-modal="true" class="fixed inset-0 z-50 overflow-y-auto" aria-labelledby="modal-title" role="dialog" aria-modal="true">
             <div class="flex items-end justify-center min-h-screen pt-4 px-4 pb-20 text-center sm:block sm:p-0">
                 <!-- Background overlay -->
                 <div @click="showModal = false" x-show="showModal" x-transition:enter="ease-out duration-300" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" x-transition:leave="ease-in duration-200" x-transition:leave-start="opacity-100" x-transition:leave-end="opacity-0" class="fixed inset-0 bg-gray-500 bg-opacity-75 transition-opacity" aria-hidden="true"></div>
@@ -79,5 +80,8 @@
             </div>
         </div>
     </div>
+    <style>
+        [x-cloak] { display: none !important; }
+    </style>
     @endforeach
 @endIf

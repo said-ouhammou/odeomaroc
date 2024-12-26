@@ -3591,14 +3591,14 @@
 
                     <!-- Right Column -->
                     <div class="lg:w-1/2 text-black">
-                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Créée en collaboration avec des gérants de riads !</h1>
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Solution de Gestion de Réservations pour Riad</h1>
                         
                         <p class="text-[#812755] text-lg mb-3">
-                            Une solution complète adaptée aux maisons d'hôtes.
+                        Une solution de caisse enregistreuse et gestion des réservations pour votre riad.
                         </p>
 
                         <p class="text-gray-700 mb-4">
-                            Odeo propose un système parfaitement adapté aux spécificités des riads. Notre solution facilite la gestion des réservations, des services et de l'expérience client unique que propose votre établissement.
+                        Optimisez la gestion de votre riad avec notre solution complète de gestion des réservations et des services. Un système performant pour gérer vos chambres, les réservations des clients, et offrir une expérience client exceptionnelle.
                         </p>
 
                         <div class="space-y-2">
@@ -3608,7 +3608,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
                                     </svg>
                                 </div>
-                                <span>Gestion des réservations simplifiée</span>
+                                <span>Gestion des réservations en temps réel avec suivi des disponibilités</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -3616,7 +3616,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
                                     </svg>
                                 </div>
-                                <span>Suivi des prestations sur mesure</span>
+                                <span>Check-in et check-out rapides avec l'interface tactile</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -3624,7 +3624,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
                                     </svg>                                      
                                 </div>
-                                <span>Interface multilingue</span>
+                                <span>Suivi des services personnalisés pour chaque client (spa, repas, etc.)</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -3632,7 +3632,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
                                     </svg>  
                                 </div>
-                                <span>Facturation services additionnels</span>
+                                <span>Gestion des paiements et des dépôts avec plusieurs options de paiement</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -3640,7 +3640,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
                                     </svg>
                                 </div>
-                                <span>Statistiques d'occupation</span>
+                                <span>Rapports de performance détaillés pour optimiser la gestion du riad</span>
                             </div>
                         </div>
 
@@ -3656,13 +3656,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Gestion des Réservations et Disponibilités',
-                                    'image' => '/images/products/riad-reservation-pms.png',
+                                    'title' => 'Gestion des Chambres et Réservations',
+                                    'image' => '/images/products/riad-chambres.png',
                                     'features' => [
-                                        'Calendrier interactif de réservation en temps réel',
-                                        'Gestion des annulations, modifications et réservations spéciales',
-                                        'Tarification dynamique selon la saison et la demande',
-                                        'Alertes de disponibilité pour éviter les surréservations'
+                                        'Suivi des réservations en temps réel avec calendrier interactif',
+                                        'Gestion des chambres et des disponibilités',
+                                        'Options de réservation en ligne et sur place',
+                                        'Planification des arrivées et départs pour optimiser l\'occupation'
                                     ]
                                 ];
                             @endphp
@@ -3731,13 +3731,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Personnalisation de l\'Expérience Client',
-                                    'image' => '/images/products/riad-experience-client.png',
+                                    'title' => 'Gestion des Services du Riad',
+                                    'image' => '/images/products/riad-services.png',
                                     'features' => [
-                                        'Suivi des préférences et demandes spéciales des clients',
-                                        'Gestion des services en chambre (petit-déjeuner, spa, excursions)',
-                                        'Propositions d\'activités personnalisées selon les goûts des clients',
-                                        'Gestion des événements spéciaux et des célébrations'
+                                        'Suivi des services additionnels comme le spa, les repas, les excursions',
+                                        'Gestion des demandes spéciales des clients',
+                                        'Facturation des services et options supplémentaires',
+                                        'Suivi des préférences et des habitudes des clients pour un service personnalisé'
                                     ]
                                 ];
                             @endphp
@@ -3767,13 +3767,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Gestion des Paiements et Facturation',
-                                    'image' => '/images/products/riad-paiement-pms.png',
+                                    'title' => 'Rapports et Analyses pour Optimisation',
+                                    'image' => '/images/products/riad-analytics.png',
                                     'features' => [
-                                        'Paiements en ligne sécurisés et sur place',
-                                        'Gestion de la facturation par service et par hôte',
-                                        'Rapports financiers détaillés pour une transparence totale',
-                                        'Suivi des paiements et des paiements en retard'
+                                        'Rapports détaillés sur les réservations et l\'occupation',
+                                        'Analyse des revenus par chambre, service, ou période',
+                                        'Suivi des coûts et des marges bénéficiaires',
+                                        'Rapports sur la fidélisation des clients et les services les plus populaires'
                                     ]
                                 ];
                             @endphp

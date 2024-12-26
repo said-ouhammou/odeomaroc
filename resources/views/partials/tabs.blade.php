@@ -2132,14 +2132,14 @@
 
                     <!-- Right Column -->
                     <div class="lg:w-1/2 text-black">
-                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Créée en collaboration avec des gérants de riads !</h1>
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Solution de caisse enregistreuse Maroc pour Lounge</h1>
                         
                         <p class="text-[#812755] text-lg mb-3">
-                            Une solution complète adaptée aux maisons d'hôtes.
+                        Une caisse tactile moderne pour gérer efficacement votre lounge.
                         </p>
 
                         <p class="text-gray-700 mb-4">
-                            Odeo propose un système parfaitement adapté aux spécificités des riads. Notre solution facilite la gestion des réservations, des services et de l'expérience client unique que propose votre établissement.
+                        Optimisez la gestion de votre lounge avec notre solution de caisse enregistreuse Maroc. Conçue pour les bars et lounges haut de gamme, notre caisse tactile permet une gestion fluide des commandes, des réservations et du service client. Simplifiez la gestion des stocks et suivez les ventes en temps réel.
                         </p>
 
                         <div class="space-y-2">
@@ -2149,7 +2149,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
                                     </svg>
                                 </div>
-                                <span>Gestion des réservations simplifiée</span>
+                                <span>Caisse tactile performante pour gestion des commandes au bar et en salle</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -2157,7 +2157,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
                                     </svg>
                                 </div>
-                                <span>Suivi des prestations sur mesure</span>
+                                <span>Suivi des réservations VIP et des événements spéciaux</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -2165,7 +2165,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
                                     </svg>                                      
                                 </div>
-                                <span>Interface multilingue</span>
+                                <span>Menu digital avec photos de cocktails et plats</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -2173,7 +2173,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
                                     </svg>  
                                 </div>
-                                <span>Facturation services additionnels</span>
+                                <span>Rapports détaillés des ventes et performances en temps réel</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -2181,12 +2181,12 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
                                     </svg>
                                 </div>
-                                <span>Statistiques d'occupation</span>
+                                <span>Système de fidélisation intégré pour clients réguliers</span>
                             </div>
                         </div>
 
                             <x-buttons class="mt-6"/>
-                        </div>
+                    </div>
                 </div>
             </main>
             <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
@@ -2196,13 +2196,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Expérience Client Améliorée',
-                                    'image' => '/images/products/night-club-experience.png',
+                                    'title' => 'Gestion des Commandes et Réservations',
+                                    'image' => '/images/products/lounge-commandes.png',
                                     'features' => [
-                                        'Interface conviviale pour le service rapide',
-                                        'Programme de fidélisation pour clients réguliers',
-                                        'Gestion des préférences des clients pour services VIP',
-                                        'Système de réservations et de gestion des tables'
+                                        'Suivi des réservations VIP et des tables en temps réel',
+                                        'Prise de commande instantanée sur caisse tactile',
+                                        'Gestion des événements spéciaux et des réservations privées',
+                                        'Interface de commande rapide pour le service au bar'
                                     ]
                                 ];
                             @endphp
@@ -2271,13 +2271,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Expérience Client Améliorée',
-                                    'image' => '/images/products/night-club-experience.png',
+                                    'title' => 'Gestion des Stocks et Ventes',
+                                    'image' => '/images/products/lounge-stocks.png',
                                     'features' => [
-                                        'Interface conviviale pour le service rapide',
-                                        'Programme de fidélisation pour clients réguliers',
-                                        'Gestion des préférences des clients pour services VIP',
-                                        'Système de réservations et de gestion des tables'
+                                        'Suivi des stocks de boissons et des produits spécifiques',
+                                        'Gestion des approvisionnements en temps réel',
+                                        'Rapports sur les tendances de consommation',
+                                        'Alertes pour les produits à réapprovisionner'
                                     ]
                                 ];
                             @endphp
@@ -2307,13 +2307,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Expérience Client Améliorée',
-                                    'image' => '/images/products/night-club-experience.png',
+                                    'title' => 'Expérience Client Premium',
+                                    'image' => '/images/products/lounge-experience.png',
                                     'features' => [
-                                        'Interface conviviale pour le service rapide',
-                                        'Programme de fidélisation pour clients réguliers',
-                                        'Gestion des préférences des clients pour services VIP',
-                                        'Système de réservations et de gestion des tables'
+                                        'Menu digital personnalisé avec photos et descriptions',
+                                        'Système de fidélité pour clients réguliers',
+                                        'Gestion des préférences clients pour un service sur mesure',
+                                        'Application mobile pour la gestion à distance des réservations et commandes'
                                     ]
                                 ];
                             @endphp
@@ -2379,14 +2379,14 @@
 
                     <!-- Right Column -->
                     <div class="lg:w-1/2 text-black">
-                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Développée avec des hôteliers pour répondre à vos besoins !</h1>
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Solution de caisse enregistreuse Maroc pour Bar</h1>
                         
                         <p class="text-[#812755] text-lg mb-3">
-                            Plus qu'une caisse enregistreuse, un véritable outil de gestion hôtelière.
+                        Une caisse tactile moderne pour une gestion optimale de votre bar.
                         </p>
 
                         <p class="text-gray-700 mb-4">
-                            Odeo offre une solution complète qui simplifie la gestion quotidienne de votre hôtel. Notre système intègre toutes les fonctionnalités nécessaires pour optimiser vos opérations et améliorer l'expérience client.
+                        Optimisez la gestion de votre bar avec notre solution de caisse enregistreuse Maroc. Conçue spécialement pour les bars, notre caisse tactile facilite la prise de commande, le suivi des ventes et la gestion des stocks. Une solution simple et efficace pour améliorer votre service et maximiser vos profits.
                         </p>
 
                         <div class="space-y-2">
@@ -2396,7 +2396,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5m-9-6h.008v.008H12v-.008ZM12 15h.008v.008H12V15Zm0 2.25h.008v.008H12v-.008ZM9.75 15h.008v.008H9.75V15Zm0 2.25h.008v.008H9.75v-.008ZM7.5 15h.008v.008H7.5V15Zm0 2.25h.008v.008H7.5v-.008Zm6.75-4.5h.008v.008h-.008v-.008Zm0 2.25h.008v.008h-.008V15Zm0 2.25h.008v.008h-.008v-.008Zm2.25-4.5h.008v.008H16.5v-.008Zm0 2.25h.008v.008H16.5V15Z" />
                                     </svg>                                      
                                 </div>
-                                <span>Gestion des réservations centralisée</span>
+                                <span>Caisse tactile rapide pour service au bar</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -2407,7 +2407,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
                                     </svg>  
                                 </div>
-                                <span>Facturation chambres et services</span>
+                                <span>Suivi des commandes et des ventes en temps réel</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -2418,7 +2418,7 @@
                                         <path stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M11.42 15.17 17.25 21A2.652 2.652 0 0 0 21 17.25l-5.877-5.877M11.42 15.17l2.496-3.03c.317-.384.74-.626 1.208-.766M11.42 15.17l-4.655 5.653a2.548 2.548 0 1 1-3.586-3.586l6.837-5.63m5.108-.233c.55-.164 1.163-.188 1.743-.14a4.5 4.5 0 0 0 4.486-6.336l-3.276 3.277a3.004 3.004 0 0 1-2.25-2.25l3.276-3.276a4.5 4.5 0 0 0-6.336 4.486c.091 1.076-.071 2.264-.904 2.95l-.102.085m-1.745 1.437L5.909 7.5H4.5L2.25 3.75l1.5-1.5L7.5 4.5v1.409l4.26 4.26m-1.745 1.437 1.745-1.437m6.615 8.206L15.75 15.75M4.867 19.125h.008v.008h-.008v-.008Z" />
                                     </svg>
                                 </div>
-                                <span>Suivi du ménage et maintenance</span>
+                                <span>Gestion des stocks de boissons et accessoires</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -2426,7 +2426,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"/>
                                     </svg>
                                 </div>
-                                <span>Interface conciergerie</span>
+                                <span>Rapports détaillés pour le contrôle des marges</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -2434,7 +2434,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
                                     </svg>
                                 </div>
-                                <span>Reporting performances</span>
+                                <span>Système de fidélisation intégré pour les clients réguliers</span>
                             </div>
                         </div>
 
@@ -2449,13 +2449,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Expérience Client Améliorée',
-                                    'image' => '/images/products/night-club-experience.png',
+                                    'title' => 'Gestion des Commandes et Ventes',
+                                    'image' => '/images/products/bar-commandes.png',
                                     'features' => [
-                                        'Interface conviviale pour le service rapide',
-                                        'Programme de fidélisation pour clients réguliers',
-                                        'Gestion des préférences des clients pour services VIP',
-                                        'Système de réservations et de gestion des tables'
+                                        'Prise de commande rapide via caisse tactile',
+                                        'Gestion des commandes pour boissons et plats',
+                                        'Suivi des ventes et des marges en temps réel',
+                                        'Impression des tickets et commandes en cuisine'
                                     ]
                                 ];
                             @endphp
@@ -2524,13 +2524,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Expérience Client Améliorée',
-                                    'image' => '/images/products/night-club-experience.png',
+                                    'title' => 'Suivi des Stocks et Approvisionnement',
+                                    'image' => '/images/products/bar-stocks.png',
                                     'features' => [
-                                        'Interface conviviale pour le service rapide',
-                                        'Programme de fidélisation pour clients réguliers',
-                                        'Gestion des préférences des clients pour services VIP',
-                                        'Système de réservations et de gestion des tables'
+                                        'Suivi des stocks de boissons et produits associés',
+                                        'Gestion des approvisionnements et alertes pour réapprovisionnement',
+                                        'Rapports sur les tendances de consommation',
+                                        'Optimisation des marges et des coûts'
                                     ]
                                 ];
                             @endphp
@@ -2560,13 +2560,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Expérience Client Améliorée',
-                                    'image' => '/images/products/night-club-experience.png',
+                                    'title' => 'Expérience Client et Fidélisation',
+                                    'image' => '/images/products/bar-experience.png',
                                     'features' => [
-                                        'Interface conviviale pour le service rapide',
-                                        'Programme de fidélisation pour clients réguliers',
-                                        'Gestion des préférences des clients pour services VIP',
-                                        'Système de réservations et de gestion des tables'
+                                        'Interface de commande fluide et intuitive pour les clients',
+                                        'Gestion des préférences clients et commandes personnalisées',
+                                        'Système de fidélité pour récompenser les clients réguliers',
+                                        'Application mobile pour une gestion à distance des réservations et commandes'
                                     ]
                                 ];
                             @endphp
@@ -2632,14 +2632,14 @@
 
                     <!-- Right Column -->
                     <div class="lg:w-1/2 text-black">
-                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Une solution imaginée par des professionnels du pressing !</h1>
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Solution de caisse enregistreuse Maroc pour Spa</h1>
                         
                         <p class="text-[#812755] text-lg mb-3">
-                            Une caisse enregistreuse spécialement adaptée au pressing.
+                        Une caisse tactile intuitive pour gérer efficacement votre spa.
                         </p>
 
                         <p class="text-gray-700 mb-4">
-                            Odeo a développé une solution qui répond aux exigences spécifiques des pressings. Notre système facilite le suivi des commandes, la gestion des délais et la satisfaction client.
+                        Optimisez la gestion de votre spa avec notre solution de caisse enregistreuse spécialement conçue pour les établissements de bien-être. Notre caisse tactile simplifie la prise de rendez-vous, la gestion des services, et le suivi des clients. Une solution complète pour offrir à vos clients une expérience de relaxation tout en améliorant l'efficacité de votre gestion.
                         </p>
 
                         <div class="space-y-2">
@@ -2649,7 +2649,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 10.5V6a3.75 3.75 0 1 0-7.5 0v4.5m11.356-1.993 1.263 12c.07.665-.45 1.243-1.119 1.243H4.25a1.125 1.125 0 0 1-1.12-1.243l1.264-12A1.125 1.125 0 0 1 5.513 7.5h12.974c.576 0 1.059.435 1.119 1.007ZM8.625 10.5a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm7.5 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Z" />
                                     </svg>     
                                 </div>
-                                <span>Suivi des articles et délais</span>
+                                <span>Caisse tactile intuitive et facile à utiliser</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -2657,7 +2657,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
                                     </svg>
                                 </div>
-                                <span>Gestion des prestations spéciales</span>
+                                <span>Gestion des rendez-vous et des services en temps réel</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -2666,7 +2666,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M6 6h.008v.008H6V6Z" />
                                     </svg> 
                                 </div>
-                                <span>Étiquetage automatisé</span>
+                                <span>Suivi des préférences et historique client</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -2674,7 +2674,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M21 11.25v8.25a1.5 1.5 0 0 1-1.5 1.5H5.25a1.5 1.5 0 0 1-1.5-1.5v-8.25M12 4.875A2.625 2.625 0 1 0 9.375 7.5H12m0-2.625V7.5m0-2.625A2.625 2.625 0 1 1 14.625 7.5H12m0 0V21m-8.625-9.75h18c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125h-18c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z" />
                                     </svg>                                      
                                 </div>
-                                <span>Programme fidélité intégré</span>
+                                <span>Rapports détaillés sur les ventes, services et marges</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -2682,7 +2682,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M14.857 17.082a23.848 23.848 0 0 0 5.454-1.31A8.967 8.967 0 0 1 18 9.75V9A6 6 0 0 0 6 9v.75a8.967 8.967 0 0 1-2.312 6.022c1.733.64 3.56 1.085 5.455 1.31m5.714 0a24.255 24.255 0 0 1-5.714 0m5.714 0a3 3 0 1 1-5.714 0" />
                                     </svg>
                                 </div>
-                                <span>Alertes clients automatiques</span>
+                                <span>Système de fidélisation et cartes-cadeaux</span>
                             </div>
                         </div>
 
@@ -2697,13 +2697,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Expérience Client Améliorée',
-                                    'image' => '/images/products/night-club-experience.png',
+                                    'title' => 'Gestion des Rendez-vous et des Services',
+                                    'image' => '/images/products/spa-rdv.png',
                                     'features' => [
-                                        'Interface conviviale pour le service rapide',
-                                        'Programme de fidélisation pour clients réguliers',
-                                        'Gestion des préférences des clients pour services VIP',
-                                        'Système de réservations et de gestion des tables'
+                                        'Prise de rendez-vous rapide et facile',
+                                        'Gestion des services et prestations proposées',
+                                        'Suivi des disponibilités en temps réel',
+                                        'Confirmation automatique des rendez-vous par SMS ou email'
                                     ]
                                 ];
                             @endphp
@@ -2772,13 +2772,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Expérience Client Améliorée',
-                                    'image' => '/images/products/night-club-experience.png',
+                                    'title' => 'Suivi des Clients et des Préférences',
+                                    'image' => '/images/products/spa-client.png',
                                     'features' => [
-                                        'Interface conviviale pour le service rapide',
-                                        'Programme de fidélisation pour clients réguliers',
-                                        'Gestion des préférences des clients pour services VIP',
-                                        'Système de réservations et de gestion des tables'
+                                        'Suivi des préférences et historique des soins',
+                                        'Gestion des abonnements et cartes fidélité',
+                                        'Personnalisation des services selon les besoins du client',
+                                        'Gestion des offres spéciales et promotions'
                                     ]
                                 ];
                             @endphp
@@ -2808,14 +2808,14 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Expérience Client Améliorée',
-                                    'image' => '/images/products/night-club-experience.png',
-                                    'features' => [
-                                        'Interface conviviale pour le service rapide',
-                                        'Programme de fidélisation pour clients réguliers',
-                                        'Gestion des préférences des clients pour services VIP',
-                                        'Système de réservations et de gestion des tables'
-                                    ]
+                                    'title' => 'Analyse et Rapports',
+                                'image' => '/images/products/spa-analytics.png',
+                                'features' => [
+                                    'Rapports détaillés sur les services les plus populaires',
+                                    'Analyse des tendances de consommation',
+                                    'Suivi des ventes et des marges',
+                                    'Gestion des stocks de produits de soin et accessoires'
+                                ]
                                 ];
                             @endphp
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
@@ -2880,14 +2880,14 @@
 
                     <!-- Right Column -->
                     <div class="lg:w-1/2 text-black">
-                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Créée en collaboration avec des gérants de riads !</h1>
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Solution de caisse enregistreuse Maroc pour Piscine</h1>
                         
                         <p class="text-[#812755] text-lg mb-3">
-                            Une solution complète adaptée aux maisons d'hôtes.
+                        Une caisse tactile intuitive pour gérer efficacement votre piscine
                         </p>
 
                         <p class="text-gray-700 mb-4">
-                            Odeo propose un système parfaitement adapté aux spécificités des riads. Notre solution facilite la gestion des réservations, des services et de l'expérience client unique que propose votre établissement.
+                        Optimisez la gestion de votre piscine avec notre solution de caisse enregistreuse dédiée aux établissements aquatiques. Notre caisse tactile simplifie la gestion des entrées, des réservations de créneaux horaires, et des services annexes (cours, location de matériel). Une solution complète pour améliorer l\'expérience client et la gestion de votre piscine.
                         </p>
 
                         <div class="space-y-2">
@@ -2897,7 +2897,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
                                     </svg>
                                 </div>
-                                <span>Gestion des réservations simplifiée</span>
+                                <span>Caisse tactile intuitive et facile à utiliser</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -2905,7 +2905,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
                                     </svg>
                                 </div>
-                                <span>Suivi des prestations sur mesure</span>
+                                <span>Gestion des entrées et réservations de créneaux horaires</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -2913,7 +2913,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
                                     </svg>                                      
                                 </div>
-                                <span>Interface multilingue</span>
+                                <span>Suivi des abonnements et des accès</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -2921,7 +2921,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
                                     </svg>  
                                 </div>
-                                <span>Facturation services additionnels</span>
+                                <span>Gestion des services additionnels (cours, location de matériel)</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -2929,7 +2929,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
                                     </svg>
                                 </div>
-                                <span>Statistiques d'occupation</span>
+                                <span>Rapports détaillés sur les ventes, abonnements et marges</span>
                             </div>
                         </div>
 
@@ -2944,13 +2944,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Expérience Client Améliorée',
-                                    'image' => '/images/products/night-club-experience.png',
+                                    'title' => 'Gestion des Entrées et Abonnements',
+                                    'image' => '/images/products/piscine-entrées.png',
                                     'features' => [
-                                        'Interface conviviale pour le service rapide',
-                                        'Programme de fidélisation pour clients réguliers',
-                                        'Gestion des préférences des clients pour services VIP',
-                                        'Système de réservations et de gestion des tables'
+                                        'Prise en charge rapide des entrées à la piscine',
+                                        'Gestion des abonnements mensuels, trimestriels ou annuels',
+                                        'Contrôle d\'accès en fonction des créneaux horaires réservés',
+                                        'Impression automatique des tickets d\'entrée'
                                     ]
                                 ];
                             @endphp
@@ -3019,13 +3019,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Expérience Client Améliorée',
-                                    'image' => '/images/products/night-club-experience.png',
+                                    'title' => 'Réservation et Gestion des Cours',
+                                    'image' => '/images/products/piscine-cours.png',
                                     'features' => [
-                                        'Interface conviviale pour le service rapide',
-                                        'Programme de fidélisation pour clients réguliers',
-                                        'Gestion des préférences des clients pour services VIP',
-                                        'Système de réservations et de gestion des tables'
+                                        'Réservation de créneaux horaires pour la piscine et les cours',
+                                        'Gestion des groupes et des inscriptions aux cours',
+                                        'Suivi des clients et de leurs préférences de cours',
+                                        'Confirmation automatique des réservations par email ou SMS'
                                     ]
                                 ];
                             @endphp
@@ -3055,13 +3055,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Expérience Client Améliorée',
-                                    'image' => '/images/products/night-club-experience.png',
+                                    'title' => 'Suivi des Services et Location de Matériel',
+                                    'image' => '/images/products/piscine-materiel.png',
                                     'features' => [
-                                        'Interface conviviale pour le service rapide',
-                                        'Programme de fidélisation pour clients réguliers',
-                                        'Gestion des préférences des clients pour services VIP',
-                                        'Système de réservations et de gestion des tables'
+                                        'Location de matériel (serviettes, palmes, planches)',
+                                        'Suivi des stocks de matériel et gestion des retours',
+                                        'Rapports détaillés sur les services proposés et leur rentabilité',
+                                        'Gestion des promotions et réductions sur les services'
                                     ]
                                 ];
                             @endphp
@@ -3106,6 +3106,7 @@
                 </article>
             </div>
         </div>
+        <!-- Hotel -->
         <div id="tabs-with-icons-13" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-13">
             <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
@@ -3126,14 +3127,14 @@
 
                     <!-- Right Column -->
                     <div class="lg:w-1/2 text-black">
-                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Créée en collaboration avec des gérants de riads !</h1>
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Solution de caisse enregistreuse PMS pour hôtel au Maroc</h1>
                         
                         <p class="text-[#812755] text-lg mb-3">
-                            Une solution complète adaptée aux maisons d'hôtes.
+                        Optimisez la gestion de votre hôtel avec notre système PMS intégré
                         </p>
 
                         <p class="text-gray-700 mb-4">
-                            Odeo propose un système parfaitement adapté aux spécificités des riads. Notre solution facilite la gestion des réservations, des services et de l'expérience client unique que propose votre établissement.
+                        Notre solution de gestion pour hôtels au Maroc, basée sur le système PMS, facilite la gestion des réservations, des check-ins, des services en chambre et des paiements. Un système complet qui centralise la gestion des hôtels et améliore l'efficacité de votre équipe, tout en offrant une expérience client exceptionnelle.
                         </p>
 
                         <div class="space-y-2">
@@ -3143,7 +3144,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
                                     </svg>
                                 </div>
-                                <span>Gestion des réservations simplifiée</span>
+                                <span>Gestion des réservations en temps réel avec le système PMS</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -3151,7 +3152,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
                                     </svg>
                                 </div>
-                                <span>Suivi des prestations sur mesure</span>
+                                <span>Check-in rapide et facile pour les clients</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -3159,7 +3160,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
                                     </svg>                                      
                                 </div>
-                                <span>Interface multilingue</span>
+                                <span>Gestion des demandes spéciales et des préférences des clients</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -3167,7 +3168,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
                                     </svg>  
                                 </div>
-                                <span>Facturation services additionnels</span>
+                                <span>Facturation en temps réel, gestion des paiements sécurisés</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -3175,7 +3176,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
                                     </svg>
                                 </div>
-                                <span>Statistiques d'occupation</span>
+                                <span>Suivi des services en chambre et facturation automatique</span>
                             </div>
                         </div>
 
@@ -3190,13 +3191,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Expérience Client Améliorée',
-                                    'image' => '/images/products/night-club-experience.png',
+                                    'title' => 'Gestion des Réservations avec PMS',
+                                    'image' => '/images/products/hotel-reservation-pms.png',
                                     'features' => [
-                                        'Interface conviviale pour le service rapide',
-                                        'Programme de fidélisation pour clients réguliers',
-                                        'Gestion des préférences des clients pour services VIP',
-                                        'Système de réservations et de gestion des tables'
+                                        'Réservations en temps réel avec suivi des disponibilités',
+                                        'Gestion des prévisions d\'occupation et des tarifs dynamiques',
+                                        'Check-in et check-out rapide via l\'interface',
+                                        'Suivi des annulations et des modifications de réservation'
                                     ]
                                 ];
                             @endphp
@@ -3265,13 +3266,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Expérience Client Améliorée',
-                                    'image' => '/images/products/night-club-experience.png',
+                                    'title' => 'Services en Chambre et Facturation',
+                                    'image' => '/images/products/hotel-room-service-pms.png',
                                     'features' => [
-                                        'Interface conviviale pour le service rapide',
-                                        'Programme de fidélisation pour clients réguliers',
-                                        'Gestion des préférences des clients pour services VIP',
-                                        'Système de réservations et de gestion des tables'
+                                        'Suivi des services en chambre (repas, minibar, etc.)',
+                                        'Facturation en temps réel pour chaque service demandé',
+                                        'Gestion des demandes spéciales des clients (coussin, repas spécifique, etc.)',
+                                        'Rapports de service détaillés et historiques des commandes'
                                     ]
                                 ];
                             @endphp
@@ -3301,13 +3302,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Expérience Client Améliorée',
-                                    'image' => '/images/products/night-club-experience.png',
+                                    'title' => 'Paiements et Rapports Financiers',
+                                    'image' => '/images/products/hotel-payment-pms.png',
                                     'features' => [
-                                        'Interface conviviale pour le service rapide',
-                                        'Programme de fidélisation pour clients réguliers',
-                                        'Gestion des préférences des clients pour services VIP',
-                                        'Système de réservations et de gestion des tables'
+                                        'Gestion des paiements avec options de carte, espèces ou en ligne',
+                                        'Facturation détaillée et récapitulative pour chaque client',
+                                        'Rapports financiers détaillés par service et par période',
+                                        'Suivi des paiements en temps réel pour une gestion fluide'
                                     ]
                                 ];
                             @endphp
@@ -3352,6 +3353,7 @@
                 </article>
             </div>
         </div>
+        <!--  Maison d'hôte -->
         <div id="tabs-with-icons-14" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-14">
             <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
@@ -3372,14 +3374,14 @@
 
                     <!-- Right Column -->
                     <div class="lg:w-1/2 text-black">
-                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Créée en collaboration avec des gérants de riads !</h1>
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Solution de gestion PMS pour votre Maison d'Hôte au Maroc</h1>
                         
                         <p class="text-[#812755] text-lg mb-3">
-                            Une solution complète adaptée aux maisons d'hôtes.
+                            Une gestion fluide et efficace pour vos hôtes et vos services
                         </p>
 
                         <p class="text-gray-700 mb-4">
-                            Odeo propose un système parfaitement adapté aux spécificités des riads. Notre solution facilite la gestion des réservations, des services et de l'expérience client unique que propose votre établissement.
+                        Optimisez la gestion de votre Maison d'Hôte au Maroc avec notre système PMS conçu pour simplifier la gestion des réservations, des services en chambre et des paiements. Notre solution offre une interface simple et intuitive, idéale pour les maisons d'hôtes marocaines, afin d'améliorer l'expérience de vos hôtes et faciliter le travail de votre équipe.
                         </p>
 
                         <div class="space-y-2">
@@ -3389,7 +3391,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
                                     </svg>
                                 </div>
-                                <span>Gestion des réservations simplifiée</span>
+                                <span>Gestion des réservations en temps réel avec un calendrier intégré</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -3397,7 +3399,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
                                     </svg>
                                 </div>
-                                <span>Suivi des prestations sur mesure</span>
+                                <span>Check-in et check-out automatisés et simplifiés</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -3405,7 +3407,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
                                     </svg>                                      
                                 </div>
-                                <span>Interface multilingue</span>
+                                <span>Suivi des demandes et préférences des clients</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -3413,7 +3415,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
                                     </svg>  
                                 </div>
-                                <span>Facturation services additionnels</span>
+                                <span>Facturation claire et détaillée des services offerts</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -3421,7 +3423,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
                                     </svg>
                                 </div>
-                                <span>Statistiques d'occupation</span>
+                                <span>Gestion des paiements avec options sécurisées</span>
                             </div>
                         </div>
 
@@ -3436,13 +3438,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Expérience Client Améliorée',
-                                    'image' => '/images/products/night-club-experience.png',
+                                    'title' => 'Gestion des Réservations et Disponibilités',
+                                    'image' => '/images/products/maison-dhote-reservation-pms.png',
                                     'features' => [
-                                        'Interface conviviale pour le service rapide',
-                                        'Programme de fidélisation pour clients réguliers',
-                                        'Gestion des préférences des clients pour services VIP',
-                                        'Système de réservations et de gestion des tables'
+                                        'Suivi en temps réel des réservations et des disponibilités',
+                                        'Gestion des annulations et modifications des réservations',
+                                        'Calendrier de disponibilité interactif pour chaque chambre',
+                                        'Tarification dynamique selon la saison et la demande'
                                     ]
                                 ];
                             @endphp
@@ -3511,13 +3513,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Expérience Client Améliorée',
-                                    'image' => '/images/products/night-club-experience.png',
+                                    'title' => 'Services en Chambre et Personnalisation',
+                                    'image' => '/images/products/maison-dhote-services.png',
                                     'features' => [
-                                        'Interface conviviale pour le service rapide',
-                                        'Programme de fidélisation pour clients réguliers',
-                                        'Gestion des préférences des clients pour services VIP',
-                                        'Système de réservations et de gestion des tables'
+                                        'Suivi des services en chambre (repas, boissons, équipements)',
+                                        'Personnalisation de l\'expérience client selon les préférences',
+                                        'Commandes spéciales pour anniversaires et événements',
+                                        'Gestion des demandes spéciales de chaque hôte'
                                     ]
                                 ];
                             @endphp
@@ -3547,13 +3549,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Expérience Client Améliorée',
-                                    'image' => '/images/products/night-club-experience.png',
+                                    'title' => 'Gestion des Paiements et Facturation',
+                                    'image' => '/images/products/maison-dhote-paiement-pms.png',
                                     'features' => [
-                                        'Interface conviviale pour le service rapide',
-                                        'Programme de fidélisation pour clients réguliers',
-                                        'Gestion des préférences des clients pour services VIP',
-                                        'Système de réservations et de gestion des tables'
+                                        'Traitement des paiements en ligne et sur place',
+                                        'Facturation détaillée par service et par hôte',
+                                        'Suivi des paiements et des remboursements',
+                                        'Rapports financiers détaillés pour une gestion transparente'
                                     ]
                                 ];
                             @endphp
@@ -3598,6 +3600,7 @@
                 </article>
             </div>
         </div>
+        <!-- Riad -->
         <div id="tabs-with-icons-15" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-15">
             <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
@@ -3683,13 +3686,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Expérience Client Améliorée',
-                                    'image' => '/images/products/night-club-experience.png',
+                                    'title' => 'Gestion des Réservations et Disponibilités',
+                                    'image' => '/images/products/riad-reservation-pms.png',
                                     'features' => [
-                                        'Interface conviviale pour le service rapide',
-                                        'Programme de fidélisation pour clients réguliers',
-                                        'Gestion des préférences des clients pour services VIP',
-                                        'Système de réservations et de gestion des tables'
+                                        'Calendrier interactif de réservation en temps réel',
+                                        'Gestion des annulations, modifications et réservations spéciales',
+                                        'Tarification dynamique selon la saison et la demande',
+                                        'Alertes de disponibilité pour éviter les surréservations'
                                     ]
                                 ];
                             @endphp
@@ -3758,13 +3761,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Expérience Client Améliorée',
-                                    'image' => '/images/products/night-club-experience.png',
+                                    'title' => 'Personnalisation de l\'Expérience Client',
+                                    'image' => '/images/products/riad-experience-client.png',
                                     'features' => [
-                                        'Interface conviviale pour le service rapide',
-                                        'Programme de fidélisation pour clients réguliers',
-                                        'Gestion des préférences des clients pour services VIP',
-                                        'Système de réservations et de gestion des tables'
+                                        'Suivi des préférences et demandes spéciales des clients',
+                                        'Gestion des services en chambre (petit-déjeuner, spa, excursions)',
+                                        'Propositions d\'activités personnalisées selon les goûts des clients',
+                                        'Gestion des événements spéciaux et des célébrations'
                                     ]
                                 ];
                             @endphp
@@ -3794,13 +3797,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Expérience Client Améliorée',
-                                    'image' => '/images/products/night-club-experience.png',
+                                    'title' => 'Gestion des Paiements et Facturation',
+                                    'image' => '/images/products/riad-paiement-pms.png',
                                     'features' => [
-                                        'Interface conviviale pour le service rapide',
-                                        'Programme de fidélisation pour clients réguliers',
-                                        'Gestion des préférences des clients pour services VIP',
-                                        'Système de réservations et de gestion des tables'
+                                        'Paiements en ligne sécurisés et sur place',
+                                        'Gestion de la facturation par service et par hôte',
+                                        'Rapports financiers détaillés pour une transparence totale',
+                                        'Suivi des paiements et des paiements en retard'
                                     ]
                                 ];
                             @endphp

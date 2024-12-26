@@ -10,7 +10,7 @@
         <!-- Quick Review Button (Visible on Hover) -->
         <div class="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
             <button @click="showModal = true" class="bg-white text-black px-4 py-2 rounded hover:bg-gray-200 focus:outline-none focus:ring-2 focus:ring-gray-400">
-                Quick Review
+            Aperçu rapide
             </button>
         </div>
         <!-- Modal -->
@@ -73,7 +73,7 @@
                     </div>
                     <div class="bg-gray-50 px-4 py-3 sm:px-6 sm:flex sm:flex-row-reverse">
                         <button @click="showModal = false" type="button" class="w-full inline-flex justify-center rounded-md border border-transparent shadow-sm px-4 py-2 bg-[#7f2855] text-base font-medium text-white hover:bg-[#7f2855]/90 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 sm:ml-3 sm:w-auto sm:text-sm">
-                            Close
+                        Fermer
                         </button>
                     </div>
                 </div>

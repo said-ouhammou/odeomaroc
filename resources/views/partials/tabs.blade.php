@@ -89,7 +89,7 @@
         </div>
 
     <div class="mt-3">
-        <!-- Restqurant -->
+        <!-- Restqurant done-->
         <div id="tabs-with-icons-1" class=" bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-1">
             <!-- Main Content -->
             <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
@@ -370,7 +370,7 @@
                 </article>
             </div>
         </div>
-        <!-- Snack -->
+        <!-- Snack done-->
         <div id="tabs-with-icons-2" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-2">
             <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
@@ -618,7 +618,7 @@
                 </article>
             </div>
         </div>
-        <!-- Cafe -->
+        <!-- Cafe done-->
         <div id="tabs-with-icons-3" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-3">
             <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
@@ -867,7 +867,7 @@
                 </article>
             </div>
         </div>
-        <!-- Salon de thé -->
+        <!-- Salon de thé  done-->
         <div id="tabs-with-icons-4" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-4">
             <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
@@ -1119,7 +1119,7 @@
                 </article>
             </div>
         </div>
-        <!-- Pâtisserie -->
+        <!-- Pâtisserie deon -->
         <div id="tabs-with-icons-5" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-5">
             <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
@@ -1141,14 +1141,14 @@
 
                     <!-- Right Column -->
                     <div class="lg:w-1/2 text-black">
-                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Une solution imaginée par des professionnels du pressing !</h1>
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Solution de caisse enregistreuse Maroc pour les pâtisseries modernes</h1>
                         
                         <p class="text-[#812755] text-lg mb-3">
-                            Une caisse enregistreuse spécialement adaptée au pressing.
+                        Une caisse tactile performante pour gérer efficacement votre pâtisserie.
                         </p>
 
                         <p class="text-gray-700 mb-4">
-                            Odeo a développé une solution qui répond aux exigences spécifiques des pressings. Notre système facilite le suivi des commandes, la gestion des délais et la satisfaction client.
+                        Optimisez la gestion de votre pâtisserie avec notre solution de caisse enregistreuse Maroc. Notre système simplifie la gestion des stocks, le suivi des commandes et le service client, tout en offrant une interface intuitive adaptée aux besoins des pâtisseries marocaines.
                         </p>
 
                         <div class="space-y-2">
@@ -1158,7 +1158,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 10.5V6a3.75 3.75 0 1 0-7.5 0v4.5m11.356-1.993 1.263 12c.07.665-.45 1.243-1.119 1.243H4.25a1.125 1.125 0 0 1-1.12-1.243l1.264-12A1.125 1.125 0 0 1 5.513 7.5h12.974c.576 0 1.059.435 1.119 1.007ZM8.625 10.5a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm7.5 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Z" />
                                     </svg>     
                                 </div>
-                                <span>Suivi des articles et délais</span>
+                                <span>Suivi des stocks de pâtisseries fraîches</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -1166,7 +1166,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
                                     </svg>
                                 </div>
-                                <span>Gestion des prestations spéciales</span>
+                                <span>Gestion des commandes spéciales pour événements</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -1175,7 +1175,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M6 6h.008v.008H6V6Z" />
                                     </svg> 
                                 </div>
-                                <span>Étiquetage automatisé</span>
+                                <span>Planning de production optimisé pour une gestion fluide</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -1183,7 +1183,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M21 11.25v8.25a1.5 1.5 0 0 1-1.5 1.5H5.25a1.5 1.5 0 0 1-1.5-1.5v-8.25M12 4.875A2.625 2.625 0 1 0 9.375 7.5H12m0-2.625V7.5m0-2.625A2.625 2.625 0 1 1 14.625 7.5H12m0 0V21m-8.625-9.75h18c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125h-18c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z" />
                                     </svg>                                      
                                 </div>
-                                <span>Programme fidélité intégré</span>
+                                <span>Contrôle des dates de péremption des produits</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -1191,7 +1191,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M14.857 17.082a23.848 23.848 0 0 0 5.454-1.31A8.967 8.967 0 0 1 18 9.75V9A6 6 0 0 0 6 9v.75a8.967 8.967 0 0 1-2.312 6.022c1.733.64 3.56 1.085 5.455 1.31m5.714 0a24.255 24.255 0 0 1-5.714 0m5.714 0a3 3 0 1 1-5.714 0" />
                                     </svg>
                                 </div>
-                                <span>Alertes clients automatiques</span>
+                                <span>Interface caisse tactile simple et rapide</span>
                             </div>
                         </div>
 
@@ -1206,13 +1206,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Performance et Contrôle',
-                                    'image' => '/images/products/pos-o.png',
+                                    'title' => 'Gestion des Stocks de Pâtisseries',
+                                    'image' => '/images/products/patisserie-stocks.png',
                                     'features' => [
-                                        'Rapports de ventes détaillés par produit',
-                                        'Analyse des performances du snack',
-                                        'Gestion des employés et des horaires',
-                                        'Contrôle des marges et rentabilité'
+                                        'Suivi des ingrédients et des produits finis',
+                                        'Alertes automatiques pour stocks faibles',
+                                        'Gestion des prévisions de production',
+                                        'Optimisation des achats et approvisionnements'
                                     ]
                                 ];
                             @endphp
@@ -1281,13 +1281,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Performance et Contrôle',
-                                    'image' => '/images/products/pos-o.png',
+                                    'title' => 'Commandes et Service Clients',
+                                    'image' => '/images/products/patisserie-commandes.png',
                                     'features' => [
-                                        'Rapports de ventes détaillés par produit',
-                                        'Analyse des performances du snack',
-                                        'Gestion des employés et des horaires',
-                                        'Contrôle des marges et rentabilité'
+                                        'Prise de commande rapide avec interface tactile',
+                                        'Gestion des commandes spéciales pour événements',
+                                        'Suivi des préférences clients pour personnalisation',
+                                        'Gestion des retours et des demandes spéciales'
                                     ]
                                 ];
                             @endphp
@@ -1317,13 +1317,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Performance et Contrôle',
-                                    'image' => '/images/products/pos-o.png',
+                                    'title' => 'Analyse et Suivi des Performances',
+                                    'image' => '/images/products/patisserie-performance.png',
                                     'features' => [
-                                        'Rapports de ventes détaillés par produit',
-                                        'Analyse des performances du snack',
-                                        'Gestion des employés et des horaires',
-                                        'Contrôle des marges et rentabilité'
+                                        'Rapports détaillés sur les ventes de pâtisseries',
+                                        'Suivi des tendances de consommation',
+                                        'Analyse des produits les plus populaires',
+                                        'Contrôle des marges bénéficiaires'
                                     ]
                                 ];
                             @endphp
@@ -1368,6 +1368,7 @@
                 </article>
             </div>
         </div>
+        <!-- Boulangerie done -->
         <div id="tabs-with-icons-6" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-6">
             <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
@@ -1389,14 +1390,14 @@
 
                     <!-- Right Column -->
                     <div class="lg:w-1/2 text-black">
-                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Créée en collaboration avec des gérants de riads !</h1>
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Solution de caisse enregistreuse Maroc pour Boulangerie</h1>
                         
                         <p class="text-[#812755] text-lg mb-3">
-                            Une solution complète adaptée aux maisons d'hôtes.
+                        Une caisse tactile intuitive pour une gestion optimale de votre boulangerie.
                         </p>
 
                         <p class="text-gray-700 mb-4">
-                            Odeo propose un système parfaitement adapté aux spécificités des riads. Notre solution facilite la gestion des réservations, des services et de l'expérience client unique que propose votre établissement.
+                        Optimisez votre boulangerie avec notre solution de caisse enregistreuse Maroc. Conçue pour la gestion des produits frais et de la pâtisserie, notre caisse tactile permet de gérer les commandes, suivre les stocks en temps réel et améliorer l'expérience client.
                         </p>
 
                         <div class="space-y-2">
@@ -1406,7 +1407,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
                                     </svg>
                                 </div>
-                                <span>Gestion des réservations simplifiée</span>
+                                <span>Caisse tactile simple et rapide pour un service efficace</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -1414,7 +1415,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
                                     </svg>
                                 </div>
-                                <span>Suivi des prestations sur mesure</span>
+                                <span>Gestion des commandes de pains, viennoiseries et pâtisseries</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -1422,7 +1423,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
                                     </svg>                                      
                                 </div>
-                                <span>Interface multilingue</span>
+                                <span>Suivi des stocks d\'ingrédients en temps réel</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -1430,7 +1431,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
                                     </svg>  
                                 </div>
-                                <span>Facturation services additionnels</span>
+                                <span>Menu digital avec options de produits personnalisables</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -1438,7 +1439,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
                                     </svg>
                                 </div>
-                                <span>Statistiques d'occupation</span>
+                                <span>Intégration avec les systèmes de fidélité clients</span>
                             </div>
                         </div>
 
@@ -1453,13 +1454,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Performance et Contrôle',
-                                    'image' => '/images/products/pos-o.png',
+                                    'title' => 'Gestion des Stocks et Produits Frais',
+                                    'image' => '/images/products/boulangerie-stocks.png',
                                     'features' => [
-                                        'Rapports de ventes détaillés par produit',
-                                        'Analyse des performances du snack',
-                                        'Gestion des employés et des horaires',
-                                        'Contrôle des marges et rentabilité'
+                                        'Suivi en temps réel des stocks de farine, levure, sucre, etc.',
+                                        'Gestion des produits périssables et des dates de péremption',
+                                        'Alertes automatiques pour les ruptures de stock',
+                                        'Gestion des approvisionnements et commandes fournisseurs'
                                     ]
                                 ];
                             @endphp
@@ -1528,13 +1529,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Performance et Contrôle',
-                                    'image' => '/images/products/pos-o.png',
+                                    'title' => 'Suivi des Ventes et des Commandes',
+                                    'image' => '/images/products/boulangerie-commandes.png',
                                     'features' => [
-                                        'Rapports de ventes détaillés par produit',
-                                        'Analyse des performances du snack',
-                                        'Gestion des employés et des horaires',
-                                        'Contrôle des marges et rentabilité'
+                                        'Prise de commande rapide sur caisse tactile',
+                                        'Suivi des commandes en temps réel',
+                                        'Analyse des ventes par type de produit',
+                                        'Rapports de performance et tendances des produits populaires'
                                     ]
                                 ];
                             @endphp
@@ -1564,13 +1565,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Performance et Contrôle',
-                                    'image' => '/images/products/pos-o.png',
+                                    'title' => 'Gestion de la Production et Planification',
+                                    'image' => '/images/products/boulangerie-production.png',
                                     'features' => [
-                                        'Rapports de ventes détaillés par produit',
-                                        'Analyse des performances du snack',
-                                        'Gestion des employés et des horaires',
-                                        'Contrôle des marges et rentabilité'
+                                        'Planning de production des pains et pâtisseries',
+                                        'Gestion des stocks de matières premières pour la production',
+                                        'Prévisions de production selon les tendances de consommation',
+                                        'Optimisation des coûts de production'
                                     ]
                                 ];
                             @endphp
@@ -1615,34 +1616,36 @@
                 </article>
             </div>
         </div>
-        <div id="tabs-with-icons-7" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-7">
+        <!-- Fast Food done-->
+        <div id="tabs-with-icons-7" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-6">
             <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
                     <!-- Left Column -->
                     <div class="lg:w-1/2  ">
                         <div class="relative ">
                             <div class="relative overflow-hidden ">
-                                <img src="{{asset('/images/b/fast-food.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
+                                <img src="{{asset('/images/b/boulangerie.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <a href="/solutions/fast-food" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/solutions/boulangerie" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
                                 </svg>
                             </a>
+                        
                         </div>
                     </div>
 
                     <!-- Right Column -->
                     <div class="lg:w-1/2 text-black">
-                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Créée en collaboration avec des gérants de riads !</h1>
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Solution de caisse enregistreuse Maroc pour les fast foods</h1>
                         
                         <p class="text-[#812755] text-lg mb-3">
-                            Une solution complète adaptée aux maisons d'hôtes.
+                        Une caisse tactile rapide et performante pour gérer efficacement votre fast food.
                         </p>
 
                         <p class="text-gray-700 mb-4">
-                            Odeo propose un système parfaitement adapté aux spécificités des riads. Notre solution facilite la gestion des réservations, des services et de l'expérience client unique que propose votre établissement.
+                        Optimisez votre fast food avec notre solution de caisse enregistreuse Maroc. Conçue pour les restaurants à service rapide, notre caisse tactile permet une gestion fluide des commandes, un suivi des stocks en temps réel et une expérience client rapide et efficace.
                         </p>
 
                         <div class="space-y-2">
@@ -1652,7 +1655,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
                                     </svg>
                                 </div>
-                                <span>Gestion des réservations simplifiée</span>
+                                <span>Caisse tactile rapide et intuitive pour une gestion efficace</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -1660,7 +1663,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
                                     </svg>
                                 </div>
-                                <span>Suivi des prestations sur mesure</span>
+                                <span>Prise de commande instantanée avec interface adaptée</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -1668,7 +1671,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
                                     </svg>                                      
                                 </div>
-                                <span>Interface multilingue</span>
+                                <span>Gestion des menus personnalisables et des options de commande</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -1676,7 +1679,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
                                     </svg>  
                                 </div>
-                                <span>Facturation services additionnels</span>
+                                <span>Suivi des stocks et gestion des ingrédients en temps réel</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -1684,7 +1687,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
                                     </svg>
                                 </div>
-                                <span>Statistiques d'occupation</span>
+                                <span>Intégration avec les plateformes de livraison pour service rapide</span>
                             </div>
                         </div>
 
@@ -1699,13 +1702,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Performance et Contrôle',
-                                    'image' => '/images/products/pos-o.png',
+                                    'title' => 'Gestion des Commandes et Commandes en Ligne',
+                                    'image' => '/images/products/fast-food-commandes.png',
                                     'features' => [
-                                        'Rapports de ventes détaillés par produit',
-                                        'Analyse des performances du snack',
-                                        'Gestion des employés et des horaires',
-                                        'Contrôle des marges et rentabilité'
+                                        'Interface de commande simple et rapide pour les employés',
+                                        'Prise de commande en ligne avec synchronisation instantanée',
+                                        'Suivi des commandes en temps réel pour une gestion optimale',
+                                        'Gestion des commandes à emporter et livraisons'
                                     ]
                                 ];
                             @endphp
@@ -1774,13 +1777,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Performance et Contrôle',
-                                    'image' => '/images/products/pos-o.png',
+                                    'title' => 'Optimisation des Stocks et des Ingrédients',
+                                    'image' => '/images/products/fast-food-stocks.png',
                                     'features' => [
-                                        'Rapports de ventes détaillés par produit',
-                                        'Analyse des performances du snack',
-                                        'Gestion des employés et des horaires',
-                                        'Contrôle des marges et rentabilité'
+                                        'Suivi en temps réel des stocks d\'ingrédients',
+                                        'Alertes pour les produits en rupture de stock',
+                                        'Gestion des approvisionnements et des commandes fournisseurs',
+                                        'Prévisions de stock pour une gestion proactive'
                                     ]
                                 ];
                             @endphp
@@ -1810,13 +1813,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Performance et Contrôle',
-                                    'image' => '/images/products/pos-o.png',
+                                    'title' => 'Analyse des Performances et Rapports',
+                                    'image' => '/images/products/fast-food-performance.png',
                                     'features' => [
-                                        'Rapports de ventes détaillés par produit',
-                                        'Analyse des performances du snack',
-                                        'Gestion des employés et des horaires',
-                                        'Contrôle des marges et rentabilité'
+                                        'Rapports détaillés sur les ventes et les produits populaires',
+                                        'Suivi des tendances de consommation',
+                                        'Analyse des performances des différents points de vente',
+                                        'Optimisation des prix et des promotions'
                                     ]
                                 ];
                             @endphp
@@ -1861,6 +1864,7 @@
                 </article>
             </div>
         </div>
+        <!--  Night club done -->
         <div id="tabs-with-icons-8" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-8">
             <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
@@ -1881,14 +1885,14 @@
 
                     <!-- Right Column -->
                     <div class="lg:w-1/2 text-black">
-                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Créée en collaboration avec des gérants de riads !</h1>
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Solution de caisse enregistreuse Maroc pour Night Club</h1>
                         
                         <p class="text-[#812755] text-lg mb-3">
-                            Une solution complète adaptée aux maisons d'hôtes.
+                        Une caisse tactile intuitive pour une gestion optimale de votre night club
                         </p>
 
                         <p class="text-gray-700 mb-4">
-                            Odeo propose un système parfaitement adapté aux spécificités des riads. Notre solution facilite la gestion des réservations, des services et de l'expérience client unique que propose votre établissement.
+                        Optimisez votre night club avec notre solution de caisse enregistreuse Maroc. Conçue pour la gestion des boissons, des entrées et de la sécurité, notre caisse tactile permet de gérer les réservations, suivre les ventes en temps réel et améliorer l'expérience client.
                         </p>
 
                         <div class="space-y-2">
@@ -1898,7 +1902,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
                                     </svg>
                                 </div>
-                                <span>Gestion des réservations simplifiée</span>
+                                <span>Caisse tactile rapide pour gestion des entrées et des boissons</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -1906,7 +1910,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
                                     </svg>
                                 </div>
-                                <span>Suivi des prestations sur mesure</span>
+                                <span>Suivi des réservations en temps réel avec système de billetterie</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -1914,7 +1918,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802" />
                                     </svg>                                      
                                 </div>
-                                <span>Interface multilingue</span>
+                                <span>Gestion des stocks de boissons et produits liés</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -1922,7 +1926,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
                                     </svg>  
                                 </div>
-                                <span>Facturation services additionnels</span>
+                                <span>Programme de fidélisation pour clients réguliers</span>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
@@ -1930,7 +1934,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
                                     </svg>
                                 </div>
-                                <span>Statistiques d'occupation</span>
+                                <span>Rapports détaillés des ventes et des consommations</span>
                             </div>
                         </div>
 
@@ -1945,13 +1949,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Performance et Contrôle',
-                                    'image' => '/images/products/pos-o.png',
+                                    'title' => 'Gestion des Ventes et Réservations',
+                                    'image' => '/images/products/night-club-ventes.png',
                                     'features' => [
-                                        'Rapports de ventes détaillés par produit',
-                                        'Analyse des performances du snack',
-                                        'Gestion des employés et des horaires',
-                                        'Contrôle des marges et rentabilité'
+                                        'Suivi des réservations et des invités en temps réel',
+                                        'Gestion des tickets d\'entrée et des passes VIP',
+                                        'Système de billetterie intégré',
+                                        'Rapports détaillés des ventes par produit et par période'
                                     ]
                                 ];
                             @endphp
@@ -2020,13 +2024,13 @@
                         <div class="lg:w-1/2">
                             @php
                                 $data = [
-                                    'title' => 'Performance et Contrôle',
-                                    'image' => '/images/products/pos-o.png',
+                                    'title' => 'Contrôle des Stocks et des Consommations',
+                                    'image' => '/images/products/night-club-stocks.png',
                                     'features' => [
-                                        'Rapports de ventes détaillés par produit',
-                                        'Analyse des performances du snack',
-                                        'Gestion des employés et des horaires',
-                                        'Contrôle des marges et rentabilité'
+                                        'Suivi des stocks de boissons et de produits liés',
+                                        'Alertes automatiques pour les ruptures de stock',
+                                        'Gestion des commandes et des approvisionnements',
+                                        'Rapports sur les tendances de consommation'
                                     ]
                                 ];
                             @endphp
@@ -2054,43 +2058,33 @@
                     <div class="flex flex-col lg:flex-row gap-12">
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
+                            @php
+                                $data = [
+                                    'title' => 'Expérience Client Améliorée',
+                                    'image' => '/images/products/night-club-experience.png',
+                                    'features' => [
+                                        'Interface conviviale pour le service rapide',
+                                        'Programme de fidélisation pour clients réguliers',
+                                        'Gestion des préférences des clients pour services VIP',
+                                        'Système de réservations et de gestion des tables'
+                                    ]
+                                ];
+                            @endphp
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Odeo Inventory
+                                {{ $data['title'] }}
                             </h1>
                             
                             <div class="space-y-8">
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
+                                @foreach ($data['features'] as $feature)
+                                    <div class="flex gap-4">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                        </svg>
+                                        <p class="text-gray-900 ">
+                                            {{ $feature }}
+                                        </p>
+                                    </div>
+                                @endforeach
                             </div>
                         </div>
         
@@ -2117,6 +2111,7 @@
                 </article>
             </div>
         </div>
+        <!-- Lounge -->
         <div id="tabs-with-icons-9" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-9">
             <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
@@ -2199,43 +2194,33 @@
                     <div class="flex flex-col lg:flex-row gap-12">
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
+                            @php
+                                $data = [
+                                    'title' => 'Expérience Client Améliorée',
+                                    'image' => '/images/products/night-club-experience.png',
+                                    'features' => [
+                                        'Interface conviviale pour le service rapide',
+                                        'Programme de fidélisation pour clients réguliers',
+                                        'Gestion des préférences des clients pour services VIP',
+                                        'Système de réservations et de gestion des tables'
+                                    ]
+                                ];
+                            @endphp
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Odeo Inventory
+                                {{ $data['title'] }}
                             </h1>
                             
                             <div class="space-y-8">
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
+                                @foreach ($data['features'] as $feature)
+                                    <div class="flex gap-4">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                        </svg>
+                                        <p class="text-gray-900 ">
+                                            {{ $feature }}
+                                        </p>
+                                    </div>
+                                @endforeach
                             </div>
                         </div>
         
@@ -2284,43 +2269,33 @@
         
                         <!-- Right Column -->
                         <div class="lg:w-1/2">
+                            @php
+                                $data = [
+                                    'title' => 'Expérience Client Améliorée',
+                                    'image' => '/images/products/night-club-experience.png',
+                                    'features' => [
+                                        'Interface conviviale pour le service rapide',
+                                        'Programme de fidélisation pour clients réguliers',
+                                        'Gestion des préférences des clients pour services VIP',
+                                        'Système de réservations et de gestion des tables'
+                                    ]
+                                ];
+                            @endphp
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Odeo Inventory
+                                {{ $data['title'] }}
                             </h1>
                             
                             <div class="space-y-8">
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
+                                @foreach ($data['features'] as $feature)
+                                    <div class="flex gap-4">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                        </svg>
+                                        <p class="text-gray-900 ">
+                                            {{ $feature }}
+                                        </p>
+                                    </div>
+                                @endforeach
                             </div>
                         </div>
                     
@@ -2330,43 +2305,33 @@
                     <div class="flex flex-col lg:flex-row gap-12">
                         <!-- Left Column -->
                         <div class="lg:w-1/2">
+                            @php
+                                $data = [
+                                    'title' => 'Expérience Client Améliorée',
+                                    'image' => '/images/products/night-club-experience.png',
+                                    'features' => [
+                                        'Interface conviviale pour le service rapide',
+                                        'Programme de fidélisation pour clients réguliers',
+                                        'Gestion des préférences des clients pour services VIP',
+                                        'Système de réservations et de gestion des tables'
+                                    ]
+                                ];
+                            @endphp
                             <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
-                                Stock avec Odeo Inventory
+                                {{ $data['title'] }}
                             </h1>
                             
                             <div class="space-y-8">
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
-                                <div class="flex gap-4">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                    <p class="text-gray-900 ">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, ex aspernatur quia dolores consequatur libero?
-                                    </p>
-                                </div>
+                                @foreach ($data['features'] as $feature)
+                                    <div class="flex gap-4">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                        </svg>
+                                        <p class="text-gray-900 ">
+                                            {{ $feature }}
+                                        </p>
+                                    </div>
+                                @endforeach
                             </div>
                         </div>
         
@@ -2393,7 +2358,7 @@
                 </article>
             </div>
         </div>
-
+        <!-- Bar -->
         <div id="tabs-with-icons-10" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-10">
             <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
@@ -2676,6 +2641,7 @@
                 </article>
             </div>
         </div>
+        <!-- Spa -->
         <div id="tabs-with-icons-11" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-11">
             <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">
@@ -2953,6 +2919,7 @@
                 </article>
             </div>
         </div>
+        <!-- Piscine -->
         <div id="tabs-with-icons-12" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-12">
             <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
                 <div class="flex flex-col lg:flex-row gap-12">

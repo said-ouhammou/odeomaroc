@@ -101,7 +101,7 @@
                                 <img src="{{asset('/images/b/b-1.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
                             
-                            <a href="/solutions/restaurant" class=" mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/restaurant" class=" mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -381,7 +381,7 @@
                                 <img src="{{asset('/images/b/snack.jpg')}}" alt="Caisse Tactile pour Bar" class=" object-cover rounded-3xl">
                             </div>
                     
-                            <a href="/solutions/snack" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/snack" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -629,7 +629,7 @@
                                 <img src="{{asset('/images/b/cafe.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
                             
-                                <a href="/solutions/cafe" class="mt-6 font-bold text-[#7f2855] flex items-center">
+                                <a href="/cafe" class="mt-6 font-bold text-[#7f2855] flex items-center">
                                     Découvrir
                                     <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -877,7 +877,7 @@
                             <div class="relative overflow-hidden ">
                                 <img src="{{asset('/images/b/salon-de-the.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <a href="/solutions/salon-de-the" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/salon-de-the" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -1129,7 +1129,7 @@
                             <div class="relative overflow-hidden ">
                                 <img src="{{asset('/images/b/patisserie.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <a href="/solutions/patisserie" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/patisserie" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -1378,7 +1378,7 @@
                             <div class="relative overflow-hidden ">
                                 <img src="{{asset('/images/b/boulangerie.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <a href="/solutions/boulangerie" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/boulangerie" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -1626,7 +1626,7 @@
                             <div class="relative overflow-hidden ">
                                 <img src="{{asset('/images/b/boulangerie.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <a href="/solutions/boulangerie" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/boulangerie" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -1874,7 +1874,7 @@
                             <div class="relative overflow-hidden ">
                                 <img src="{{asset('/images/b/night-club.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <a href="/solutions/night-club" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/night-club" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -2121,7 +2121,7 @@
                             <div class="relative overflow-hidden ">
                                 <img src="{{asset('/images/b/lounge.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <a href="/solutions/lounge" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/lounge" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -2368,7 +2368,7 @@
                             <div class="relative overflow-hidden ">
                                 <img src="{{asset('/images/b/bar.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <a href="/solutions/bar" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/bar" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -2621,7 +2621,7 @@
                             <div class="relative overflow-hidden ">
                                 <img src="{{asset('/images/b/spa.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <a href="/solutions/spa" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/spa" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -2869,7 +2869,7 @@
                             <div class="relative overflow-hidden ">
                                 <img src="{{asset('/images/b/pool.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <a href="/solutions/piscine" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/piscine" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -3116,7 +3116,7 @@
                             <div class="relative overflow-hidden ">
                                 <img src="{{asset('/images/b/b-2.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <a href="/solutions/hotel" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/hotel" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -3363,7 +3363,7 @@
                             <div class="relative overflow-hidden ">
                                 <img src="{{asset('/images/b/maisondhotes.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <a href="/solutions/maison-d-hotes" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/maison-d-hotes" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -3610,7 +3610,7 @@
                             <div class="relative overflow-hidden ">
                                 <img src="{{asset('/images/b/riad.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <a href="/solutions/riad" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/riad" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>

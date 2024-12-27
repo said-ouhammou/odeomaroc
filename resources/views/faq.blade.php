@@ -33,6 +33,14 @@
                         'question' => 'Odeo est-il compatible avec d\'autres systèmes ou logiciels ?',
                         'answer' => 'Oui, Odeo est conçu pour s\'intégrer facilement avec de nombreux systèmes tiers, y compris les systèmes de comptabilité, de gestion des stocks, et de fidélisation client. Nous pouvons discuter de vos besoins spécifiques en matière d\'intégration.'
                     ],
+                    [
+                        'question' => 'Odeo effectue-t-il des sauvegardes de données ?',
+                        'answer' => 'Oui, Odeo propose des options de sauvegarde régulières pour garantir la sécurité et la protection de vos données. Nous offrons également des solutions de récupération en cas de perte de données.'
+                    ],
+                    [
+                        'question' => 'Odeo offre-t-il un panneau d\'intégration pour le gestionnaire de PMS ?',
+                        'answer' => 'Oui, Odeo dispose d\'un panneau d\'intégration complet pour les gestionnaires de PMS, permettant une gestion fluide des réservations, des clients et des activités. Ce panneau est conçu pour s\'intégrer facilement avec vos systèmes de gestion existants.'
+                    ],
                 ];
                 @endphp
 

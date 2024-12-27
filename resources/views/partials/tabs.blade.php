@@ -101,7 +101,7 @@
                                 <img src="{{asset('/images/b/b-1.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
                             
-                            <a href="/restaurant" class=" mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/pos-restaurant" class=" mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -359,7 +359,7 @@
                                 <img src="{{asset('/images/b/snack.jpg')}}" alt="Caisse Tactile pour Bar" class=" object-cover rounded-3xl">
                             </div>
                     
-                            <a href="/snack" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/pos-snack" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -607,7 +607,7 @@
                                 <img src="{{asset('/images/b/cafe.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
                             
-                                <a href="/cafe" class="mt-6 font-bold text-[#7f2855] flex items-center">
+                                <a href="/pos-cafe" class="mt-6 font-bold text-[#7f2855] flex items-center">
                                     Découvrir
                                     <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -855,7 +855,7 @@
                             <div class="relative overflow-hidden ">
                                 <img src="{{asset('/images/b/salon-de-the.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <a href="/salon-de-the" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/pos-salon-de-the" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -1103,7 +1103,7 @@
                             <div class="relative overflow-hidden ">
                                 <img src="{{asset('/images/b/patisserie.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <a href="/patisserie" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/pos-patisserie" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -1351,7 +1351,7 @@
                             <div class="relative overflow-hidden ">
                                 <img src="{{asset('/images/b/boulangerie.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <a href="/boulangerie" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/pos-boulangerie" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -1599,7 +1599,7 @@
                             <div class="relative overflow-hidden ">
                                 <img src="{{asset('/images/b/boulangerie.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <a href="/boulangerie" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/pos-boulangerie" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -1847,7 +1847,7 @@
                             <div class="relative overflow-hidden ">
                                 <img src="{{asset('/images/b/night-club.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <a href="/night-club" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/pos-pms-night-club" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -2094,7 +2094,7 @@
                             <div class="relative overflow-hidden ">
                                 <img src="{{asset('/images/b/lounge.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <a href="/lounge" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/pos-lounge" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -2341,7 +2341,7 @@
                             <div class="relative overflow-hidden ">
                                 <img src="{{asset('/images/b/bar.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <a href="/bar" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/pos-bar" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -2594,7 +2594,7 @@
                             <div class="relative overflow-hidden ">
                                 <img src="{{asset('/images/b/spa.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <a href="/spa" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/pos-pms-spa" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -2841,7 +2841,7 @@
                             <div class="relative overflow-hidden ">
                                 <img src="{{asset('/images/b/pool.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <a href="/piscine" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/pos-pms-piscine" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -3088,7 +3088,7 @@
                             <div class="relative overflow-hidden ">
                                 <img src="{{asset('/images/b/b-2.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <a href="/hotel" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/pos-pms-hotel" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -3335,7 +3335,7 @@
                             <div class="relative overflow-hidden ">
                                 <img src="{{asset('/images/b/maisondhotes.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <a href="/maison-d-hotes" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/pos-pms-maison-d-hotes" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
@@ -3582,7 +3582,7 @@
                             <div class="relative overflow-hidden ">
                                 <img src="{{asset('/images/b/riad.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
                             </div>
-                            <a href="/riad" class="mt-6 text-[#7f2855] font-bold flex items-center">
+                            <a href="/pos-pms-riad" class="mt-6 text-[#7f2855] font-bold flex items-center">
                                 Découvrir
                                 <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>

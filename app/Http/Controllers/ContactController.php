@@ -11,6 +11,13 @@ class ContactController extends Controller
 {
     public function submit(Request $request)
     {
+        $ip = $request->ip();
+        \Log::info("Contact form submission from IP: $ip");
+        
+        if ($request->honeypot) {
+            return redirect()->back()->withErrors(['honeypot' => 'Invalid form submission']);
+        }
+
         $validated = $request->validate([
             'name' => 'required|max:255',
             'email' => 'required|email|max:255',

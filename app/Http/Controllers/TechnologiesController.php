@@ -59,6 +59,11 @@ class TechnologiesController extends Controller
                 'logo' => '/images/technologies/wpf.png'
             ],
             [
+                'name' => 'Crystal Reports',
+                'description' => "Crystal Reports est un puissant outil de création de rapports, permettant de concevoir des rapports interactifs et professionnels pour les applications d'entreprise.",
+                'logo' => '/images/technologies/crystal-reports.svg',
+            ],
+            [
                 'name' => 'PostgreSQL',
                 'description' => 'PostgreSQL est une base de données relationnelle open-source, réputée pour sa robustesse, ses performances élevées et son extensibilité.',
                 'logo' => '/images/technologies/postgreSql.svg',
@@ -82,6 +87,31 @@ class TechnologiesController extends Controller
                 'name' => 'Laravel',
                 'description' => "Laravel est un framework PHP élégant et robuste, conçu pour simplifier le développement d'applications web modernes et performantes.",
                 'logo' => '/images/technologies/laravel.svg',
+            ],
+            [
+                'name' => 'React',
+                'description' => 'React est une bibliothèque JavaScript populaire pour la construction d\'interfaces utilisateur interactives, principalement pour des applications web dynamiques.',
+                'logo' => '/images/technologies/reactjs.svg',
+            ],
+            [
+                'name' => 'Next.js',
+                'description' => 'Next.js est un framework React open-source qui facilite le rendu côté serveur et la génération de sites statiques pour des performances optimales.',
+                'logo' => '/images/technologies/nextjs.svg',
+            ],
+            [
+                'name' => 'Vue.js',
+                'description' => 'Vue.js est un framework JavaScript progressif utilisé pour construire des interfaces utilisateur interactives et des applications web modernes.',
+                'logo' => '/images/technologies/vuejs.svg',
+            ],
+            [
+                'name' => 'Node.js',
+                'description' => 'Node.js est un environnement d\'exécution JavaScript côté serveur qui permet de créer des applications réseau rapides et évolutives.',
+                'logo' => '/images/technologies/nodejs.svg',
+            ],
+            [
+                'name' => 'Tailwind CSS',
+                'description' => 'Tailwind CSS est un framework CSS utilitaire qui permet de construire des interfaces utilisateurs rapidement avec une grande flexibilité.',
+                'logo' => '/images/technologies/tailwindcss.svg',
             ],
         ];
 

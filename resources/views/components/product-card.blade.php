@@ -1,6 +1,7 @@
 @if($products)
     @foreach($products as $product)
-    <div x-data="{ showModal: false }" class="bg-white rounded-lg shadow-md overflow-hidden relative group">
+    <div x-data="{ showModal: false }" class="bg-white rounded-lg shadow-md overflow-hidden relative group" x-init="() => {
+            $nextTick(() => {showModal = false;}">
         <img src="{{asset($product['image'])}}" alt="Product 1" class="w-full h-48 object-contain">
         <div class="p-4">
             <h2 class="text-xl font-semibold mb-2">{{$product['title']}}</h2>
@@ -9,11 +10,11 @@
         <!-- Quick Review Button (Visible on Hover) -->
         <div class="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
             <button @click="showModal = true" class="bg-white text-black px-4 py-2 rounded hover:bg-gray-200 focus:outline-none focus:ring-2 focus:ring-gray-400">
-                Quick Review
+            Aperçu rapide
             </button>
         </div>
         <!-- Modal -->
-        <div x-show="showModal" class="fixed inset-0 z-50 overflow-y-auto" aria-labelledby="modal-title" role="dialog" aria-modal="true">
+        <div x-show="showModal" x-cloak class="fixed inset-0 z-50 overflow-y-auto" aria-labelledby="modal-title" role="dialog" aria-modal="true" class="fixed inset-0 z-50 overflow-y-auto" aria-labelledby="modal-title" role="dialog" aria-modal="true">
             <div class="flex items-end justify-center min-h-screen pt-4 px-4 pb-20 text-center sm:block sm:p-0">
                 <!-- Background overlay -->
                 <div @click="showModal = false" x-show="showModal" x-transition:enter="ease-out duration-300" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" x-transition:leave="ease-in duration-200" x-transition:leave-start="opacity-100" x-transition:leave-end="opacity-0" class="fixed inset-0 bg-gray-500 bg-opacity-75 transition-opacity" aria-hidden="true"></div>
@@ -72,12 +73,15 @@
                     </div>
                     <div class="bg-gray-50 px-4 py-3 sm:px-6 sm:flex sm:flex-row-reverse">
                         <button @click="showModal = false" type="button" class="w-full inline-flex justify-center rounded-md border border-transparent shadow-sm px-4 py-2 bg-[#7f2855] text-base font-medium text-white hover:bg-[#7f2855]/90 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 sm:ml-3 sm:w-auto sm:text-sm">
-                            Close
+                        Fermer
                         </button>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+    <style>
+        [x-cloak] { display: none !important; }
+    </style>
     @endforeach
 @endIf

@@ -93,6 +93,31 @@ class partenairesController extends Controller
                 'description' => 'Plateforme d\'email marketing pour la création et l\'envoi de campagnes de marketing par email.'
             ],
             [
+                'name' => 'Octorate',
+                'logo' => '/images/partenaires/octorate.svg',
+                'description' => 'Plateforme de gestion d\'hôtels offrant des solutions complètes pour la gestion des réservations et la distribution de chambres.',
+            ],
+            [
+                'name' => 'Ubiquiti',
+                'logo' => '/images/partenaires/ubiquiti.svg',
+                'description' => 'Ubiquiti est un leader dans la conception de solutions de connectivité réseau et d\'infrastructure sans fil de haute performance pour les entreprises et les particuliers.',
+            ],
+            [
+                'name' => 'Booking',
+                'logo' => '/images/partenaires/booking.svg',
+                'description' => 'Booking.com est une plateforme de réservation d\'hébergements en ligne, permettant aux utilisateurs de réserver des hôtels, des appartements et plus encore à travers le monde.',
+            ],
+            [
+                'name' => 'Hostinger',
+                'logo' => '/images/partenaires/hostinger.svg',
+                'description' => 'Fournisseur d\'hébergement web fiable et abordable, offrant des solutions adaptées aux développeurs et aux entreprises.',
+            ],
+            [
+                'name' => 'Namecheap',
+                'logo' => '/images/partenaires/namecheap.svg',
+                'description' => 'Fournisseur de services d\'hébergement web, d\'enregistrement de noms de domaine et de solutions de sécurité en ligne à des prix compétitifs.',
+            ],            
+            [
                 'name' => 'Glovo',
                 'logo' => '/images/partenaires/glovo.svg', // Replace with actual logo URL
                 'description' => 'Service de livraison à la demande, permettant aux utilisateurs de commander des produits de divers commerces et restaurants.'

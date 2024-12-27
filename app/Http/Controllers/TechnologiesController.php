@@ -61,7 +61,7 @@ class TechnologiesController extends Controller
             [
                 'name' => 'Crystal Reports',
                 'description' => "Crystal Reports est un puissant outil de création de rapports, permettant de concevoir des rapports interactifs et professionnels pour les applications d'entreprise.",
-                'logo' => '/images/technologies/crystal-reports.svg',
+                'logo' => '/images/technologies/crystal-reports.png',
             ],
             [
                 'name' => 'PostgreSQL',

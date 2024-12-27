@@ -33,7 +33,7 @@
                 
                 <div class=" rounded-3xl p-8">
                     <img 
-                      src="https://odeo.ma/images/overview/daily-schedule.png" 
+                      src="./images/odeo-shedules.png" 
                       alt="POS Terminal Display" 
                       class="w-full h-auto"
                     />

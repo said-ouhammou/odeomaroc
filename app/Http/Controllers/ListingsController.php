@@ -10,7 +10,11 @@ class ListingsController extends Controller
         
         $listing = $this->getListing($slug);
 
-        return view('listings.listing-details',['listing'=>$listing,'meta'=>$listing['meta']]);
+        if($listing)
+            return view('listings.listing-details',['listing'=>$listing,'meta'=>$listing['meta']]);
+        else 
+            return view('listings.listing-details',['listing'=>[],'meta'=>[]]);
+
     }
 
     public function getListing($slug = null){
@@ -2133,7 +2137,7 @@ class ListingsController extends Controller
             $slug = strtolower($slug);
             $slug = trim($slug);
             foreach($listings as $listing) {
-                if($listing['slug'] == $slug)
+                if($listing['slug'] === $slug)
                     return $listing;
             }
         }

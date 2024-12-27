@@ -70,6 +70,16 @@
                     <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-swimming"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M16 9m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" /><path d="M6 11l4 -2l3.5 3l-1.5 2" /><path d="M3 16.75a2.4 2.4 0 0 0 1 .25a2.4 2.4 0 0 0 2 -1a2.4 2.4 0 0 1 2 -1a2.4 2.4 0 0 1 2 1a2.4 2.4 0 0 0 2 1a2.4 2.4 0 0 0 2 -1a2.4 2.4 0 0 1 2 -1a2.4 2.4 0 0 1 2 1a2.4 2.4 0 0 0 2 1a2.4 2.4 0 0 0 1 -.25" /></svg>
                         Piscine
                 </button>
+                <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" 
+                id="tabs-with-icons-item-16" aria-selected="false" data-hs-tab="#tabs-with-icons-16" aria-controls="tabs-with-icons-16" role="tab">
+                <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-shopping-bag"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M6.331 8h11.339a2 2 0 0 1 1.977 2.304l-1.255 8.152a3 3 0 0 1 -2.966 2.544h-6.852a3 3 0 0 1 -2.965 -2.544l-1.255 -8.152a2 2 0 0 1 1.977 -2.304z" /><path d="M9 11v-5a3 3 0 0 1 6 0v5" /></svg>
+                        Boutique
+                </button>
+                <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" 
+                    id="tabs-with-icons-item-17" aria-selected="false" data-hs-tab="#tabs-with-icons-17" aria-controls="tabs-with-icons-17" role="tab">
+                        <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-wash-machine"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 3m0 2a2 2 0 0 1 2 -2h10a2 2 0 0 1 2 2v14a2 2 0 0 1 -2 2h-10a2 2 0 0 1 -2 -2z" /><path d="M12 14m-4 0a4 4 0 1 0 8 0a4 4 0 1 0 -8 0" /><path d="M8 6h.01" /><path d="M11 6h.01" /><path d="M14 6h2" /><path d="M8 14c1.333 -.667 2.667 -.667 4 0c1.333 .667 2.667 .667 4 0" /></svg>
+                        Pressage
+                </button>
                 <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-13" aria-selected="false" data-hs-tab="#tabs-with-icons-13" aria-controls="tabs-with-icons-13" role="tab">
                     <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-building-skyscraper"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M3 21l18 0" /><path d="M5 21v-14l8 -4v18" /><path d="M19 21v-10l-6 -4" /><path d="M9 9l0 .01" /><path d="M9 12l0 .01" /><path d="M9 15l0 .01" /><path d="M9 18l0 .01" /></svg>
                         Hotel
@@ -82,16 +92,7 @@
                     <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-lamp"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 20h6" /><path d="M12 20v-8" /><path d="M5 12h14l-4 -8h-6z" /></svg>
                     Riad
                 </button>
-                <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" 
-                    id="tabs-with-icons-item-16" aria-selected="false" data-hs-tab="#tabs-with-icons-16" aria-controls="tabs-with-icons-16" role="tab">
-                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-shopping-bag"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M6.331 8h11.339a2 2 0 0 1 1.977 2.304l-1.255 8.152a3 3 0 0 1 -2.966 2.544h-6.852a3 3 0 0 1 -2.965 -2.544l-1.255 -8.152a2 2 0 0 1 1.977 -2.304z" /><path d="M9 11v-5a3 3 0 0 1 6 0v5" /></svg>
-                        Boutique
-                </button>
-                <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" 
-                    id="tabs-with-icons-item-17" aria-selected="false" data-hs-tab="#tabs-with-icons-17" aria-controls="tabs-with-icons-17" role="tab">
-                        <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-wash-machine"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 3m0 2a2 2 0 0 1 2 -2h10a2 2 0 0 1 2 2v14a2 2 0 0 1 -2 2h-10a2 2 0 0 1 -2 -2z" /><path d="M12 14m-4 0a4 4 0 1 0 8 0a4 4 0 1 0 -8 0" /><path d="M8 6h.01" /><path d="M11 6h.01" /><path d="M14 6h2" /><path d="M8 14c1.333 -.667 2.667 -.667 4 0c1.333 .667 2.667 .667 4 0" /></svg>
-                        Pressage
-                </button>
+                
             </nav>
             <div class="swiper-button-next"></div>
             <div class="swiper-button-prev"></div>
@@ -1073,6 +1074,172 @@
                 </div>
             </main>
         </div>
+        <!-- Boutique -->
+        <div id="tabs-with-icons-16" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-16">
+            <!-- Main Content -->
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
+                <div class="flex flex-col lg:flex-row gap-12">
+                    <!-- Left Column -->
+                    <div class="lg:w-1/2  ">
+                        <div class="relative ">
+                            <div class="relative overflow-hidden ">
+                                <img src="{{asset('/images/b/boutique.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
+                            </div>
+                            
+                            <a href="/pos-boutique" class=" mt-6 text-[#7f2855] font-bold flex items-center">
+                                Découvrir
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Right Column -->
+                    <div class="lg:w-1/2 text-black">
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Solution de Caisse Enregistreuse pour Boutiques</h1>
+                        
+                        <p class="text-[#812755] text-lg mb-3">
+                            Optimisez la gestion de votre boutique avec notre solution performante
+                        </p>
+
+                        <p class="text-gray-700 mb-4">
+                            Notre système de caisse enregistreuse pour boutiques est conçu pour gérer vos ventes, stocks, et promotions avec simplicité. Améliorez votre productivité et offrez une expérience d\'achat fluide à vos clients grâce à une interface moderne et intuitive.
+                        </p>
+
+                        <div class="space-y-2">
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                   <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                </div>
+                                <span>
+                                Gestion des ventes en temps réel avec caisse tactile
+                                </span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                </div>
+                                <span>Suivi précis des stocks et des réapprovisionnements</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                </div>
+                                <span>Gestion des promotions et des remises</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                </div>
+                                <span>Rapports de ventes détaillés et analytiques</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                </div>
+                                <span>Interface intuitive adaptée aux commerces de détail</span>
+                            </div>
+                        </div>
+
+                        <x-buttons class="mt-6"/>
+                        </div>
+                </div>
+            </main>
+        </div>
+        <!-- Pressage -->
+        <div id="tabs-with-icons-17" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-17">
+            <!-- Main Content -->
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
+                <div class="flex flex-col lg:flex-row gap-12">
+                    <!-- Left Column -->
+                    <div class="lg:w-1/2  ">
+                        <div class="relative ">
+                            <div class="relative overflow-hidden ">
+                                <img src="{{asset('/images/b/pressing.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
+                            </div>
+                            
+                            <a href="/pos-pressage" class=" mt-6 text-[#7f2855] font-bold flex items-center">
+                                Découvrir
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Right Column -->
+                    <div class="lg:w-1/2 text-black">
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Solution de Caisse Enregistreuse POS pour Pressing et Blanchisserie</h1>
+                        
+                        <p class="text-[#812755] text-lg mb-3">
+                            Une gestion simplifiée et optimisée pour votre pressing
+                        </p>
+
+                        <p class="text-gray-700 mb-4">
+                        Notre caisse enregistreuse POS pour pressing offre des fonctionnalités avancées pour automatiser la prise de commandes, le suivi des articles et la gestion des paiements. Gagnez en efficacité tout en offrant un service client impeccable.
+                        </p>
+
+                        <div class="space-y-2">
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                   <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                </div>
+                                <span>
+                                Gestion des commandes par client et service
+                                </span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                </div>
+                                <span>Organisation des services : lavage, repassage, nettoyage à sec</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                </div>
+                                <span>Notifications pour informer les clients de commandes prêtes</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                </div>
+                                <span>Paiements simplifiés et sécurisés</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                </div>
+                                <span>Suivi des performances avec des rapports détaillés</span>
+                            </div>
+                        </div>
+
+                        <x-buttons class="mt-6"/>
+                        </div>
+                </div>
+            </main>
+        </div>
         <!-- Hotel -->
         <div id="tabs-with-icons-13" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-13">
             <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
@@ -1313,173 +1480,6 @@
                 
             </main>
         </div>
-        <!-- Boutique -->
-        <div id="tabs-with-icons-16" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-16">
-            <!-- Main Content -->
-            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
-                <div class="flex flex-col lg:flex-row gap-12">
-                    <!-- Left Column -->
-                    <div class="lg:w-1/2  ">
-                        <div class="relative ">
-                            <div class="relative overflow-hidden ">
-                                <img src="{{asset('/images/b/b-1.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
-                            </div>
-                            
-                            <a href="/restaurant" class=" mt-6 text-[#7f2855] font-bold flex items-center">
-                                Découvrir
-                                <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
-                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
-                                </svg>
-                            </a>
-                        </div>
-                    </div>
-
-                    <!-- Right Column -->
-                    <div class="lg:w-1/2 text-black">
-                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Solution de Caisse Enregistreuse pour Boutiques</h1>
-                        
-                        <p class="text-[#812755] text-lg mb-3">
-                            Optimisez la gestion de votre boutique avec notre solution performante
-                        </p>
-
-                        <p class="text-gray-700 mb-4">
-                            Notre système de caisse enregistreuse pour boutiques est conçu pour gérer vos ventes, stocks, et promotions avec simplicité. Améliorez votre productivité et offrez une expérience d\'achat fluide à vos clients grâce à une interface moderne et intuitive.
-                        </p>
-
-                        <div class="space-y-2">
-                            <div class="flex items-center gap-4">
-                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                   <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                </div>
-                                <span>
-                                Gestion des ventes en temps réel avec caisse tactile
-                                </span>
-                            </div>
-                            <div class="flex items-center gap-4">
-                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                </div>
-                                <span>Suivi précis des stocks et des réapprovisionnements</span>
-                            </div>
-                            <div class="flex items-center gap-4">
-                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                </div>
-                                <span>Gestion des promotions et des remises</span>
-                            </div>
-                            <div class="flex items-center gap-4">
-                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                </div>
-                                <span>Rapports de ventes détaillés et analytiques</span>
-                            </div>
-                            <div class="flex items-center gap-4">
-                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                </div>
-                                <span>Interface intuitive adaptée aux commerces de détail</span>
-                            </div>
-                        </div>
-
-                        <x-buttons class="mt-6"/>
-                        </div>
-                </div>
-            </main>
-        </div>
-        <!-- Pressage -->
-        <div id="tabs-with-icons-17" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-17">
-            <!-- Main Content -->
-            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
-                <div class="flex flex-col lg:flex-row gap-12">
-                    <!-- Left Column -->
-                    <div class="lg:w-1/2  ">
-                        <div class="relative ">
-                            <div class="relative overflow-hidden ">
-                                <img src="{{asset('/images/b/b-1.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
-                            </div>
-                            
-                            <a href="/restaurant" class=" mt-6 text-[#7f2855] font-bold flex items-center">
-                                Découvrir
-                                <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
-                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
-                                </svg>
-                            </a>
-                        </div>
-                    </div>
-
-                    <!-- Right Column -->
-                    <div class="lg:w-1/2 text-black">
-                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Solution de Caisse Enregistreuse POS pour Pressing et Blanchisserie</h1>
-                        
-                        <p class="text-[#812755] text-lg mb-3">
-                            Une gestion simplifiée et optimisée pour votre pressing
-                        </p>
-
-                        <p class="text-gray-700 mb-4">
-                        Notre caisse enregistreuse POS pour pressing offre des fonctionnalités avancées pour automatiser la prise de commandes, le suivi des articles et la gestion des paiements. Gagnez en efficacité tout en offrant un service client impeccable.
-                        </p>
-
-                        <div class="space-y-2">
-                            <div class="flex items-center gap-4">
-                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                   <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                </div>
-                                <span>
-                                Gestion des commandes par client et service
-                                </span>
-                            </div>
-                            <div class="flex items-center gap-4">
-                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                </div>
-                                <span>Organisation des services : lavage, repassage, nettoyage à sec</span>
-                            </div>
-                            <div class="flex items-center gap-4">
-                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                </div>
-                                <span>Notifications pour informer les clients de commandes prêtes</span>
-                            </div>
-                            <div class="flex items-center gap-4">
-                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                </div>
-                                <span>Paiements simplifiés et sécurisés</span>
-                            </div>
-                            <div class="flex items-center gap-4">
-                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
-                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
-                                    </svg>
-                                </div>
-                                <span>Suivi des performances avec des rapports détaillés</span>
-                            </div>
-                        </div>
-
-                        <x-buttons class="mt-6"/>
-                        </div>
-                </div>
-            </main>
-        </div>
-
     </div>
 </div>
 </div>

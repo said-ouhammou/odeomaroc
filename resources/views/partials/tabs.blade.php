@@ -55,7 +55,7 @@
                         Night club
                 </button>
                 <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-9" aria-selected="false" data-hs-tab="#tabs-with-icons-9" aria-controls="tabs-with-icons-9" role="tab">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="-0.5 -0.5 48 48" id="Bong-Pipe--Streamline-Nasty" height="22" width="22"><desc>Bong Pipe Streamline Icon: https://streamlinehq.com</desc><path d="m42.45666666666667 20.601666666666667 -3.9166666666666665 -3.9166666666666665a0.7833333333333333 0.7833333333333333 0 0 0 -0.7833333333333333 -0.235 0.9478333333333333 0.9478333333333333 0 0 0 -0.5483333333333333 0.5483333333333333l-0.7833333333333333 3.1333333333333333a0.6345000000000001 0.6345000000000001 0 0 0 0.235 0.705l0.235 0.235L36.03333333333333 21.933333333333334l-0.6266666666666667 -0.6266666666666667a0.7833333333333333 0.7833333333333333 0 1 0 -1.0966666666666667 1.0966666666666667l0.6266666666666667 0.6266666666666667L32.11666666666667 25.85a0.28983333333333333 0.28983333333333333 0 0 0 -0.235 -0.07833333333333334c-1.9583333333333333 -1.8016666666666665 -4.778333333333333 -2.7416666666666667 -7.285 -3.525a5.397166666666666 5.397166666666666 0 0 1 -0.6266666666666667 -0.235V4.7h0.7833333333333333a0.7363333333333333 0.7363333333333333 0 0 0 0.7833333333333333 -0.7833333333333333V0.7833333333333333a0.7363333333333333 0.7363333333333333 0 0 0 -0.7833333333333333 -0.7833333333333333H13.708333333333334a0.7363333333333333 0.7363333333333333 0 0 0 -0.7833333333333333 0.7833333333333333v3.1333333333333333a0.7363333333333333 0.7363333333333333 0 0 0 0.7833333333333333 0.7833333333333333h0.7833333333333333v17.468333333333334c-0.235 0.07833333333333334 -0.39166666666666666 0.15666666666666668 -0.6266666666666667 0.235 -2.506666666666667 0.7833333333333333 -5.326666666666666 1.7233333333333334 -7.285 3.525a0.705 0.705 0 0 0 -0.705 0.705 7.363333333333333 7.363333333333333 0 0 0 -1.5666666666666667 4.7c0 6.031666666666667 5.326666666666666 7.676666666666667 9.556666666666667 9.008333333333333a5.397166666666666 5.397166666666666 0 0 1 0.6266666666666667 0.235v1.41l-5.17 3.6816666666666666a0.7833333333333333 0.7833333333333333 0 0 0 -0.31333333333333335 0.8616666666666667 1.0418333333333334 1.0418333333333334 0 0 0 0.7833333333333333 0.47h18.8a0.7363333333333333 0.7363333333333333 0 0 0 0.7833333333333333 -0.7833333333333333 0.7833333333333333 0.7833333333333333 0 0 0 -0.47 -0.705l-5.013333333333334 -3.603333333333333v-1.41c0.235 -0.07833333333333334 0.39166666666666666 -0.15666666666666668 0.6266666666666667 -0.235 4.23 -1.2533333333333334 9.556666666666667 -2.8983333333333334 9.556666666666667 -8.93a7.332 7.332 0 0 0 -1.0966666666666667 -4.073333333333333l3.0549999999999997 -3.0549999999999997 0.6266666666666667 0.6266666666666667a0.7833333333333333 0.7833333333333333 0 0 0 1.0966666666666667 0 0.7833333333333333 0.7833333333333333 0 0 0 0 -1.0966666666666667l-0.6266666666666667 -0.6266666666666667 0.8616666666666667 -0.8616666666666667 0.235 0.235a0.7128333333333333 0.7128333333333333 0 0 0 0.5483333333333333 0.235h0.15666666666666668l3.1333333333333333 -0.7833333333333333a0.9478333333333333 0.9478333333333333 0 0 0 0.5483333333333333 -0.5483333333333333 0.5875 0.5875 0 0 0 -0.15666666666666668 -0.7833333333333333ZM14.491666666666667 1.5666666666666667h9.4v1.5666666666666667h-9.4Zm-0.15666666666666668 22.246666666666666c0.39166666666666666 -0.15666666666666668 0.7833333333333333 -0.235 1.175 -0.39166666666666666a0.7833333333333333 0.7833333333333333 0 0 0 0.5483333333333333 -0.7833333333333333V4.7h6.266666666666667v18.016666666666666a0.94 0.94 0 0 0 0.5483333333333333 0.7833333333333333c0.39166666666666666 0.15666666666666668 0.7833333333333333 0.235 1.175 0.39166666666666666a23.7115 23.7115 0 0 1 5.17 2.0366666666666666H9.165a23.789833333333334 23.789833333333334 0 0 1 5.17 -2.115ZM12.219999999999999 45.43333333333333l3.29 -2.35h7.363333333333333l3.29 2.35Zm20.28833333333333 -14.1c0 4.8566666666666665 -4.073333333333333 6.109999999999999 -8.46 7.52 -0.39166666666666666 0.15666666666666668 -0.7833333333333333 0.235 -1.175 0.39166666666666666a0.7833333333333333 0.7833333333333333 0 0 0 -0.5483333333333333 0.7833333333333333v1.5666666666666667h-6.266666666666667v-1.5666666666666667a0.94 0.94 0 0 0 -0.5483333333333333 -0.7833333333333333c-0.39166666666666666 -0.15666666666666668 -0.7833333333333333 -0.235 -1.175 -0.39166666666666666 -4.386666666666667 -1.41 -8.46 -2.663333333333333 -8.46 -7.52a5.483333333333333 5.483333333333333 0 0 1 1.3316666666666666 -3.9166666666666665h23.421666666666667L20.993333333333332 37.05166666666666a0.7833333333333333 0.7833333333333333 0 0 0 0 1.0966666666666667 0.7833333333333333 0.7833333333333333 0 0 0 1.0966666666666667 0l9.713333333333333 -9.713333333333333a5.483333333333333 5.483333333333333 0 0 1 0.705 2.8983333333333334Zm6.501666666666667 -10.261666666666667 -0.94 -0.94 0.31333333333333335 -1.3316666666666666 1.9583333333333333 1.9583333333333333 -1.3316666666666666 0.31333333333333335Z" fill="#000000" fill-rule="evenodd" stroke-width="1"></path></svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="-0.5 -0.5 48 48" stroke="#7f2855" id="Bong-Pipe--Streamline-Nasty" height="22" width="22"><path d="m42.45666666666667 20.601666666666667 -3.9166666666666665 -3.9166666666666665a0.7833333333333333 0.7833333333333333 0 0 0 -0.7833333333333333 -0.235 0.9478333333333333 0.9478333333333333 0 0 0 -0.5483333333333333 0.5483333333333333l-0.7833333333333333 3.1333333333333333a0.6345000000000001 0.6345000000000001 0 0 0 0.235 0.705l0.235 0.235L36.03333333333333 21.933333333333334l-0.6266666666666667 -0.6266666666666667a0.7833333333333333 0.7833333333333333 0 1 0 -1.0966666666666667 1.0966666666666667l0.6266666666666667 0.6266666666666667L32.11666666666667 25.85a0.28983333333333333 0.28983333333333333 0 0 0 -0.235 -0.07833333333333334c-1.9583333333333333 -1.8016666666666665 -4.778333333333333 -2.7416666666666667 -7.285 -3.525a5.397166666666666 5.397166666666666 0 0 1 -0.6266666666666667 -0.235V4.7h0.7833333333333333a0.7363333333333333 0.7363333333333333 0 0 0 0.7833333333333333 -0.7833333333333333V0.7833333333333333a0.7363333333333333 0.7363333333333333 0 0 0 -0.7833333333333333 -0.7833333333333333H13.708333333333334a0.7363333333333333 0.7363333333333333 0 0 0 -0.7833333333333333 0.7833333333333333v3.1333333333333333a0.7363333333333333 0.7363333333333333 0 0 0 0.7833333333333333 0.7833333333333333h0.7833333333333333v17.468333333333334c-0.235 0.07833333333333334 -0.39166666666666666 0.15666666666666668 -0.6266666666666667 0.235 -2.506666666666667 0.7833333333333333 -5.326666666666666 1.7233333333333334 -7.285 3.525a0.705 0.705 0 0 0 -0.705 0.705 7.363333333333333 7.363333333333333 0 0 0 -1.5666666666666667 4.7c0 6.031666666666667 5.326666666666666 7.676666666666667 9.556666666666667 9.008333333333333a5.397166666666666 5.397166666666666 0 0 1 0.6266666666666667 0.235v1.41l-5.17 3.6816666666666666a0.7833333333333333 0.7833333333333333 0 0 0 -0.31333333333333335 0.8616666666666667 1.0418333333333334 1.0418333333333334 0 0 0 0.7833333333333333 0.47h18.8a0.7363333333333333 0.7363333333333333 0 0 0 0.7833333333333333 -0.7833333333333333 0.7833333333333333 0.7833333333333333 0 0 0 -0.47 -0.705l-5.013333333333334 -3.603333333333333v-1.41c0.235 -0.07833333333333334 0.39166666666666666 -0.15666666666666668 0.6266666666666667 -0.235 4.23 -1.2533333333333334 9.556666666666667 -2.8983333333333334 9.556666666666667 -8.93a7.332 7.332 0 0 0 -1.0966666666666667 -4.073333333333333l3.0549999999999997 -3.0549999999999997 0.6266666666666667 0.6266666666666667a0.7833333333333333 0.7833333333333333 0 0 0 1.0966666666666667 0 0.7833333333333333 0.7833333333333333 0 0 0 0 -1.0966666666666667l-0.6266666666666667 -0.6266666666666667 0.8616666666666667 -0.8616666666666667 0.235 0.235a0.7128333333333333 0.7128333333333333 0 0 0 0.5483333333333333 0.235h0.15666666666666668l3.1333333333333333 -0.7833333333333333a0.9478333333333333 0.9478333333333333 0 0 0 0.5483333333333333 -0.5483333333333333 0.5875 0.5875 0 0 0 -0.15666666666666668 -0.7833333333333333ZM14.491666666666667 1.5666666666666667h9.4v1.5666666666666667h-9.4Zm-0.15666666666666668 22.246666666666666c0.39166666666666666 -0.15666666666666668 0.7833333333333333 -0.235 1.175 -0.39166666666666666a0.7833333333333333 0.7833333333333333 0 0 0 0.5483333333333333 -0.7833333333333333V4.7h6.266666666666667v18.016666666666666a0.94 0.94 0 0 0 0.5483333333333333 0.7833333333333333c0.39166666666666666 0.15666666666666668 0.7833333333333333 0.235 1.175 0.39166666666666666a23.7115 23.7115 0 0 1 5.17 2.0366666666666666H9.165a23.789833333333334 23.789833333333334 0 0 1 5.17 -2.115ZM12.219999999999999 45.43333333333333l3.29 -2.35h7.363333333333333l3.29 2.35Zm20.28833333333333 -14.1c0 4.8566666666666665 -4.073333333333333 6.109999999999999 -8.46 7.52 -0.39166666666666666 0.15666666666666668 -0.7833333333333333 0.235 -1.175 0.39166666666666666a0.7833333333333333 0.7833333333333333 0 0 0 -0.5483333333333333 0.7833333333333333v1.5666666666666667h-6.266666666666667v-1.5666666666666667a0.94 0.94 0 0 0 -0.5483333333333333 -0.7833333333333333c-0.39166666666666666 -0.15666666666666668 -0.7833333333333333 -0.235 -1.175 -0.39166666666666666 -4.386666666666667 -1.41 -8.46 -2.663333333333333 -8.46 -7.52a5.483333333333333 5.483333333333333 0 0 1 1.3316666666666666 -3.9166666666666665h23.421666666666667L20.993333333333332 37.05166666666666a0.7833333333333333 0.7833333333333333 0 0 0 0 1.0966666666666667 0.7833333333333333 0.7833333333333333 0 0 0 1.0966666666666667 0l9.713333333333333 -9.713333333333333a5.483333333333333 5.483333333333333 0 0 1 0.705 2.8983333333333334Zm6.501666666666667 -10.261666666666667 -0.94 -0.94 0.31333333333333335 -1.3316666666666666 1.9583333333333333 1.9583333333333333 -1.3316666666666666 0.31333333333333335Z" fill="#000000" fill-rule="evenodd" stroke-width="1"></path></svg>
                         Lounge
                 </button>
                 <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-10" aria-selected="false" data-hs-tab="#tabs-with-icons-10" aria-controls="tabs-with-icons-10" role="tab">
@@ -79,8 +79,18 @@
                     Maison d'hôte
                 </button>
                 <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" id="tabs-with-icons-item-15" aria-selected="false" data-hs-tab="#tabs-with-icons-15" aria-controls="tabs-with-icons-15" role="tab">
-                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="#7f2855"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-lamp"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 20h6" /><path d="M12 20v-8" /><path d="M5 12h14l-4 -8h-6z" /></svg>
+                <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="#7f2855"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-home"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 12l-2 0l9 -9l9 9l-2 0" /><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" /><path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" /></svg>
                     Riad
+                </button>
+                <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" 
+                id="tabs-with-icons-item-16" aria-selected="false" data-hs-tab="#tabs-with-icons-16" aria-controls="tabs-with-icons-16" role="tab">
+                <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="#7f2855"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-shopping-bag"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M6.331 8h11.339a2 2 0 0 1 1.977 2.304l-1.255 8.152a3 3 0 0 1 -2.966 2.544h-6.852a3 3 0 0 1 -2.965 -2.544l-1.255 -8.152a2 2 0 0 1 1.977 -2.304z" /><path d="M9 11v-5a3 3 0 0 1 6 0v5" /></svg>
+                    Boutique
+                </button>
+                <button style="display: flex !important" type="button" class="swiper-slide hs-tab-active:font-semibold hs-tab-active:border-[#812755] hs-tab-active:text-[#812755] py-4 px-8 border-b-2 border-transparent text-lg whitespace-nowrap text-gray-500 flex items-center justify-center gap-1 hover:text-[#812755] focus:outline-none focus:text-[#812755] disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:text-[#812755]" 
+                id="tabs-with-icons-item-17" aria-selected="false" data-hs-tab="#tabs-with-icons-17" aria-controls="tabs-with-icons-17" role="tab">
+                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="#7f2855"  stroke-width="1.9"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-wash-machine"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 3m0 2a2 2 0 0 1 2 -2h10a2 2 0 0 1 2 2v14a2 2 0 0 1 -2 2h-10a2 2 0 0 1 -2 -2z" /><path d="M12 14m-4 0a4 4 0 1 0 8 0a4 4 0 1 0 -8 0" /><path d="M8 6h.01" /><path d="M11 6h.01" /><path d="M14 6h2" /><path d="M8 14c1.333 -.667 2.667 -.667 4 0c1.333 .667 2.667 .667 4 0" /></svg>
+                    Pressage
                 </button>
             </nav>
             <div class="swiper-button-next"></div>
@@ -3816,6 +3826,564 @@
                                 </div>
                             </div>
                         </div>
+                    </div>
+                </article>
+            </div>
+        </div>
+        <!-- Boutique -->
+        <div id="tabs-with-icons-16" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-16">
+            <!-- Main Content -->
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
+                <div class="flex flex-col lg:flex-row gap-12">
+                    <!-- Left Column -->
+                    <div class="lg:w-1/2  ">
+                        <div class="relative ">
+                            <div class="relative overflow-hidden ">
+                                <img src="{{asset('/images/b/b-1.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
+                            </div>
+                            
+                            <a href="/restaurant" class=" mt-6 text-[#7f2855] font-bold flex items-center">
+                                Découvrir
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Right Column -->
+                    <div class="lg:w-1/2 text-black">
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Solution de Caisse Enregistreuse pour Boutiques</h1>
+                        
+                        <p class="text-[#812755] text-lg mb-3">
+                            Optimisez la gestion de votre boutique avec notre solution performante
+                        </p>
+
+                        <p class="text-gray-700 mb-4">
+                            Notre système de caisse enregistreuse pour boutiques est conçu pour gérer vos ventes, stocks, et promotions avec simplicité. Améliorez votre productivité et offrez une expérience d\'achat fluide à vos clients grâce à une interface moderne et intuitive.
+                        </p>
+
+                        <div class="space-y-2">
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                   <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                </div>
+                                <span>
+                                Gestion des ventes en temps réel avec caisse tactile
+                                </span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                </div>
+                                <span>Suivi précis des stocks et des réapprovisionnements</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                </div>
+                                <span>Gestion des promotions et des remises</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                </div>
+                                <span>Rapports de ventes détaillés et analytiques</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                </div>
+                                <span>Interface intuitive adaptée aux commerces de détail</span>
+                            </div>
+                        </div>
+
+                        <x-buttons class="mt-6"/>
+                        </div>
+                </div>
+            </main>
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            @php
+                                $data = [
+                                    'title' => 'Gestion des Ventes et des Stocks',
+                                    'image' => '/images/products/boutique-stock.png',
+                                    'features' => [
+                                        'Mises à jour automatiques des niveaux de stock après chaque vente',
+                                        'Alertes de réapprovisionnement pour éviter les ruptures',
+                                        'Gestion des articles par catégories, tailles, et couleurs',
+                                        'Codes-barres et scan pour un encaissement rapide'
+                                    ]
+                                ];
+                            @endphp
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                {{ $data['title'] }}
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                @foreach ($data['features'] as $feature)
+                                    <div class="flex gap-4">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                        </svg>
+                                        <p class="text-gray-900 ">
+                                            {{ $feature }}
+                                        </p>
+                                    </div>
+                                @endforeach
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pos.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/pos-o.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2">
+                            @php
+                                $data = [
+                                    'title' => 'Promotion et Fidélisation',
+                                    'image' => '/images/products/boutique-promotion.png',
+                                    'features' => [
+                                        'Création de promotions personnalisées pour booster les ventes',
+                                        'Système de fidélité intégré pour récompenser les clients réguliers',
+                                        'Gestion des remises pour groupes de produits ou clients spécifiques',
+                                        'Suivi des ventes réalisées grâce aux campagnes promotionnelles'
+                                    ]
+                                ];
+                            @endphp
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                {{ $data['title'] }}
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                @foreach ($data['features'] as $feature)
+                                    <div class="flex gap-4">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                        </svg>
+                                        <p class="text-gray-900 ">
+                                            {{ $feature }}
+                                        </p>
+                                    </div>
+                                @endforeach
+                            </div>
+                        </div>
+                    
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            @php
+                                $data = [
+                                    'title' => 'Rapports et Analyses',
+                                    'image' => '/images/products/restaurant-analytics.png',
+                                    'features' => [
+                                        'Rapports de ventes détaillés par plat et par catégorie',
+                                        'Suivi des performances des employés',
+                                        'Analyse des tendances de consommation',
+                                        'Gestion des coûts et marges bénéficiaires'
+                                    ]
+                                ];
+                            @endphp
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                {{ $data['title'] }}
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                @foreach ($data['features'] as $feature)
+                                    <div class="flex gap-4">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                        </svg>
+                                        <p class="text-gray-900 ">
+                                            {{ $feature }}
+                                        </p>
+                                    </div>
+                                @endforeach
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pms.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </div>
+        </div>
+        <!-- Pressage -->
+        <div id="tabs-with-icons-17" class="hidden bg-[#f8f5f2] rounded-xl" role="tabpanel" aria-labelledby="tabs-with-icons-item-17">
+            <!-- Main Content -->
+            <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
+                <div class="flex flex-col lg:flex-row gap-12">
+                    <!-- Left Column -->
+                    <div class="lg:w-1/2  ">
+                        <div class="relative ">
+                            <div class="relative overflow-hidden ">
+                                <img src="{{asset('/images/b/b-1.jpg')}}" alt="Restaurateur" class=" object-cover rounded-3xl">
+                            </div>
+                            
+                            <a href="/restaurant" class=" mt-6 text-[#7f2855] font-bold flex items-center">
+                                Découvrir
+                                <svg class="w-4 h-4 ml-2" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"/>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Right Column -->
+                    <div class="lg:w-1/2 text-black">
+                        <h1 class="text-2xl font-bold mb-4 text-[#812755]">Solution de Caisse Enregistreuse POS pour Pressing et Blanchisserie</h1>
+                        
+                        <p class="text-[#812755] text-lg mb-3">
+                            Une gestion simplifiée et optimisée pour votre pressing
+                        </p>
+
+                        <p class="text-gray-700 mb-4">
+                        Notre caisse enregistreuse POS pour pressing offre des fonctionnalités avancées pour automatiser la prise de commandes, le suivi des articles et la gestion des paiements. Gagnez en efficacité tout en offrant un service client impeccable.
+                        </p>
+
+                        <div class="space-y-2">
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                   <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                </div>
+                                <span>
+                                Gestion des commandes par client et service
+                                </span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                </div>
+                                <span>Organisation des services : lavage, repassage, nettoyage à sec</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                </div>
+                                <span>Notifications pour informer les clients de commandes prêtes</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                </div>
+                                <span>Paiements simplifiés et sécurisés</span>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-6 h-6 bg-white/10 rounded flex items-center justify-center">
+                                    <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                    </svg>
+                                </div>
+                                <span>Suivi des performances avec des rapports détaillés</span>
+                            </div>
+                        </div>
+
+                        <x-buttons class="mt-6"/>
+                        </div>
+                </div>
+            </main>
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            @php
+                                $data = [
+                                    'title' => 'Organisation des Services',
+                                    'image' => '/images/products/pressing-organisation.png',
+                                    'features' => [
+                                        'Enregistrement facile des commandes avec détails spécifiques',
+                                        'Organisation par type de service : lavage, repassage, etc.',
+                                        'Suivi des délais pour garantir un traitement rapide',
+                                        'Gestion des priorités pour commandes urgentes'
+                                    ]
+                                ];
+                            @endphp
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                {{ $data['title'] }}
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                @foreach ($data['features'] as $feature)
+                                    <div class="flex gap-4">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                        </svg>
+                                        <p class="text-gray-900 ">
+                                            {{ $feature }}
+                                        </p>
+                                    </div>
+                                @endforeach
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pos.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/pos-o.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2">
+                            @php
+                                $data = [
+                                    'title' => 'Optimisation des Opérations',
+                                    'image' => '/images/products/pressing-operations.png',
+                                    'features' => [
+                                        'Suivi manuel des étapes de traitement des commandes',
+                                        'Interface intuitive pour un apprentissage rapide',
+                                        'Amélioration de la productivité des employés',
+                                        'Réduction des erreurs dans la gestion des commandes'
+                                    ]
+                                ];
+                            @endphp
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                {{ $data['title'] }}
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                @foreach ($data['features'] as $feature)
+                                    <div class="flex gap-4">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                        </svg>
+                                        <p class="text-gray-900 ">
+                                            {{ $feature }}
+                                        </p>
+                                    </div>
+                                @endforeach
+                            </div>
+                        </div>
+                    
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2">
+                            @php
+                                $data = [
+                                    'title' => 'Rapports et Analyse',
+                                    'image' => '/images/products/pressing-analytics.png',
+                                    'features' => [
+                                        'Rapports de revenus et performances par type de service',
+                                        'Analyse des marges pour maximiser la rentabilité',
+                                        'Suivi des employés et des opérations',
+                                        'Outils d’aide à la prise de décision'
+                                    ]
+                                ];
+                            @endphp
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                {{ $data['title'] }}
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                @foreach ($data['features'] as $feature)
+                                    <div class="flex gap-4">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                        </svg>
+                                        <p class="text-gray-900 ">
+                                            {{ $feature }}
+                                        </p>
+                                    </div>
+                                @endforeach
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/odeo-pms.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <article class="max-w-7xl mx-auto sm:px-6 lg:px-8 pt-8 pb-4">
+                    <div class="flex flex-col lg:flex-row gap-12">
+                        <!-- Left Column -->
+                        <div class="lg:w-1/2 relative">
+                            <div class="relative ">
+                                <img 
+                                    src="/images/products/pos-o.png" 
+                                    alt=""
+                                    class="max-h-[420px] object-cover block mx-auto "
+                                />
+                                <!-- Overlay UI -->
+                                <div class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4">
+                                    <div class="flex items-center justify-between mb-2">
+                                        <span class="font-medium uppercase">caisse enregistreuse</span>
+                                        <span class="bg-[#812755] text-white text-sm mx-2 px-3 py-1 rounded-full">
+                                            Odeo
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- Right Column -->
+                        <div class="lg:w-1/2">
+                            @php
+                                $data = [
+                                    'title' => 'Gestion Simplifiée des Commandes',
+                                    'image' => '/images/products/pressing-orders.png',
+                                    'features' => [
+                                        'Prise en charge des services comme lavage, repassage et nettoyage à sec',
+                                        'Organisation des commandes par client et type de service',
+                                        'Indicateur manuel pour signaler la disponibilité des produits',
+                                        'Gestion des priorités pour les commandes urgentes'
+                                    ]
+                                ];
+                            @endphp
+                            <h1 class="text-[#4a1d34] text-xl lg:text-3xl font-bold mb-6">
+                                {{ $data['title'] }}
+                            </h1>
+                            
+                            <div class="space-y-8">
+                                @foreach ($data['features'] as $feature)
+                                    <div class="flex gap-4">
+                                        <svg class="w-6 h-6 text-red-600 flex-shrink-0" fill="none" stroke="#7f2855" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                        </svg>
+                                        <p class="text-gray-900 ">
+                                            {{ $feature }}
+                                        </p>
+                                    </div>
+                                @endforeach
+                            </div>
+                        </div>
+                    
                     </div>
                 </article>
             </div>

@@ -41,6 +41,10 @@
                         'question' => 'Odeo offre-t-il un panneau d\'intégration pour le gestionnaire de PMS ?',
                         'answer' => 'Oui, Odeo dispose d\'un panneau d\'intégration complet pour les gestionnaires de PMS, permettant une gestion fluide des réservations, des clients et des activités. Ce panneau est conçu pour s\'intégrer facilement avec vos systèmes de gestion existants.'
                     ],
+                    [
+                        'question' => 'Puis-je accéder à Odeo à distance pour consulter des informations telles que le chiffre d\'affaires ?',
+                        'answer' => 'Oui, Odeo propose une application web sécurisée permettant aux utilisateurs autorisés, tels que les gérants ou les responsables, d\'accéder à distance à des informations clés comme le chiffre d\'affaires, les réservations et d\'autres données importantes. Cette fonctionnalité vous permet de suivre les performances de votre établissement en temps réel, où que vous soyez.'
+                    ],
                 ];
                 @endphp
 

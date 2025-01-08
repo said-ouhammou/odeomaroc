@@ -70,7 +70,7 @@ class ListingsController extends Controller
             [
                 "id" => 1,
                 "title" => "Simplifiez la gestion de votre boutique",
-                "slug" => "pos-boutique",
+                "slug" => "caisse-enregistreuse-boutique",
                 "short_description" => "Odeo propose une solution complète pour optimiser la gestion des ventes et des stocks dans votre boutique.",
                 "description" => "Avec Odeo, facilitez la gestion de votre boutique grâce à une caisse intuitive, un suivi des stocks précis et des rapports détaillés pour améliorer vos performances.",
                 "image" => [
@@ -154,7 +154,7 @@ class ListingsController extends Controller
             [
                 "id" => 2,
                 "title" => "Simplifiez la gestion de votre restaurant",
-                "slug" => "pos-restaurant",
+                "slug" => "caisse-enregistreuse-restaurant",
                 "short_description" => "Odeo propose une solution tout-en-un pour la gestion des restaurants, allant des commandes à la facturation.",
                 "description" => "Optimisez la gestion de votre restaurant avec Odeo. Facilitez les prises de commandes, suivez vos stocks en temps réel et améliorez l’expérience client avec des outils modernes et performants.",
                 "image" => [
@@ -275,7 +275,7 @@ class ListingsController extends Controller
             [
                 "id" => 3,
                 "title" => "Optimisez la gestion de votre snack avec Odeo POS",
-                "slug" => "pos-snack",
+                "slug" => "caisse-enregistreuse-snack",
                 "short_description" => "Odeo offre une solution complète pour gérer les commandes, les paiements et le stock dans votre snack, avec une interface simple et rapide.",
                 "description" => "Avec Odeo POS, gérez efficacement les commandes et les paiements dans votre snack. Notre solution vous permet de suivre les ventes, d’optimiser le stock et d’améliorer l’expérience client en toute simplicité.",
                 "image" => [
@@ -393,7 +393,7 @@ class ListingsController extends Controller
             [
                 "id" => 4,
                 "title" => "Simplifiez la gestion de votre bar",
-                "slug" => "pos-bar",
+                "slug" => "caisse-enregistreuse-bar",
                 "short_description" => "Odeo propose des solutions intuitives pour gérer les commandes et les paiements dans les bars.",
                 "description" => "Optimisez la gestion de votre bar grâce à Odeo. Simplifiez les paiements, suivez vos stocks en temps réel, et proposez un service rapide et efficace pour vos clients.",
                 "image" => [
@@ -477,7 +477,7 @@ class ListingsController extends Controller
             [
                 "id" => 5,
                 "title" => "Simplifiez la gestion de votre café",
-                "slug" => "pos-cafe",
+                "slug" => "caisse-enregistreuse-cafe",
                 "short_description" => "Odeo offre des outils performants pour gérer les commandes, les paiements et les stocks de votre café avec facilité.",
                 "description" => "Avec Odeo, concentrez-vous sur la satisfaction de vos clients pendant que nos solutions s'occupent de la gestion de votre café.",
                 "image" => [
@@ -605,7 +605,7 @@ class ListingsController extends Controller
             [
                 "id" => 6,
                 "title" => "Optimisez la gestion de votre salon de thé avec Odeo POS",
-                "slug" => "pos-salon-de-the",
+                "slug" => "caisse-enregistreuse-salon-de-the",
                 "short_description" => "Odeo propose une solution intuitive pour gérer les commandes, les paiements et les stocks dans votre salon de thé, avec une interface conviviale et rapide.",
                 "description" => "Avec Odeo POS, gérez efficacement vos commandes, suivez vos stocks et optimisez les paiements dans votre salon de thé. Notre solution simplifie la gestion tout en offrant une expérience client exceptionnelle.",
                 "image" => [
@@ -735,7 +735,7 @@ class ListingsController extends Controller
             [
                 "id" => 7,
                 "title" => "Simplifiez la gestion de votre pâtisserie",
-                "slug" => "pos-patisserie",
+                "slug" => "caisse-enregistreuse-patisserie",
                 "short_description" => "Odeo propose des outils performants pour optimiser la gestion des commandes, des paiements et des stocks dans votre pâtisserie.",
                 "description" => "Avec Odeo, gérez votre pâtisserie efficacement tout en offrant des produits frais et de qualité à vos clients.",
                 "image" => [
@@ -863,7 +863,7 @@ class ListingsController extends Controller
             [
                 "id" => 8,
                 "title" => "Optimisez la gestion de votre boulangerie",
-                "slug" => "pos-boulangerie",
+                "slug" => "caisse-enregistreuse-boulangerie",
                 "short_description" => "Odeo offre des solutions complètes pour gérer les ventes, les stocks et les commandes dans votre boulangerie.",
                 "description" => "Avec Odeo, automatisez les tâches quotidiennes, réduisez les pertes et améliorez l'expérience client dans votre boulangerie.",
                 "image" => [
@@ -991,7 +991,7 @@ class ListingsController extends Controller
             [
                 "id" => 8,
                 "title" => "Optimisez la gestion de votre fast food avec Odeo POS",
-                "slug" => "pos-fast-food",
+                "slug" => "caisse-enregistreuse-fast-food",
                 "short_description" => "Odeo propose une solution rapide et intuitive pour gérer les commandes, les paiements et les stocks dans votre fast food, tout en améliorant l'efficacité du service.",
                 "description" => "Avec Odeo POS, gérez rapidement les commandes, les paiements et les stocks dans votre fast food. Notre solution facilite la prise de commandes, optimise le temps de service et assure un suivi en temps réel des ventes et des stocks.",
                 "image" => [
@@ -1131,7 +1131,7 @@ class ListingsController extends Controller
             [
                 "id" => 9,
                 "title" => "Transformez votre night club avec Odeo",
-                "slug" => "pos-pms-night-club",
+                "slug" => "caisse-enregistreuse-night-club",
                 "short_description" => "Odeo propose des solutions intuitives pour gérer les commandes et les paiements dans les night clubs.",
                 "description" => "Optimisez l'efficacité de votre night club avec une caisse enregistreuse tactile et des outils de gestion avancés. Suivez vos stocks, vos ventes et gérez vos employés avec simplicité.",
                 "image" => [
@@ -1257,7 +1257,7 @@ class ListingsController extends Controller
             [
                 "id" => 10,
                 "title" => "Transformez votre lounge avec Odeo",
-                "slug" => "pos-lounge",
+                "slug" => "caisse-enregistreuse-lounge",
                 "short_description" => "Odeo propose des solutions intuitives pour gérer les commandes et les paiements dans les lounges.",
                 "description" => "Optimisez la gestion de votre lounge avec une caisse enregistreuse tactile et des outils de gestion avancés. Suivez vos stocks, vos ventes et améliorez l'expérience client grâce à une gestion simplifiée.",
                 "image" => [
@@ -1383,7 +1383,7 @@ class ListingsController extends Controller
             [
                 "id" => 11,
                 "title" => "Optimisez votre service de pressage avec Odeo",
-                "slug" => "pos-pressage",
+                "slug" => "caisse-enregistreuse-pressage",
                 "short_description" => "Odeo propose des solutions simples et efficaces pour gérer vos opérations de pressage, de la commande à la facturation.",
                 "description" => "Améliorez l'efficacité de votre service de pressage avec Odeo. Grâce à une caisse enregistreuse tactile et un outil de gestion des stocks, vous pourrez gérer vos commandes, suivre les stocks de produits chimiques et d'autres consommables, et offrir un service rapide et fiable à vos clients.",
                 "image" => [
@@ -1509,7 +1509,7 @@ class ListingsController extends Controller
             [
                 "id" => 12,
                 "title" => "Optimisez la gestion de votre SPA avec Odeo",
-                "slug" => "pos-pms-spa",
+                "slug" => "systeme-de-gestion-de-propriete-spa",
                 "short_description" => "Odeo offre des solutions simples et efficaces pour gérer vos réservations, paiements et suivi des stocks dans votre SPA.",
                 "description" => "Avec Odeo, gérez efficacement les réservations, le suivi des stocks de produits de soin et d'équipement, et les paiements dans votre SPA. Simplifiez vos opérations tout en offrant une expérience client de qualité.",
                 "image" => [
@@ -1634,7 +1634,7 @@ class ListingsController extends Controller
             [
                 "id" => 13,
                 "title" => "Optimisez la gestion de votre piscine avec Odeo",
-                "slug" => "pos-pms-piscine",
+                "slug" => "systeme-de-gestion-de-propriete-piscine",
                 "short_description" => "Odeo propose une solution simple et efficace pour gérer les réservations, paiements et stocks dans votre piscine.",
                 "description" => "Avec Odeo, gérez facilement les réservations de créneaux horaires, le suivi des paiements, et la gestion des stocks de produits pour votre piscine. Offrez une expérience fluide à vos clients tout en simplifiant vos opérations.",
                 "image" => [
@@ -1759,7 +1759,7 @@ class ListingsController extends Controller
             [
                 "id" => 14,
                 "title" => "Optimisez la gestion de votre hôtel avec Odeo PMS",
-                "slug" => "pos-pms-hotel",
+                "slug" => "systeme-de-gestion-de-propriete-hotel",
                 "short_description" => "Odeo propose une solution complète pour gérer les réservations, paiements et services de votre hôtel avec un système PMS puissant.",
                 "description" => "Avec Odeo PMS, gérez les réservations, les paiements, et les services à la clientèle dans votre hôtel de manière simple et efficace. Suivez les performances de votre établissement et offrez à vos clients une expérience optimale.",
                 "image" => [
@@ -1884,7 +1884,7 @@ class ListingsController extends Controller
             [
                 "id" => 15,
                 "title" => "Optimisez la gestion de votre maison d'hôtes avec Odeo PMS",
-                "slug" => "pos-pms-maison-d-hotes",
+                "slug" => "systeme-de-gestion-de-propriete-maison-d-hotes",
                 "short_description" => "Odeo propose une solution complète pour gérer les réservations, paiements et services dans votre maison d'hôtes grâce à un système PMS facile à utiliser.",
                 "description" => "Avec Odeo PMS, simplifiez la gestion des réservations, des paiements et des services de votre maison d'hôtes. Offrez à vos clients une expérience agréable tout en optimisant les opérations internes.",
                 "image" => [
@@ -2009,7 +2009,7 @@ class ListingsController extends Controller
             [
                 "id" => 10,
                 "title" => "Optimisez la gestion de votre riad avec Odeo PMS",
-                "slug" => "pos-pms-riad",
+                "slug" => "systeme-de-gestion-de-propriete-riad",
                 "short_description" => "Odeo propose une solution complète pour gérer les réservations, paiements et services dans votre riad, avec une interface simple et intuitive.",
                 "description" => "Avec Odeo PMS, transformez la gestion de votre riad en une expérience fluide et sans effort. Suivez les réservations, les paiements, et les services tout en optimisant la gestion des chambres et des clients.",
                 "image" => [

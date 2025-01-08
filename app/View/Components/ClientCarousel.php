@@ -84,6 +84,32 @@ class ClientCarousel extends Component
             ["src"=>"/images/clients/company-61.png","alt"=>""],
             ["src"=>"/images/clients/company-62.png","alt"=>""],
             ["src"=>"/images/clients/company-63.png","alt"=>""],
+            ["src"=>"/images/clients/company-64.png","alt"=>""],
+            ["src"=>"/images/clients/company-65.png","alt"=>""],
+            ["src"=>"/images/clients/company-66.png","alt"=>""],
+
+            ["src"=>"/images/newclients/c-1.png","alt"=>""],
+            ["src"=>"/images/newclients/c-2.png","alt"=>""],
+            ["src"=>"/images/newclients/c-3.png","alt"=>""],
+            ["src"=>"/images/newclients/c-4.png","alt"=>""],
+            ["src"=>"/images/newclients/c-5.png","alt"=>""],
+            ["src"=>"/images/newclients/c-6.png","alt"=>""],
+            ["src"=>"/images/newclients/c-7.png","alt"=>""],
+            ["src"=>"/images/newclients/c-8.png","alt"=>""],
+            ["src"=>"/images/newclients/c-9.png","alt"=>""],
+            ["src"=>"/images/newclients/c-10.png","alt"=>""],
+            ["src"=>"/images/newclients/c-11.png","alt"=>""],
+            ["src"=>"/images/newclients/c-12.png","alt"=>""],
+
+            // ["src"=>"/images/newclients/c-13.png","alt"=>""],
+            // ["src"=>"/images/newclients/c-14.png","alt"=>""],
+            // ["src"=>"/images/newclients/c-15.png","alt"=>""],
+            // ["src"=>"/images/newclients/c-16.png","alt"=>""],
+            // ["src"=>"/images/newclients/c-17.png","alt"=>""],
+            // ["src"=>"/images/newclients/c-18.png","alt"=>""],
+            // ["src"=>"/images/newclients/c-19.png","alt"=>""],
+            // ["src"=>"/images/newclients/c-20.png","alt"=>""],
+            // ["src"=>"/images/newclients/c-21.png","alt"=>""],
         ];
         return view('components.client-carousel',['clientLogos'=>$clientLogos]);
     }

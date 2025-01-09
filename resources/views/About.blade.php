@@ -17,7 +17,7 @@
                 </figcaption>
             </figure>
             <img 
-              src="{{asstes('/images/s/ab.png')}}" 
+              src="{{asset('/images/s/ab.png')}}" 
               alt="POS Terminal Display" 
               class="w-full h-[385px] object-contain rounded-3xl order-1 lg:order-2"
             />
@@ -27,7 +27,7 @@
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-20">
           <div class="grid lg:grid-cols-2 gap-12 items-start">
                   <img 
-                    src="{{assets('/images/odeo-schedule.png')}}" 
+                    src="{{asset('/images/odeo-shedules.png')}}" 
                     alt="POS Terminal Display" 
                     class="w-full max-h-[500px] object-cover"
                   />

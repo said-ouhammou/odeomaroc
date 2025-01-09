@@ -1,10 +1,11 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\ListingsController;
+use App\Http\Controllers\BlogController;
 use App\Http\Controllers\ContactController;
-use App\Http\Controllers\TechnologiesController;
+use App\Http\Controllers\ListingsController;
 use App\Http\Controllers\partenairesController;
+use App\Http\Controllers\TechnologiesController;
 
 Route::get('/', function () {
     $meta = [
@@ -276,6 +277,7 @@ Route::get('/contact', function () {
     return view('contact',['meta'=>$meta]);
 });
 
+
 Route::get('/technologies', [TechnologiesController::class, 'technologies']);
 Route::get('/partenaires', [partenairesController::class, 'partenairesList']);
 Route::get('/plan-du-site', function () {
@@ -283,5 +285,7 @@ Route::get('/plan-du-site', function () {
 });
 
 Route::get('/{slug}', [ListingsController::class,'index']);
+Route::get('/articles/{slug}', [BlogController::class, 'index']);
+
 Route::post('/contact', [ContactController::class, 'submit'])->name('contact.submit');
 

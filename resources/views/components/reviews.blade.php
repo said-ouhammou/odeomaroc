@@ -20,9 +20,13 @@
 
 
 <!-- Swiper -->
-<div class="max-w-7xl mx-auto px-4 py-8 bg-[#f8f5f2]">
-    <div class="pb-4">
-        <div class="swiper mySwiper">
+<div class="py-8 bg-[#f8f5f2]">
+    <div class="pb-4  w-full max-w-[85rem] px-4 mt-auto mx-auto sm:px-6 lg:px-8">
+        <h1 class="text-gray-700 text-md sm:text-lg md:text-2xl font-bold leading-tight">
+            Ce Que Nos Clients Disent de Nous
+        </h1>
+        <p class="pt-2 pb-6 text-lg text-gray-600">Des témoignages authentiques qui reflètent notre engagement envers la qualité.</p>
+        <div class="swiper mySwiper py-6">
             <div class="swiper-wrapper">
                 @if ($reviews)
                     @foreach ($reviews as $review)

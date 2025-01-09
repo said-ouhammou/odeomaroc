@@ -11,6 +11,8 @@
   <x-cards/>
   {{-- support --}}
   <x-support-com/>
+  {{-- blogs --}}
+  @include('partials.blogs')
   {{-- reviews --}}
   <x-reviews/>
 </x-layout>

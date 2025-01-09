@@ -1,5 +1,5 @@
 <section class="bg-[#f8f5f2] py-6">
-    <div class="container mx-auto px-4 sm:px-10">
+    <div class="w-full max-w-[85rem] px-4 mt-auto mx-auto sm:px-6 lg:px-8">
         <div class="grid md:grid-cols-2 gap-4 items-center justify-items-center ">
             
             <div class="w-full max-w-xl bg-white border border-gray-200 rounded-3xl dark:bg-gray-800 dark:border-gray-700 overflow-hidden">
@@ -9,7 +9,7 @@
                     </div>
                     <div class="p-4">
                             <h5 class="mb-2 text-xl font-semibold tracking-tight text-[#812755] dark:text-white">Le système de point de vente (POS) pour les entreprises</h5>
-                       
+
                         <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">Optimisez vos transactions et la gestion de votre entreprise avec un système POS intuitif, rapide et fiable, conçu pour améliorer l'efficacité opérationnelle.</p>
                         <p class="inline-flex font-medium items-center text-[#812755] hover:underline">
                             En savoir plus

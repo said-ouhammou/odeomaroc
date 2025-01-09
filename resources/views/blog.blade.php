@@ -54,8 +54,8 @@
                     <aside class="space-y-8">
                         <div class="bg-[#4a1d34] text-[#f9f5f2] p-6 rounded-lg shadow-lg">
                             <h3 class="text-xl font-semibold mb-4">À propos de l'agence Odeo</h3>
-                            <p class="mb-6">Nous sommes spécialisés dans la fourniture de solutions PMS et POS innovantes pour les entreprises de l'industrie hôtelière. Notre équipe d'experts se consacre à vous aider à rationaliser vos opérations et à améliorer l'expérience de vos clients.</p>
-                            <a href="#" class="block w-full text-center bg-[#f9f5f2] text-[#4a1d34] font-semibold py-2 px-4 rounded hover:bg-opacity-90 transition duration-300">En savoir plus</a>
+                            <p class="mb-6">Nous sommes une agence basée à Marrakech, spécialisée dans la vente de systèmes POS et PMS modernes. Notre mission est d’aider les entreprises marocaines à optimiser leur gestion et améliorer leur efficacité grâce à des solutions technologiques innovantes adaptées à leurs besoins.</p>
+                            <a href="/a-propos" class="block w-full text-center bg-[#f9f5f2] text-[#4a1d34] font-semibold py-2 px-4 rounded hover:bg-opacity-90 transition duration-300">En savoir plus</a>
                         </div>
                         <div class="bg-white p-6 rounded-lg shadow-lg">
                             <h3 class="text-xl font-semibold mb-4">Plus d'articles</h3>

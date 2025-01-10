@@ -6,7 +6,7 @@ use Closure;
 use Illuminate\Contracts\View\View;
 use Illuminate\View\Component;
 
-class ClientCarousel extends Component
+class ClientsGrid extends Component
 {
     /**
      * Create a new component instance.
@@ -111,6 +111,7 @@ class ClientCarousel extends Component
             ["src"=>"/images/newclients/c-20.png","alt"=>""],
             ["src"=>"/images/newclients/c-21.png","alt"=>""],
         ];
-        return view('components.client-carousel',['clientLogos'=>$clientLogos]);
+
+        return view('components.clients-grid',['clientLogos'=>$clientLogos]);
     }
 }

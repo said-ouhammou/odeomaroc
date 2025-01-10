@@ -156,7 +156,7 @@ class BlogController extends Controller
                 <p class="mb-4">
                 Dans le monde des affaires moderne, la technologie joue un rôle clé dans l'amélioration des performances des entreprises, quel que soit leur secteur d'activité. L'un des outils les plus importants pour optimiser la gestion des transactions et des opérations est le système de caisse enregistreuse (POS). Que vous soyez propriétaire d'un commerce de détail, d'un restaurant ou d'une hôtel, l'intégration d’un système POS est désormais indispensable pour rester compétitif. Dans cet article, nous explorerons les raisons pour lesquelles vous devriez adopter un système POS dans votre entreprise.
                 </p>
-                <h3 class="text-2xl font-semibold mb-4">Une gestion des transactions simplifiée</h3>
+                <h4 class="text-md font-bold text-[#7f2855] py-1">Une gestion des transactions simplifiée</h4>
                 <p class="mb-4">
                 L'un des principaux avantages d'un système POS est la facilité avec laquelle il gère les transactions. Un logiciel de caisse enregistreuse moderne permet non seulement de traiter les paiements plus rapidement, mais aussi de suivre automatiquement les ventes, ce qui réduit les erreurs humaines. Que vous utilisiez une caisse enregistreuse tactile, une caisse enregistreuse avec logiciel ou une caisse enregistreuse connectée, l'intégration de ces technologies vous garantit un processus de paiement fluide et rapide, ce qui améliore l'expérience client.
                 </p>
@@ -275,7 +275,8 @@ class BlogController extends Controller
                 <h2 class="text-xl font-bold text-[#7f2855] py-6">
                 Les avantages des systèmes POS pour les entreprises
                 </h2>
-                <h3 class="text-2xl font-semibold mb-4">Une gestion des transactions simplifiée</h3>
+                <h4 class="text-md font-bold text-[#7f2855] py-1">Une gestion des transactions simplifiée</h4>
+
                 <p class="mb-4">
                 Les systèmes POS modernes permettent de gérer les transactions de manière rapide et efficace. Ils éliminent les erreurs humaines grâce à l’automatisation et facilitent le suivi des ventes en temps réel. Que ce soit pour une boutique, un restaurant ou une pharmacie, un système POS assure un processus de paiement fluide, améliorant ainsi l'expérience client.
                 </p>

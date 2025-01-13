@@ -98,7 +98,7 @@ class ClientsGrid extends Component
                 "repAvatar" => "/images/ex/mammia.jpg"
             ],
             [
-                "src"=>"/images/clients/company-87.png","alt"=>"",
+                "src"=>"/images/clients/company-89.png","alt"=>"",
                 "rating" => 5,
                 "projectDetails" => "Implementation of a complete POS solution for retail operations.",
                 "shortReview" => "Odeo helped streamline our retail operations.",
@@ -186,14 +186,6 @@ class ClientsGrid extends Component
                 "repAvatar" => "/images/ex/opaname.jpg"
             ],
             [
-                "src"=>"/images/clients/company-16.png","alt"=>"",
-                "rating" => 5,
-                "projectDetails" => "Implementation of a complete POS solution for retail operations.",
-                "shortReview" => "Odeo helped streamline our retail operations.",
-                "fullReview" => "We partnered with Odeo to implement a POS solution, and the results were outstanding. Transactions are now faster, and stock management is a breeze. Highly recommend them!",
-                "repAvatar" => "/images/ex/opaname.jpg"
-            ],
-            [
                 "src"=>"/images/clients/company-17.png","alt"=>"",
                 "rating" => 5,
                 "projectDetails" => "Implementation of a complete POS solution for retail operations.",
@@ -225,14 +217,15 @@ class ClientsGrid extends Component
                 "fullReview" => "We partnered with Odeo to implement a POS solution, and the results were outstanding. Transactions are now faster, and stock management is a breeze. Highly recommend them!",
                 "repAvatar" => "/images/ex/.jpg"
             ],
+            
             [
-                "src"=>"/images/clients/company-89.png","alt"=>"",
+                "src"=>"/images/clients/company-87.png","alt"=>"",
                 "rating" => 5,
                 "projectDetails" => "Implementation of a complete POS solution for retail operations.",
                 "shortReview" => "Odeo helped streamline our retail operations.",
                 "fullReview" => "We partnered with Odeo to implement a POS solution, and the results were outstanding. Transactions are now faster, and stock management is a breeze. Highly recommend them!",
                 "repAvatar" => "/images/ex/.jpg"
-            ],
+            ],            
             [
                 "src"=>"/images/clients/company-90.png","alt"=>"",
                 "rating" => 5,
@@ -256,6 +249,14 @@ class ClientsGrid extends Component
                 "shortReview" => "Odeo helped streamline our retail operations.",
                 "fullReview" => "We partnered with Odeo to implement a POS solution, and the results were outstanding. Transactions are now faster, and stock management is a breeze. Highly recommend them!",
                 "repAvatar" => "/images/ex/palais.jpg"
+            ],
+            [
+                "src"=>"/images/clients/company-16.png","alt"=>"",
+                "rating" => 5,
+                "projectDetails" => "Implementation of a complete POS solution for retail operations.",
+                "shortReview" => "Odeo helped streamline our retail operations.",
+                "fullReview" => "We partnered with Odeo to implement a POS solution, and the results were outstanding. Transactions are now faster, and stock management is a breeze. Highly recommend them!",
+                "repAvatar" => "/images/ex/opaname.jpg"
             ],
             [
                 "src"=>"/images/clients/company-21.png","alt"=>"",

@@ -284,8 +284,44 @@ Route::get('/plan-du-site', function () {
     return view('site-map');
 });
 
+Route::get('/nos-clients', function () {
+    $meta = [
+        // Meta Tags
+        "title" => "Odeo - Contactez-Nous",
+        "description" => "Odeo - Contactez notre équipe pour toute question ou demande concernant nos solutions POS et PMS au Maroc. Nous sommes là pour vous aider à choisir la meilleure solution pour votre entreprise.",
+        "keywords" => "Odeo, contact, support, solutions POS, solutions PMS, assistance, service client Maroc, contact Odeo Systems",
+        "robots" => "index, follow", 
+        "author" => "Odeo Systems",
+    
+        // Open Graph Meta Tags
+        "graph" => [
+            "title" => "Odeo - Contactez-Nous",
+            "description" => "Odeo - Contactez notre équipe pour toute question ou demande concernant nos solutions POS et PMS au Maroc. Nous sommes là pour vous aider à choisir la meilleure solution pour votre entreprise.",
+            "image" => "/images/s/ss.jpg",
+            "url" => "https://www.odeo.ma/contact", 
+            "type" => "website", 
+            "locale" => "fr_FR", 
+            "site_name" => "Odeo Systems", 
+        ],
+    
+        // Twitter Meta Tags
+        "twitter" => [
+            "card" => "summary_large_image", 
+            "title" => "Odeo - Contactez-Nous",
+            "description" => "Odeo - Contactez notre équipe pour toute question ou demande concernant nos solutions POS et PMS au Maroc. Nous sommes là pour vous aider à choisir la meilleure solution pour votre entreprise.",
+            "image" => "/images/s/ss.jpg",
+            "site" => "@OdeoSystems", 
+        ],
+    ];
+    
+
+    return view('customers',['meta'=>$meta]);
+});
+
 Route::get('/{slug}', [ListingsController::class,'index']);
 Route::get('/articles/{slug}', [BlogController::class, 'index']);
+
+
 
 Route::post('/contact', [ContactController::class, 'submit'])->name('contact.submit');
 
